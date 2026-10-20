@@ -1,0 +1,37 @@
+{
+  "dataset": "GeoBenchmark-NPEE",
+  "source_repository": "https://huggingface.co/datasets/daven3/geobench",
+  "source_file": "geobenchmark_npee.json",
+  "source_sha256": "5bead0c4011fe12d97b3e64348d97157f26beada829a0acbbe9417dd1daffb53",
+  "classification": {
+    "objective": [
+      "choice",
+      "completion",
+      "tf"
+    ],
+    "subjective": [
+      "noun",
+      "qa",
+      "discussion"
+    ]
+  },
+  "counts": {
+    "total": 1408,
+    "objective": 466,
+    "subjective": 942,
+    "by_type": {
+      "choice": 182,
+      "completion": 150,
+      "tf": 134,
+      "noun": 454,
+      "qa": 153,
+      "discussion": 335
+    }
+  },
+  "outputs_sha256": {
+    "objective.json": "a8c24b06a5de24327c76cc88b14face07700dc494474986b31c687094d9de705",
+    "objective.jsonl": "6dcf4e6e37a482bed30a4f5de60085af8547ff0a773a524f6236b4c7a8327e0c",
+    "subjective.json": "a7759f6d1bab7ac2b64116c0958a52c1cc5f304a0d3ad06aa7101ec6d468e864",
+    "subjective.jsonl": "0cb671f1defe4a3aba5c5fb9583ce77b3556f2f2581ba694266a6f4c0183ebc3"
+  }
+}

@@ -1,0 +1,26 @@
+
+- “models/”：仅包含四套最终适配器和基座模型下载脚本。
+- “models/adapters/”：Qwen2.5-1.5B、Qwen2.5-7B、InternLM2.5-1.8B、Randeng-T5-784M-QA-Chinese 的最终 LoRA/QLoRA 适配器及匹配 tokenizer 文件。
+- “models/download_scripts/”：四个基座模型的下载脚本；下载后的模型写入对应训练目录的 “base_models/”。
+- “training/”：四种模型的数据划分、微调、生成与自动评测代码。
+- “training/qwen1_5b_lora/”：Qwen2.5-1.5B 的固定划分、LoRA 微调、生成评测和前后指标比较代码。
+- “training/qwen7b_lora/”：Qwen2.5-7B 的固定划分、QLoRA 微调、生成评测和前后指标比较代码。
+- “training/internlm2_5_1_8b_lora/”：InternLM2.5-1.8B 的固定划分、LoRA 微调、生成评测和前后指标比较代码。
+- “training/randeng_t5_784m_qa_chinese_lora/”：Randeng-T5-784M-QA-Chinese 的固定划分、三轮 LoRA 微调、生成评测、NPEE 评测和前后指标比较代码。
+- 各训练目录中的 “src/prepare_data.py”：建立随机种子 42 下的 90%/5%/5% 固定划分，并写入划分清单。
+- 各训练目录中的 “src/train_lora.py”：加载相应基座模型并执行 LoRA 或 QLoRA 微调。
+- 各训练目录中的 “src/evaluate_generation.py”：生成预测，并计算 BLEU-1~4、ROUGE-1/2/L、Distinct-1/2、Token-F1 和 EM。
+- 各训练目录中的 “src/compare_metrics.py”：汇总微调前后自动指标及其差值。
+- 各训练目录中的 “src/common.py”：训练和评测共用的数据读取、随机种子、提示词和原子写入函数。
+- 各训练目录中的 “configs/*.json”：模型、数据、输出位置和训练超参数。
+- 各训练目录中的 “run_pipeline.sh”：从数据划分到基座评测、微调、微调后评测和指标对比的顺序脚本。
+- “datasets/GeoQA-train/”：GeoQA 指令微调原始 JSON 数据集。
+- “datasets/GeoQABench/”：GeoQABench 分领域测试题数据。
+- “datasets/NPEEBench/”：NPEE 的主观题和客观题测试集、划分清单及数据划分脚本。
+- “evaluation/npee/evaluate_npee.py”：NPEE 主观题的 BLEU/ROUGE 等文本指标，以及选择题、判断题准确率和填空题文本指标的统一计算代码。
+- “evaluation/npee/normalize_and_rescore.py”：NPEE 客观题输出归一化并重新计算题型准确率的代码。
+- “evaluation/npee/summarize_before_after.py”：汇总 NPEE 微调前后结果的代码。
+- “evaluation/semantic_similarity.py”：基于句向量与余弦近邻检索的语义相似度检查代码，输出达到阈值的题对。
+- “evaluation/llm_as_judge/prompt.txt”：GPT-5.5 地理问答 LLM-as-judge 的固定评分提示词。
+- “evaluation/llm_as_judge/llm_as_judge_gpt55.py”：读取预测 JSONL、调用 GPT-5.5、校验仅含一位小数总分的输出，并支持断点续评。
+- “requirements.txt”：训练、自动指标、NPEE、语义相似度和 LLM-as-judge 所需的 Python 依赖。

@@ -1,0 +1,16 @@
+accelerate
+bitsandbytes
+datasets
+faiss-cpu
+huggingface_hub
+jieba
+liger-kernel
+nltk
+numpy
+openai
+peft
+rouge-chinese
+sentence-transformers
+sentencepiece
+torch
+transformers
