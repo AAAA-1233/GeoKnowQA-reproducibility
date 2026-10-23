@@ -5,14 +5,10 @@ import argparse
 import hashlib
 import json
 import random
-import re
 from collections import Counter
 from pathlib import Path
 
-from common import atomic_write_json
-
-
-INSTRUCTION_PREFIX_RE = re.compile(r"^\s*\u6df1\u5ea6\u89e3\u8bfb\s*[：:]\s*")
+WATERMARK = "深度解读"
 
 
 def parse_args() -> argparse.Namespace:
@@ -43,6 +39,7 @@ def main() -> None:
         raise SystemExit(f"Refusing to replace fixed split: {manifest_path}. Use --overwrite explicitly.")
 
     rows: list[dict] = []
+    excluded_watermark = 0
     field_counts: Counter[str] = Counter()
     source_counts: Counter[str] = Counter()
     for source_path in sorted(input_dir.glob("*.json"), key=lambda p: p.name):
@@ -53,8 +50,13 @@ def main() -> None:
         for source_index, raw in enumerate(source_rows):
             if not isinstance(raw, dict):
                 raise ValueError(f"Expected object at {source_path}:{source_index}")
+            # Omit the complete record when any supervised text field contains
+            # the watermark; do not retain partially cleaned examples.
+            if any(WATERMARK in str(raw.get(key, "")) for key in ("instruction", "input", "output", "system")):
+                excluded_watermark += 1
+                continue
             row = {k: str(raw.get(k, "")) for k in ("instruction", "input", "output", "system")}
-            row["instruction"] = INSTRUCTION_PREFIX_RE.sub("", row["instruction"], count=1).strip()
+            row["instruction"] = row["instruction"].strip()
             if not row["instruction"].strip() or not row["output"].strip():
                 raise ValueError(f"Empty instruction/output at {source_path}:{source_index}")
             row["id"] = hashlib.sha256(f"{source_path.name}:{source_index}".encode()).hexdigest()[:20]
@@ -98,7 +100,11 @@ def main() -> None:
         "source_counts": dict(source_counts),
         "observed_fields": dict(field_counts),
     }
-    atomic_write_json(manifest_path, manifest)
+    manifest["watermark_policy"] = f"exclude full record if any text field contains {WATERMARK!r}"
+    manifest["excluded_watermark_records"] = excluded_watermark
+    temp = manifest_path.with_suffix(".tmp")
+    temp.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temp.replace(manifest_path)
     print(json.dumps(manifest, ensure_ascii=False, indent=2))
 
 

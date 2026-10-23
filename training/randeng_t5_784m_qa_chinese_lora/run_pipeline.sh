@@ -7,7 +7,7 @@ PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
 if [[ ! -f data/splits_seed42/manifest.json ]]; then
-  python src/prepare_data.py \
+  python ../shared/prepare_data.py \
     --input-dir "../../datasets/GeoQA-train" \
     --output-dir data/splits_seed42 \
     --seed 42

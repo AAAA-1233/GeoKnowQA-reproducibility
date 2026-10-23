@@ -11,7 +11,7 @@ GRAD_ACC_STEPS="${GRAD_ACC_STEPS:-8}"
 EVAL_BATCH_SIZE="${EVAL_BATCH_SIZE:-32}"
 
 if [[ ! -f data/splits_seed42/manifest.json ]]; then
-  python src/prepare_data.py \
+  python ../shared/prepare_data.py \
     --input-dir "../../datasets/GeoQA-train" \
     --output-dir data/splits_seed42 \
     --seed 42
