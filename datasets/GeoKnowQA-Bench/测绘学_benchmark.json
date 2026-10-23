@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "光学测绘仪器的开端是下列哪一项发明？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "传统大地测量学中，几何法和物理法的主要区别在于？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "简答题",
     "question": "简述测绘学确定地球形状和大小的主要方法。",
@@ -51,7 +51,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "简答题",
     "question": "简述测绘学中测量数据误差的主要来源。",
@@ -67,7 +67,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于虚拟现实模型技术主要组成部分的说法，正确的有哪几项？（多选）",
@@ -83,7 +83,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "简答题",
     "question": "简述卫星重力探测技术研究地球重力场的主要观测方式。",
@@ -100,7 +100,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "大地测量坐标系统根据原点位置不同分为哪两种类型？",
@@ -116,7 +116,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "大地测量常数按属性可以分为哪两类？",
@@ -132,7 +132,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：椭球的短半轴b是通过地球赤道半径a和第一偏心率e计算得出的，计算公式为b = a√(1 − e²)。",
@@ -142,7 +142,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：北京1954坐标系统和西安1980坐标系统都采用相同的参考椭球。",
@@ -152,7 +152,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "GRS80定义的大地测量基本常数包括下列哪一组？",
@@ -168,7 +168,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国GPS2000网是基于下列哪一坐标系统构建的？",
@@ -184,7 +184,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列哪些技术被用于实现国际地面参考框架（ITRF）？（多选）",
@@ -200,7 +200,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国1985国家高程基准的水准原点高程是多少？",
@@ -216,7 +216,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释高程基准的含义。",
@@ -232,7 +232,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释大地测量坐标框架的含义。",
@@ -249,7 +249,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于深度基准面在海洋测量中作用的说法，正确的有哪几项？（多选）",
@@ -265,7 +265,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国的高程系统采用的是什么系统？",
@@ -281,7 +281,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于深度基准面在不同国家确定方法的说法，正确的有哪几项？（多选）",
@@ -297,7 +297,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于国家重力测量框架的组成，正确的有哪几项？（多选）",
@@ -313,7 +313,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国在1956年前后分别采用了哪种深度基准面？",
@@ -329,7 +329,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于我国重力基准从20世纪50年代至本世纪初发展变化的说法，正确的有哪几项？（多选）",
@@ -345,7 +345,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：平面控制测量的主要目的是完成点位（坐标）的传递和控制。",
@@ -355,7 +355,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "简答题",
     "question": "简述高程控制网确定各水准点高程的主要步骤。",
@@ -372,7 +372,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于地面大地控制网分类的说法，正确的有哪几项？（多选）",
@@ -388,7 +388,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于国家大地控制网布设原则的说法，正确的有哪几项？（多选）",
@@ -404,7 +404,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于平面控制测量精度等级的说法，正确的有哪几项？（多选）",
@@ -420,7 +420,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列哪些属于点位传递常用的测量方法？（多选）",
@@ -436,7 +436,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "在平面控制测量中，用于测量水平角和垂直角的主要仪器是哪一项？",
@@ -452,7 +452,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：通过比较利用不同已知点对推算的待定点坐标差值，可以评估测量精确度。",
@@ -462,7 +462,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国平面控制网的起始边大多采用什么工具进行测量？",
@@ -478,7 +478,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "下列关于国家平面控制网中一等三角锁系主要作用的描述，正确的是哪一项？",
@@ -494,7 +494,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "国家水准网分为哪几个等级？",
@@ -510,7 +510,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于国家高程控制网主要目的的表述，正确的有哪几项？（多选）",
@@ -526,7 +526,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "水准测量的主要设备有哪些？（多选）",
@@ -542,7 +542,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "大地水准面与地球椭球面之间的垂直距离被称为什么？",
@@ -558,7 +558,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "国家重力测量框架主要由哪两种测量方法建立？",
@@ -574,7 +574,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释大地线的含义。",
@@ -591,7 +591,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释法截线的含义。",
@@ -607,7 +607,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于一等水准网与二、三等水准网区别的说法，正确的有哪几项？（多选）",
@@ -623,7 +623,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：绝对重力测量直接测定空间点的绝对重力值，而相对重力测量测定两点之间的重力差值。",
@@ -633,7 +633,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "下列关于大地测量主题正算问题的描述，正确的是哪一项？",
@@ -649,7 +649,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于高斯-克吕格投影要求的说法，正确的有哪几项？（多选）",
@@ -665,7 +665,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国地形图的分带标准中，对于比例尺大于或等于1:1万的地形图采用哪种分带方式？",
@@ -681,7 +681,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：高斯投影中分带的主要目的是控制角度变形。",
@@ -691,7 +691,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释地球重力场的含义。",
@@ -709,7 +709,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "海洋和航空重力测量中，相对重力仪面临的主要干扰因素是什么？",
@@ -725,7 +725,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "卫星重力测量技术中，SST-hl与SST-ll的主要区别在于下列哪一项？",
@@ -741,7 +741,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：航空重力测量精度低于海洋船测重力仪，主要是因为飞机飞行速度慢导致加速度改正困难。",
@@ -751,7 +751,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "卫星激光测距仪按安装方式可分为哪两类？",
@@ -767,7 +767,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于卫星大地测量技术类型的说法，正确的有哪几项？（多选）",
@@ -783,7 +783,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "卫星测高仪的工作频率是多少？",
@@ -799,7 +799,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列哪些属于卫星测高数据反演的海洋动力环境？（多选）",
@@ -815,7 +815,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释甚长基线干涉测量（VLBI）的基本含义。",
@@ -833,7 +833,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于VLBI技术可测定的地球定向参数的说法，正确的有哪几项？（多选）",
@@ -849,7 +849,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：大地测量的时间基准仅指时间系统，不包括时间系统框架。",
@@ -859,7 +859,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：世界时是以地球公转周期为计时基准的。",
@@ -869,7 +869,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "概念解释题",
     "question": "请解释原子时秒长的定义。",
@@ -887,7 +887,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于国际原子时建立和维护过程的说法，正确的有哪几项？（多选）",
@@ -903,7 +903,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "中国天文大地网的一等三角锁系由多少个三角点组成？",
@@ -919,7 +919,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "我国第一期水准网的一等水准测量线路总长度约为多少？",
@@ -935,7 +935,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "1957年重力基本网属于下列哪一重力系统？",
@@ -951,7 +951,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "1985国家重力基本网包括多少个基准点和基本点？",
@@ -967,7 +967,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "2000国家似大地水准面的精度范围是多少？",
@@ -983,7 +983,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "简答题",
     "question": "简述在摄影测量中利用前方交会方法确定空间点坐标的主要步骤。",
@@ -1000,7 +1000,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：模拟测图仪通过数值计算实现空间点测量。",
@@ -1010,7 +1010,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于实现立体观测所需基本条件的说法，正确的有哪几项？（多选）",
@@ -1026,7 +1026,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "航空摄影测量中，航向重叠和旁向重叠的最低要求分别是多少？",
@@ -1042,7 +1042,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "根据摄影机安放位置的不同，摄影测量可分为哪些主要类型？（多选）",
@@ -1058,7 +1058,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于摄影机内方位元素的说法，正确的有哪几项？（多选）",
@@ -1074,7 +1074,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "小面阵拼接相机的拼接方式主要包括下列哪两类？",
@@ -1090,7 +1090,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：数字影像中的像元（pixel）是构成数字影像的基本单元，由电荷耦合器件（CCD）阵列通过摄影和感光形成。",
@@ -1100,7 +1100,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于空中三角测量基本流程的说法，正确的有哪几项？（多选）",
@@ -1116,7 +1116,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "LiDAR系统通常由哪三个主要部分组成？",
@@ -1132,7 +1132,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：在激光雷达（LiDAR）技术中，GPS用于测定激光发射点的实时位置坐标，而惯导系统用于确定激光光束的发射方向。",
@@ -1142,7 +1142,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：等角投影适用于交通图、洋流图和风向图等需要保持角度不变的地图。",
@@ -1152,7 +1152,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于摄影测量中方位元素的说法，正确的有哪几项？（多选）",
@@ -1168,7 +1168,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于地形图三北方向的描述，正确的有哪几项？（多选）",
@@ -1184,7 +1184,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列哪些属于地图符号的基本变量？（多选）",
@@ -1200,7 +1200,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于极坐标法放样基本步骤的说法，正确的有哪几项？（多选）",
@@ -1216,7 +1216,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于角度交会法放样过程的说法，正确的有哪几项？（多选）",
@@ -1232,7 +1232,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于变形监测基点选择的说法，正确的有哪几项？（多选）",
@@ -1248,7 +1248,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：安装测量控制网的网点选择主要受地形、地物或图形强度的影响。",
@@ -1258,7 +1258,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "微型边角网的边长范围通常是多少？",
@@ -1274,7 +1274,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "单选题",
     "question": "直线型建筑物适合布设什么形状的控制网？",
@@ -1290,7 +1290,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于变形监测网组成的说法，正确的有哪几项？（多选）",
@@ -1306,7 +1306,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：水平位移监测网的最弱点点位中误差要求是优于±2毫米。",
@@ -1316,7 +1316,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于绝对重力测量原理的说法，正确的有哪几项？（多选）",
@@ -1332,7 +1332,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于海洋测量与陆地测量在测点坐标测定方式上差异的说法，正确的有哪几项？（多选）",
@@ -1348,7 +1348,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列哪些属于海洋大地控制网的主要组成部分？（多选）",
@@ -1364,7 +1364,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "海面重力测量中需要消除的主要干扰力包括下列哪些？（多选）",
@@ -1380,7 +1380,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列关于地磁要素的说法，正确的有哪几项？（多选）",
@@ -1396,7 +1396,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "判断题",
     "question": "判断正误：短基线定位系统的工作方式包括声信标工作方式、应答器工作方式和响应器工作方式。",
@@ -1406,7 +1406,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "测绘学",
     "knowledge_type": "多选题",
     "question": "下列哪些属于海洋定位的主要手段？（多选）",

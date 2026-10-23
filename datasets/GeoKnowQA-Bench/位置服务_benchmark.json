@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于位置信息服务（LBS）主要功能特点的说法，正确的有哪几项？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于面向应用的LBS服务与面向内容的服务的区别，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于LBS（位置服务）定义的描述，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "移动定位协议(MPP)的主要功能是什么？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "移动定位中心（MPC）在基于位置的服务（LBS）中的主要作用是什么？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于快照查询服务与连续查询服务区别的说法，正确的有哪几项？（多选）",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于个体感知在LBS系统中体现的说法，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于LBS大众化特点对其未来发展影响的说法，正确的有哪几项？（多选）",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于LBS系统需要采用分布式技术的原因，正确的有哪些？（多选）",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于基于网络的定位技术与基于终端的定位技术的说法，正确的有哪几项？（多选）",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于GDF标准主要描述和传递的数据类型的说法，正确的有哪些？（多选）",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "KIWI格式的设计目标是什么？",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述中国移动在LBS服务方面定义的具体技术要求。",
@@ -210,7 +210,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "LBS业务实现的两个主要步骤是什么？",
@@ -226,7 +226,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "OMA制定的SUPL协议的主要功能是什么？",
@@ -242,7 +242,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列哪些属于移动位置坐标获取标准涉及的主要技术体系？（多选）",
@@ -258,7 +258,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "MLP协议的主要作用是什么？",
@@ -274,7 +274,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列哪些属于3GPP定义的定位方法？（多选）",
@@ -290,7 +290,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于通信网络在位置信息服务系统中作用的说法，正确的有哪几项？（多选）",
@@ -306,7 +306,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于一个完整的位置信息服务系统主要组成部分的说法，正确的有哪几项？（多选）",
@@ -322,7 +322,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列哪些属于位置信息服务在政府公务服务中的应用场景？（多选）",
@@ -338,7 +338,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列哪些属于LBS与电子商务结合形成的具体盈利模式？（多选）",
@@ -354,7 +354,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "目前移动终端安全防护主要采用哪些技术实现用户身份认证？（多选）",
@@ -370,7 +370,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列哪些属于LBS在自然灾害防灾和救援工作中的主要应用方式？（多选）",
@@ -386,7 +386,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于LBS安全机制主要关注的信息安全问题的说法，正确的有哪几项？（多选）",
@@ -402,7 +402,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "在LBS（基于位置的服务）中，隐私保护主要涉及以下哪些方面的隐私对象？（多选）",
@@ -418,7 +418,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述空间伪装技术在位置隐私保护中的工作原理。",
@@ -435,7 +435,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：位置信息服务广泛应用的原因之一是用户终端具有多样性，包括GPS车载硬件、手机、PDA等。",
@@ -445,7 +445,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于自驾旅游用户利用位置信息服务规划路线和获取景点信息的说法，正确的有哪几项？（多选）",
@@ -461,7 +461,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：KDDI公司的GPS MAP系统主要应用于企业人员管理，能够对销售人员的行动进行精确定位。",
@@ -471,7 +471,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：位置信息服务通过优化供应链管理和物流规划，帮助企业降低进货和物流成本。",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述智能公交系统利用位置信息服务提升调度效率的主要机制。",
@@ -499,7 +499,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述位置报告与共享在作战过程中的主要作用。",
@@ -516,7 +516,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于位置信息服务系统在军事后勤保障中应用的说法，正确的有哪几项？（多选）",
@@ -532,7 +532,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于LBS系统中集成多种定位技术的目的，正确的有哪几项？（多选）",
@@ -548,7 +548,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：LBS未来发展的主要趋势之一是业务领域从单一化向集成化发展。",
@@ -558,7 +558,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于移动Agent技术在LBS平台中应用优势的说法，正确的有哪几项？（多选）",
@@ -574,7 +574,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于推送技术在LBS中解决网络传输负担问题的说法，正确的有哪几项？（多选）",
@@ -590,7 +590,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：移动终端数据表现设计应优先考虑技术实现而非用户需求。",
@@ -600,7 +600,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于我国LBS发展与欧美、韩日相比存在差距的说法，正确的有哪几项？（多选）",
@@ -616,7 +616,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于导航电子地图数据在位置信息服务中作用的说法，正确的有哪几项？（多选）",
@@ -632,7 +632,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述我国LBS业务未能形成强有力的产业链条的主要原因。",
@@ -650,7 +650,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：基于位置的定向广告推送仅通过用户实时位置信息即可实现精准投放。",
@@ -660,7 +660,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "概念解释题",
     "question": "请解释整合型地理位置签到服务的含义。",
@@ -677,7 +677,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于基于地理位置的即时推送服务工作流程的说法，正确的有哪几项？（多选）",
@@ -693,7 +693,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "基于地理位置的搜索服务可以提供哪些具体功能？（多选）",
@@ -709,7 +709,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "下列关于GIS与LBS关系的说法，正确的是哪一项？",
@@ -725,7 +725,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "移动位置门户网站在LBS业务中的主要作用是什么？",
@@ -741,7 +741,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "未来LBS可能出现的第三种运营模式主要是指下列哪一项？",
@@ -757,7 +757,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "当前LBS运营模式主要分为哪两种类型？",
@@ -773,7 +773,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "下列哪一项措施有助于通过市场环境促进LBS产业的持续发展？",
@@ -789,7 +789,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "LBS产业链主要由下列哪一组环节构成？",
@@ -805,7 +805,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "下列关于GIS系统中应用程序开发特征的描述，正确的是哪一项？",
@@ -821,7 +821,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：应用提供商在位置信息服务产业链中面临较高门槛，主要是因为缺乏统一的标准和规范导致POI信息难以共享。",
@@ -831,7 +831,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "移动运营商在整合LBS产业链各环节时，应采取哪些主要措施？（多选）",
@@ -847,7 +847,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "GIS中的空间数据主要包括下列哪三种类型？",
@@ -863,7 +863,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "地理信息系统的主要特征包括下列哪一项？",
@@ -879,7 +879,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "国际地理联合会（IGU）在GIS发展过程中主要发挥了哪一作用？",
@@ -895,7 +895,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于Web GIS降低终端用户负担的说法，正确的有哪几项？（多选）",
@@ -911,7 +911,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "GIS空间分析的核心功能与其他计算机系统的根本区别是什么？",
@@ -927,7 +927,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "下列关于GIS基本功能的说法，正确的是哪一项？",
@@ -943,7 +943,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述混合分析在网络分析中的主要应用类型。",
@@ -961,7 +961,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述空间数据引擎在GIS中的作用。",
@@ -979,7 +979,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "简答题",
     "question": "简述GIS在地图制作中的关键技术。",
@@ -997,7 +997,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于分层技术在GIS中作用的说法，正确的有哪几项？（多选）",
@@ -1013,7 +1013,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于瘦服务器/胖客户端模式与胖服务器/瘦客户端模式区别的说法，正确的有哪几项？（多选）",
@@ -1029,7 +1029,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于C/S结构在分布式广域网环境下存在局限性的说法，正确的有哪些？（多选）",
@@ -1045,7 +1045,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于浏览器/服务器(B/S)模式解决C/S结构在分布式环境下问题的说法，正确的有哪几项？（多选）",
@@ -1061,7 +1061,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "Microsoft公司的TerraServer影像数据服务器主要提供下列哪一项服务？",
@@ -1077,7 +1077,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列哪些属于GeoSurf体系结构的主要组成部分？（多选）",
@@ -1093,7 +1093,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "单选题",
     "question": "GeoBeans实现数据分布式存储和计算分布性的主要途径是什么？",
@@ -1109,7 +1109,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：MapPoint Web服务允许开发者通过REST协议访问其XML Web Service接口。",
@@ -1119,7 +1119,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：消隐算法中，对象空间方法是在二维投影平面上通过像素级操作实现消隐。",
@@ -1129,7 +1129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于Skyline软件三维分析功能的说法，正确的有哪几项？（多选）",
@@ -1145,7 +1145,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：空间数据库不支持多用户并发访问地理信息数据。",
@@ -1155,7 +1155,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "数据预处理阶段需要将几何模型数据转换成哪些基本图元形式？（多选）",
@@ -1171,7 +1171,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "多选题",
     "question": "下列关于消隐算法在三维物体显示中主要功能的说法，正确的有哪几项？（多选）",
@@ -1187,7 +1187,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "信息地理",
     "subject": "位置服务",
     "knowledge_type": "判断题",
     "question": "判断正误：在城市场景中主要依赖建筑模型和设施模型来体现三维效果，是因为城市地势通常较为平坦，难以通过地形变化展现显著的三维效果。",

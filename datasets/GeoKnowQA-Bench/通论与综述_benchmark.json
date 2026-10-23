@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理学体系建设核心要素的说法，正确的有哪几项？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于灾害脆弱性与恢复性定量分析在综合风险管理中核心作用的说法，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理学核心方法论原则的说法，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于风水混合侵蚀动力学特征研究重点的说法，正确的有哪几项？（多选）",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于风成环境对全球变化响应与反馈机制的说法，正确的有哪几项？（多选）",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于人地关系地域系统核心概念形成过程的说法，正确的有哪几项？（多选）",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于构建具有中国特色和时代特色的地理学所需关键思想基础的描述，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "地理科学发展的动力主要来源于下列哪一项？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理学发展中规范性因素与历史性因素变化趋势的说法，正确的有哪几项？（多选）",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "概念解释题",
     "question": "请解释康德在《历史理性批判》中提出的‘历史的合目的性’这一概念的含义。",
@@ -162,7 +162,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于洪堡和李特尔在地理学发展中贡献的说法，正确的有哪几项？（多选）",
@@ -178,7 +178,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "在系统动力学中，两个积量之间的联系必须通过下列哪一项来实现？",
@@ -194,7 +194,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "在系统动力学中，积量的现时值主要由下列哪一项决定？",
@@ -210,7 +210,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "细胞自动机在地理过程模拟中的主要作用是什么？",
@@ -226,7 +226,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "小波分析在地理时空过程中主要用于实现下列哪一项分析目标？",
@@ -242,7 +242,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于分形理论在研究地理实体形态时关注机理的说法，正确的有哪几项？（多选）",
@@ -258,7 +258,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "灰色系统方法主要针对哪类地理系统的分析与决策问题？",
@@ -274,7 +274,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "协同学在地理系统自组织研究中的主要作用是下列哪一项？",
@@ -290,7 +290,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述耗散结构理论在地理系统与过程研究中关注的主要问题。",
@@ -308,7 +308,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于信息论在地理信息分析与处理中应用的描述，正确的有哪几项？（多选）",
@@ -324,7 +324,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于突变论适用研究的地理现象或事件的描述，正确的有哪几项？（多选）",
@@ -340,7 +340,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于系统动力学“构造型”模型优势的说法，正确的有哪几项？（多选）",
@@ -356,7 +356,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "空间扩散研究常采用哪些具体建模方法来揭示地理现象的扩散规律？（多选）",
@@ -372,7 +372,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于科学假说发展为科学理论过程中反复验证和修改作用的说法，正确的有哪几项？（多选）",
@@ -388,7 +388,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于逐渐逼近法第一种实现路径的说法，正确的有哪几项？（多选）",
@@ -404,7 +404,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于趋势面分析中常用数学方法的说法，正确的有哪几项？（多选）",
@@ -420,7 +420,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于逻辑上验证科学假说时考察充分且必要条件的目的，正确的有哪几项？（多选）",
@@ -436,7 +436,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于演绎法、归纳法和综合法在模型建立中适用系统类型的说法，正确的有哪几项？（多选）",
@@ -452,7 +452,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述在地理学研究中，定量分析与定性分析之间的相互关系。",
@@ -469,7 +469,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于正因果反馈关系与负因果反馈关系在地理系统演化中影响的说法，正确的有哪几项？（多选）",
@@ -485,7 +485,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "科学观察中遵循典型性原则的主要目的是下列哪一项？",
@@ -501,7 +501,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理系统熵值变化与有序程度关系的说法，正确的有哪几项？（多选）",
@@ -517,7 +517,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理科学方法论五个层次核心要素的说法，正确的有哪几项？（多选）",
@@ -533,7 +533,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "科学类比法的可靠性主要依赖于下列哪一组关键因素？",
@@ -549,7 +549,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "在实现人地关系地域系统共生发展目标时，选择进化路径应主要依据下列哪一项？",
@@ -565,7 +565,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "下列关于地理环境对政治军事活动影响趋势的说法，正确的是哪一项？",
@@ -581,7 +581,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "核武器的使用对数理地理位置在现代战争中的重要性产生了什么影响？",
@@ -597,7 +597,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "下列关于国家或战区面积大小对军事行动影响的说法，正确的是哪一项？",
@@ -613,7 +613,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "战争活动与地理环境之间的关系被称为什么类型的人地关系？",
@@ -629,7 +629,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述麦金德的“大陆腹地”概念主要论述的问题。",
@@ -647,7 +647,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "气候由温暖湿润向寒冷干旱转变对农业区和牧业区的自然生产潜力产生的主要影响是什么？",
@@ -663,7 +663,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "农耕文明与游牧文明在地理分布上的分界线大致位于欧亚大陆的哪一系列山脉连线？",
@@ -679,7 +679,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "中国历史上三次大的农牧冲突与自然地理环境中的哪类气候波动时期相对应？",
@@ -695,7 +695,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "中原地区难以形成持续稳定的大量商品交换，其主要原因是什么？",
@@ -711,7 +711,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于中国封建社会长期延续的地理环境因素的说法，正确的有哪几项？（多选）",
@@ -727,7 +727,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "黄河流域在中华古典文明起源中占据优先地位，主要得益于哪些自然地理条件？（多选）",
@@ -743,7 +743,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于以具体自组织理论为基础的方法之间特性的说法，正确的有哪几项？（多选）",
@@ -759,7 +759,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于研究地理环境整体性时所依据的方法或方法论的描述，正确的有哪几项？（多选）",
@@ -775,7 +775,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "分形学和混沌学理论主要从什么角度分析自组织的复杂性与图景？",
@@ -791,7 +791,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "超循环理论着重解决自组织的哪一问题？",
@@ -807,7 +807,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于精神客体的说法，正确的有哪几项？（多选）",
@@ -823,7 +823,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于工业革命时期人类与自然环境之间物质循环和能量转换变化的说法，正确的有哪几项？（多选）",
@@ -839,7 +839,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "在协同学视角下，序参量在地理环境整体性形成过程中主要起什么作用？",
@@ -855,7 +855,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "地理事物地域结构的时间序列研究包含哪三个基本层次？",
@@ -871,7 +871,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地域解析尺度对理解区域差距重要性的说法，正确的有哪几项？（多选）",
@@ -887,7 +887,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于分布实况、分布格局与分布规律的说法，正确的有哪几项？（多选）",
@@ -903,7 +903,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于实现空间秩序理论认识的具体路径的说法，正确的有哪几项？（多选）",
@@ -919,7 +919,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "地理学对空间秩序的科学认识最高追求目标是什么？",
@@ -935,7 +935,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于空间秩序型式区别的表述，正确的有哪几项？（多选）",
@@ -951,7 +951,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理学中“区域均质化”方法的说法，正确的有哪几项？（多选）",
@@ -967,7 +967,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "在时间序列研究中，从变化规律到具体过程的逻辑顺序主要适用于哪些实际应用场景？（多选）",
@@ -983,7 +983,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "下列关于通过优化要素结构改善地区空间秩序的说法，正确的是哪一项？",
@@ -999,7 +999,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理学研究中空间秩序三个层次的描述，正确的有哪几项？（多选）",
@@ -1015,7 +1015,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "下列关于典型地理科学问题的说法，正确的是哪一项？",
@@ -1031,7 +1031,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "农民增收问题之所以能转化为典型的地理学科科学问题，主要基于下列哪一地理学核心思想？",
@@ -1047,7 +1047,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理学研究维度的说法，正确的有哪几项？（多选）",
@@ -1063,7 +1063,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列哪些类型的问题虽然与地球相关，但不属于地理科学问题的范畴？（多选）",
@@ -1079,7 +1079,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于地理科学问题发生空间系统的说法，正确的有哪几项？（多选）",
@@ -1095,7 +1095,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于科学研究起点的说法，正确的有哪几项？（多选）",
@@ -1111,7 +1111,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "京津冀都市圈区域规划中主体功能区区划的理论来源及其在空间结构中的作用是什么？",
@@ -1127,7 +1127,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "下列关于自然与社会经济驱动因素影响地表环境时空变化过程的说法，正确的是哪一项？",
@@ -1143,7 +1143,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "区域综合研究中的方法与模型主要关注下列哪一项？",
@@ -1159,7 +1159,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于景观多样性与景观格局研究在区域综合性研究中意义的说法，正确的有哪几项？（多选）",
@@ -1175,7 +1175,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于社会地理学通过定量方法分析社会文化现象时空扩散规律的说法，正确的有哪几项？（多选）",
@@ -1191,7 +1191,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "在人地关系理论中，实现人地共生与共同创造以促进环境向负熵方向发展的关键是什么？",
@@ -1207,7 +1207,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "历史地理学近年拓展的研究领域主要包括下列哪一项？",
@@ -1223,7 +1223,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "地理学研究客体的统一性决定了其最终应是统一的，这主要是因为地理学的研究对象本质上是什么？",
@@ -1239,7 +1239,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于理论地理学整体性原则的说法，正确的有哪几项？（多选）",
@@ -1255,7 +1255,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述逻辑实证主义科学哲学对地理学研究方法与理论体系构建的主要影响。",
@@ -1273,7 +1273,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "判断题",
     "question": "判断正误：元地理学的理论结构由元理论和一般理论两个层次构成。",
@@ -1283,7 +1283,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于欠发达省区内部及与其他省区之间三种区域差距优化调控的说法，正确的有哪几项？（多选）",
@@ -1299,7 +1299,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于基础教育水平提高有助于实现区域和谐社会的说法，正确的有哪几项？（多选）",
@@ -1315,7 +1315,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于人类发展指数提升如何改善预期寿命和体面生活指数的说法，正确的有哪几项？（多选）",
@@ -1331,7 +1331,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列哪些属于技术地理科学的主要组成部分？（多选）",
@@ -1347,7 +1347,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述背景地域公平性要求的主要方面。",
@@ -1364,7 +1364,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "判断题",
     "question": "判断正误：在人地关系地域系统中，同级地域间的发展权保障应遵循公平合理原则，但允许一方在满足自身发展需求时损害另一方的发展能力。",
@@ -1374,7 +1374,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "判断题",
     "question": "判断正误：地理学体系中的基础地理科学核心是景观科学。",
@@ -1384,7 +1384,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "判断题",
     "question": "判断正误：实现相关地域间在机会和结果占有上的公平，只需要确保各地域在资源利用上平等即可。",
@@ -1394,7 +1394,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "地域公平性在空间维度上的考量主要包括下列哪一项？",
@@ -1410,7 +1410,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述通过生态建设产业的形成实现西部地区生态环境建设资本有序运作的主要机制。",
@@ -1428,7 +1428,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于改革交通运输管理体制促进区域一体化措施的说法，正确的有哪几项？（多选）",
@@ -1444,7 +1444,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "多选题",
     "question": "下列关于通过提升教育成就指数促进欠发达地区区域协调发展的说法，正确的有哪几项？（多选）",
@@ -1460,7 +1460,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "区域重大基础设施建设应遵循的主要原则是下列哪一项？",
@@ -1476,7 +1476,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述实现区域生态环境建设中受益者对受损者公平补偿的主要机制。",
@@ -1493,7 +1493,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述区域可持续发展能力测度指标体系中的五大支持能力。",
@@ -1510,7 +1510,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "简答题",
     "question": "简述人地系统协调发展面临的主要因素。",
@@ -1528,7 +1528,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "人地系统演进的三种驱动力分别是下列哪一项？",
@@ -1544,7 +1544,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "下列关于人地关系地域系统核心构成要素的说法，正确的是哪一项？",
@@ -1560,7 +1560,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "地理通论",
     "subject": "通论与综述",
     "knowledge_type": "单选题",
     "question": "人地关系地域系统维持有序状态的关键在于下列哪一项？",

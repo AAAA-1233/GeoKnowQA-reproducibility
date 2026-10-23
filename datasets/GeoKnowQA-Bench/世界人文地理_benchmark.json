@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于关岛在美国西太平洋军事战略中的地位及其人口构成的说法，正确的有哪几项？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于夏威夷群岛地理特征和经济支柱的说法，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于太平洋岛屿托管地的说法，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于塔希提岛在法属波利尼西亚的地位和经济发展中的角色，正确的有哪几项？（多选）",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于社会群岛地理特征和人口分布的说法，正确的有哪几项？（多选）",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于法属波利尼西亚的说法，正确的有哪几项？（多选）",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于所罗门群岛主要出口产品及其生产方式的说法，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于图瓦卢地理位置和人口密度特点的说法，正确的有哪几项？（多选）",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于布干维尔岛矿产资源的说法，正确的有哪几项？（多选）",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于斐济主要经济作物的说法，正确的有哪几项？（多选）",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于伊里安岛气候特征及其南部平原降水量较少原因的说法，正确的有哪几项？（多选）",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于巴布亚新几内亚主要岛屿的说法，正确的有哪几项？（多选）",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于东南极洲和西南极洲地质特征的描述，正确的有哪几项？（多选）",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于干旱台地采矿业对国家经济作用的说法，正确的有哪几项？（多选）",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "如果南极洲的全部冰盖融化，全球海平面将上升多少米？",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于干旱台地及其边缘地带牧场条件的说法，正确的有哪几项？（多选）",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于干旱台地矿产开采特点的说法，正确的有哪几项？（多选）",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于太平洋三大群岛划分依据的说法，正确的有哪几项？（多选）",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于美拉尼西亚群岛居民特征的说法，正确的有哪几项？（多选）",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于阿根廷西北干旱区和巴塔哥尼亚高原区主要经济活动的说法，正确的有哪几项？（多选）",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于乌拉圭主要经济活动和出口产品的说法，正确的有哪几项？（多选）",
@@ -337,7 +337,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于智利南部地区主要经济发展来源的说法，正确的有哪几项？（多选）",
@@ -353,7 +353,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于奥里诺科河及其平原地理特征的描述，正确的有哪几项？（多选）",
@@ -369,7 +369,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于委内瑞拉铁矿国有化及工业发展的说法，正确的有哪几项？（多选）",
@@ -385,7 +385,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于安第斯山东坡地区农业发展条件的说法，正确的有哪些？（多选）",
@@ -401,7 +401,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于马拉开波盆地及其湖泊的说法，正确的有哪几项？（多选）",
@@ -417,7 +417,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于玻利维亚国际贸易港口的说法，正确的有哪几项？（多选）",
@@ -433,7 +433,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于玻利维亚高原气候特征的描述，正确的有哪几项？（多选）",
@@ -449,7 +449,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于智利与阿根廷、巴拉圭、乌拉圭在自然资源和发展重点上的差异，说法正确的有哪些？（多选）",
@@ -465,7 +465,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于玻利维亚实际首都拉巴斯的地理和城市布局特点的说法，正确的有哪几项？（多选）",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于阿根廷、巴拉圭和乌拉圭在地形和经济发展方面共同特点的说法，正确的有哪几项？（多选）",
@@ -497,7 +497,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于羊驼在秘鲁安第斯山地主要用途的说法，正确的有哪几项？（多选）",
@@ -513,7 +513,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "多米尼加联邦、圣卢西亚和圣文森特和格林纳丁斯这三个岛国在下列哪一方面具有共同特征？",
@@ -529,7 +529,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "格林纳达的主要经济作物包括下列哪一项？",
@@ -545,7 +545,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于哥伦比亚石油油田分布及石油输送管道的说法，正确的有哪几项？（多选）",
@@ -561,7 +561,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于海地和多米尼加在独立前后土地所有制和社会结构差异的说法，正确的有哪几项？（多选）",
@@ -577,7 +577,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于关塔那摩湾对古巴及国际航运重要性的说法，正确的有哪几项？（多选）",
@@ -593,7 +593,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "委内瑞拉的主要石油产区位于下列哪个盆地？",
@@ -609,7 +609,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "苏里南最重要的经济活动是什么？",
@@ -625,7 +625,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "危地马拉人口和经济活动的主要集中区域是下列哪一项？",
@@ -641,7 +641,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "下列关于巴拿马运河东西两侧地理与人口分布的说法，正确的是哪一项？",
@@ -657,7 +657,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "简答题",
     "question": "简述中美洲地峡加勒比海沿岸和大安的列斯群岛北岸多雨，而太平洋沿岸和各大岛南部相对干燥的主要原因。",
@@ -674,7 +674,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：中美洲地峡各国的农业结构以粮食作物为主，经济作物在出口贸易中地位较低。",
@@ -684,7 +684,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：阿巴拉契亚山地及其西侧高原的主要自然资源不包括煤炭资源。",
@@ -694,7 +694,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：棉花带东部阿巴拉契亚山麓地带土壤侵蚀和肥力减退的主要原因是长期种植棉花。",
@@ -704,7 +704,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "美国棉花带的北界和西界分别以什么为界限？",
@@ -720,7 +720,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "盐湖城灌区的主要农作物是哪一种？",
@@ -736,7 +736,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "单选题",
     "question": "第四纪冰期对劳伦高地地貌的主要影响是下列哪一项？",
@@ -752,7 +752,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：列宁格勒和加里宁格勒的船只进入大西洋必须穿过丹麦与挪威、瑞典之间的海峡。",
@@ -762,7 +762,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：摩尔曼斯克港能够全年不冻的主要原因是北大西洋暖流的影响。",
@@ -772,7 +772,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：哈萨克冶金工业区的主要金属矿产资源包括铜、铅、锌，且其储量在全苏排名第一。",
@@ -782,7 +782,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：苏联干旱区的灰钙土含有大量碳酸钙沉淀，质地较硬，结构紧密。",
@@ -792,7 +792,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：顿涅茨——第聂伯河沿岸工业区的主要矿产资源包括顿涅茨煤田、石灰石矿、耐火粘土矿、克里沃罗格与刻赤铁矿，以及尼科波尔大型锰矿。",
@@ -802,7 +802,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：多瑙河流经奥地利的南部地区。",
@@ -812,7 +812,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：列支敦士登在两次世界大战中都加入了同盟国一方。",
@@ -822,7 +822,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：布拉迪斯拉发位于多瑙河畔，是斯洛伐克的首府和工业中心。",
@@ -832,7 +832,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：捷克斯洛伐克的机械工业主要生产重型机器、机车、汽车和精密仪器。",
@@ -842,7 +842,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：波兰南部山地的北麓土壤肥沃是因为覆盖着一层红壤。",
@@ -852,7 +852,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "判断题",
     "question": "判断正误：捷克斯洛伐克的主要民族构成是捷克族和斯洛伐克族。",
@@ -862,7 +862,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "世界人文地理",
     "knowledge_type": "多选题",
     "question": "下列关于波兰铁矿石主要进口来源的说法，正确的有哪几项？（多选）",

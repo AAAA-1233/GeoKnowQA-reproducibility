@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于人口质量的定义，正确的是哪一项？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地的经济供给具有弹性的主要原因是什么？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地自然供给与经济供给区别的说法，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地资源的定义，正确的是哪一项？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地负载功能的说法，正确的是哪一项？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地仓储功能对人类经济活动重要性的说法，正确的有哪几项？（多选）",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于影响土地质量和用途的因素的说法，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地作为自然历史综合体组成部分的说法，正确的有哪几项？（多选）",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地作为不动产所包含的权利的说法，正确的有哪几项？（多选）",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地在生产三要素中角色的说法，正确的是哪一项？",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地在农业生产和非农业生产中作用的说法，正确的有哪几项？（多选）",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地在农业生产中作为主要生产资料的表述，正确的是哪一项？",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地面积的有限性对土地利用产生重要影响，其主要原因是什么？",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地基本特性的说法，正确的是哪一项？",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地在非农业生产部门中作用的说法，正确的有哪几项？（多选）",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地利用具有永续性的主要原因是什么？",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地质量的差异性对农业生产的影响主要体现在下列哪一项？",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理的核心目标是什么？",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于经济增长与恶化环境的土地投入需要脱钩的原因，正确的有哪几项？（多选）",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地资源利用的外部性内在化的说法，正确的是哪一项？",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于消除贫困与可持续发展之间关系的说法，正确的是哪一项？",
@@ -337,7 +337,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理学的产生主要取决于下列哪一项？",
@@ -353,7 +353,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "简答题",
     "question": "简述我国在土地管理方面存在的主要问题。",
@@ -371,7 +371,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于当代土地管理内容和范围扩展的说法，正确的有哪几项？（多选）",
@@ -387,7 +387,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地管理学建立基础的说法，正确的有哪几项？（多选）",
@@ -403,7 +403,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于科学技术发展对土地管理提出的新要求，正确的是哪一项？",
@@ -419,7 +419,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于定性定量法在土地管理学中重要性的说法，正确的有哪几项？（多选）",
@@ -435,7 +435,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "比较研究法在土地管理中揭示一般规律和特殊规律的主要途径是什么？",
@@ -451,7 +451,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "概念解释题",
     "question": "请解释人本管理的含义。",
@@ -468,7 +468,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于根据人的行为规律进行管理的说法，正确的有哪几项？（多选）",
@@ -484,7 +484,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "管理动力原理中提到的三种基本动力类型是什么？",
@@ -500,7 +500,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "简答题",
     "question": "简述人的行为受动机支配的过程。",
@@ -517,7 +517,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于优势动机在行为管理中作用的说法，正确的有哪几项？（多选）",
@@ -533,7 +533,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "物质动力在基本需求满足后激励作用递减的主要原因是什么？",
@@ -549,7 +549,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "简答题",
     "question": "简述目标管理能够有效协调子系统分目标的主要原因。",
@@ -567,7 +567,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "在系统管理中，目的性、整体性和层次性这三个关键环节的核心含义分别是什么？",
@@ -583,7 +583,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "管理结构中的正立三角形主要是指下列哪一种组织结构形式？",
@@ -599,7 +599,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "判断题",
     "question": "判断正误：人才优化组合仅需要高级人才的合理搭配即可实现。",
@@ -609,7 +609,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "整分合原理在现代管理中的具体应用，主要体现在下列哪一项？",
@@ -625,7 +625,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "在管理封闭回路中，反馈机构的主要作用是什么？",
@@ -641,7 +641,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "政府协调土地使用者之间利益的主要经济杠杆是下列哪一项？",
@@ -657,7 +657,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于动态管理原理在土地管理系统中应用关键点的说法，正确的有哪几项？（多选）",
@@ -673,7 +673,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "概念解释题",
     "question": "请解释土地利用的外部性的含义。",
@@ -690,7 +690,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于土地市场失灵的主要原因？（多选）",
@@ -706,7 +706,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "概念解释题",
     "question": "请解释“有效信息”的含义。",
@@ -723,7 +723,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "管理信息处理过程中，确保信息能够用于管理决策的关键步骤是什么？",
@@ -739,7 +739,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "在土地管理反馈机制中，灵敏、准确、有力的反馈需要具备哪些条件？",
@@ -755,7 +755,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "概念解释题",
     "question": "请解释政府运行中'内带效应'的含义。",
@@ -773,7 +773,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "公共决策失误导致政府失灵的主要原因不包括下列哪一项？",
@@ -789,7 +789,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "寻租活动对土地资源配置的主要影响是下列哪一项？",
@@ -805,7 +805,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素属于政府失灵在土地管理中的主要原因？（多选）",
@@ -821,7 +821,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于中央政府与地方政府在土地管理中目标冲突的表述，正确的是哪一项？",
@@ -837,7 +837,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于地方政府土地违法现象主要原因的说法，正确的是哪一项？",
@@ -853,7 +853,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于生态效益、经济效益和社会效益优化组合的说法，正确的有哪几项？（多选）",
@@ -869,7 +869,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于毁林开荒短期经济效益与长期负面影响原因的说法，正确的有哪几项？（多选）",
@@ -885,7 +885,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "整体效应原理在土地管理中的核心含义是什么？",
@@ -901,7 +901,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "系统功效的不守恒性在管理中的正向效应主要体现在下列哪一项？",
@@ -917,7 +917,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "在丘陵、山地的土地利用中，保证一定比例林地面积的主要原因是下列哪一项？",
@@ -933,7 +933,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于规律效应原理在土地管理中应用的说法，正确的有哪几项？（多选）",
@@ -949,7 +949,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理的一般过程主要包括下列哪一项？",
@@ -965,7 +965,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "水网地区在土地管理中应如何配置排灌渠系？",
@@ -981,7 +981,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "宏观土地管理目标的主要特点是什么？",
@@ -997,7 +997,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "管理目标在管理活动中的具体作用不包括下列哪一项？",
@@ -1013,7 +1013,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于土地管理目标按管理层次分类的说法，正确的有哪几项？（多选）",
@@ -1029,7 +1029,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于中观土地管理目标制定需考虑因素的描述，正确的是哪一项？",
@@ -1045,7 +1045,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "在实现土地管理目标过程中，需要综合运用哪些手段来调节土地利用活动？",
@@ -1061,7 +1061,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理目标按实现时间幅度可分为哪几类？",
@@ -1077,7 +1077,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "判断题",
     "question": "判断正误：我国土地管理的基本任务之一是维护社会主义土地公有制及土地所有者和使用者的合法权益。",
@@ -1087,7 +1087,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于农村建设用地整理对改善农村生活条件作用的描述，正确的是哪一项？",
@@ -1103,7 +1103,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "建立土地数量、质量的调查、评价、监测、预警制度的主要目的是什么？",
@@ -1119,7 +1119,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于土地管理部门参与宏观经济调控的主要措施？（多选）",
@@ -1135,7 +1135,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "简答题",
     "question": "简述土地利用变更调查与监测的频率和主要内容。",
@@ -1152,7 +1152,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于土地供给政策与产业政策协调配合的具体措施？（多选）",
@@ -1168,7 +1168,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于公共组织与非公共组织主要区别的说法，正确的有哪几项？（多选）",
@@ -1184,7 +1184,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于正式组织与非正式组织在形成方式上的说法，正确的有哪几项？（多选）",
@@ -1200,7 +1200,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于组织结构系统性体现的说法，正确的有哪几项？（多选）",
@@ -1216,7 +1216,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "组织资源的有机结合性主要通过什么来实现？",
@@ -1232,7 +1232,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于组织目标一致性的说法，正确的是哪一项？",
@@ -1248,7 +1248,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "管理幅度与管理层次之间的关系是下列哪一项？",
@@ -1264,7 +1264,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于常见的组织结构形式？",
@@ -1280,7 +1280,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于组织结构变革动力的说法，正确的是哪一项？",
@@ -1296,7 +1296,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于国土资源部职能转变的说法，正确的是哪一项？",
@@ -1312,7 +1312,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于国土资源部划入的行政管理职能，正确的是哪一项？",
@@ -1328,7 +1328,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理机构设置的三种模式中，下列哪一项属于其中一种？",
@@ -1344,7 +1344,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于1954年我国土地管理机构调整的说法，正确的有哪几项？（多选）",
@@ -1360,7 +1360,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "1998年国务院机构改革后，下列哪一组单位组成了国土资源部？",
@@ -1376,7 +1376,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于耕地保护司在土地管理中核心任务的描述，正确的有哪几项？（多选）",
@@ -1392,7 +1392,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列关于地籍管理司主要职责的说法，正确的有哪几项？（多选）",
@@ -1408,7 +1408,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "耕地保护司监督耕地占补平衡措施实施的方式中，下列哪一项是正确的？",
@@ -1424,7 +1424,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于政策法规司推进国土资源管理体制改革的主要工作方式？（多选）",
@@ -1440,7 +1440,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于国土资源部在海洋资源管理方面职责的说法，正确的是哪一项？",
@@ -1456,7 +1456,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "不动产统一登记调研工作的主要目标是什么？",
@@ -1472,7 +1472,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地权属纠纷调处工作的政策界限主要通过什么来确定？",
@@ -1488,7 +1488,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于地籍信息资料管理包含的具体制度？（多选）",
@@ -1504,7 +1504,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "基准地价和标定地价的评定依据主要包括下列哪一项？",
@@ -1520,7 +1520,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "执法监察局在查处违法案件时，需要配合下列哪类机构？",
@@ -1536,7 +1536,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理干部应具备的政治素质中，下列哪一项是正确的？",
@@ -1552,7 +1552,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于执法监察局主要职责的说法，正确的是哪一项？",
@@ -1568,7 +1568,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "下列关于土地管理三项基本职能之间关系的描述，正确的是哪一项？",
@@ -1584,7 +1584,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "人文地理",
     "subject": "土地管理",
     "knowledge_type": "单选题",
     "question": "土地管理计划职能的具体步骤依次为下列哪一项？",

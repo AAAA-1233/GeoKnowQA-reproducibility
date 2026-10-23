@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学的研究领域主要包含哪两个方面的内容？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学在内容研究与形式研究方面的首要任务是什么？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列哪些属于地理教育改革研究的主要方面？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学的研究对象经历了哪几个主要发展阶段？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于地理教育学与地理教学法区别的说法，正确的是哪一项？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "中国单独设科的学校地理教育始于下列哪一项？",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学的社会性主要体现在下列哪一方面？",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于地理教育学边缘性表现的说法，正确的有哪几项？（多选）",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学的概论性属性主要是基于什么而言的？",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学的发展基础主要包括下列哪两个方面？",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于高师课程调控结构分类的说法，正确的有哪几项？（多选）",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "简答题",
     "question": "简述地理学科在社会教育中的优势地位主要体现在哪些方面。",
@@ -194,7 +194,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于教育科学、教育学和普通教育学三者关系的说法，正确的是哪一项？",
@@ -210,7 +210,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学与其他高等师范教育学科相比，其鲜明特点不包括下列哪一项？",
@@ -226,7 +226,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "学校地理教育系统主要由下列哪一组因素构成？",
@@ -242,7 +242,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：学校地理教育被认为是最重要和最规范的地理教育形式，主要是因为其具有高度的组织性和系统性。",
@@ -252,7 +252,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "科学研究选题不宜过大或过于笼统的主要原因是什么？",
@@ -268,7 +268,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "实验实证方法在地理教育学研究中的主要作用是什么？",
@@ -284,7 +284,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于教育科学对地理教育学作用的说法，正确的有哪几项？（多选）",
@@ -300,7 +300,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于避免经验概括方法简单操作行为的说法，正确的是哪一项？",
@@ -316,7 +316,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育学的研究方法主要包括下列哪一项？",
@@ -332,7 +332,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "学校地理教育被视为可持续发展思想教育主要承担者的主要原因是什么？",
@@ -348,7 +348,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教育中的能力培养要素主要包括下列哪一项？",
@@ -364,7 +364,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "加强人文地理教育对社会经济发展的主要影响是什么？",
@@ -380,7 +380,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "简答题",
     "question": "简述乡土地理教育对学生理解家乡发展的具体帮助。",
@@ -398,7 +398,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "乡土地理教育与其他学科乡土教育活动之间的关系是下列哪一项？",
@@ -414,7 +414,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "学校地理教育帮助学生筛选和处理社会信息的主要方式是什么？",
@@ -430,7 +430,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理科学的边缘性在学校地理教育中主要体现在下列哪一项？",
@@ -446,7 +446,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "在地理教育中，空间性和区域性的关系是下列哪一项？",
@@ -462,7 +462,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "简答题",
     "question": "简述地理实践活动从印证型转向创新型的主要途径。",
@@ -479,7 +479,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于人类最早的地理专著？",
@@ -495,7 +495,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "近代地理学的奠基人主要包括下列哪两位学者？",
@@ -511,7 +511,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "学校地理课程主要包含哪两种类型？",
@@ -527,7 +527,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于北洋政府时期地理课程安排进步的说法，正确的是哪一项？",
@@ -543,7 +543,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "仿效前苏联时期的地理教育存在的主要问题中，下列哪一项是正确的？",
@@ -559,7 +559,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理课程标准的基本功能主要体现在以下哪一方面？",
@@ -575,7 +575,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教学过程的本质属性是什么？",
@@ -591,7 +591,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教学过程的外延拓展主要体现在下列哪一方面？",
@@ -607,7 +607,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于地理学科社会功能的说法，正确的有哪几项？（多选）",
@@ -623,7 +623,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理感性知识主要包括下列哪几类具体类型？",
@@ -639,7 +639,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于地理理性知识构成要素的说法，正确的有哪几项？（多选）",
@@ -655,7 +655,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于地理技术知识主要内容的说法，正确的有哪几项？（多选）",
@@ -671,7 +671,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "系统地理与区域地理的主要区别在于下列哪一项？",
@@ -687,7 +687,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：地理景观教学中，学生可能因直观教学而混淆相似景观，如山地与丘陵地。",
@@ -697,7 +697,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于地理特征类型的说法，正确的是哪一项？",
@@ -713,7 +713,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：地理理性知识教学的重点是培养学生的抽象思维、概括能力和知识迁移能力。",
@@ -723,7 +723,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于地理概念教学避免绝对化倾向的措施，正确的是哪一项？",
@@ -739,7 +739,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理计算机会主要来源于下列哪两种途径？",
@@ -755,7 +755,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教学模式通常分为哪两大类？",
@@ -771,7 +771,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "范例教学模式是由下列哪一位教育家提出的？",
@@ -787,7 +787,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：教学方法可以看作是教法与学法的简单相加。",
@@ -797,7 +797,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：讲述法和讲解法在地理教学中的主要区别在于教学内容和语言表达方式的不同。",
@@ -807,7 +807,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于启发法使用频率的说法，正确的是哪一项？",
@@ -823,7 +823,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "启发法主要适用于哪一类知识的教学？",
@@ -839,7 +839,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于启发法在实际运用中可能遇到的挑战，正确的有哪些？（多选）",
@@ -855,7 +855,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "概念解释题",
     "question": "请解释地理自学辅导法的含义。",
@@ -873,7 +873,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "在地理教学中，使用夸张词汇如“很高、很高”描述地理概念，可能导致的主要问题是？",
@@ -889,7 +889,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "教学过程中每分钟讲多少字比较合适？",
@@ -905,7 +905,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教学语言实现情理交融的核心要求是什么？",
@@ -921,7 +921,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列哪些类型属于地理教学中非启示性提问？（多选）",
@@ -937,7 +937,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "在通过对比分析两张同类地理图像培养学生观察能力的过程中，教师首先应做什么？",
@@ -953,7 +953,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：教师使用指图棍指图时，应站在图的正前方中央，以便学生看清指图动作。",
@@ -963,7 +963,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "交互性媒体在地理教学中的独特特点主要体现在下列哪一项？",
@@ -979,7 +979,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "概念解释题",
     "question": "请解释显性地理课程的含义。",
@@ -997,7 +997,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "判断题",
     "question": "判断正误：地理课堂教学形式有利于培养学生的实际操作能力。",
@@ -1007,7 +1007,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于初中与高中地理教学方法和手段区别的说法，正确的有哪几项？（多选）",
@@ -1023,7 +1023,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于有效课堂导入设计核心原则的说法，正确的有哪几项？（多选）",
@@ -1039,7 +1039,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "多选题",
     "question": "下列关于直接导入法适用条件的说法，正确的有哪几项？（多选）",
@@ -1055,7 +1055,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "下列关于直接叙述法作为承转方法的说法，正确的是哪一项？",
@@ -1071,7 +1071,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理教育",
     "knowledge_type": "单选题",
     "question": "地理教学信息的运行包括下列哪四个步骤？",

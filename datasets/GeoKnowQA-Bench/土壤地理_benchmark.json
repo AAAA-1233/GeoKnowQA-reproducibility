@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于中国土壤资源空间分异特点的说法，正确的有哪几项？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于我国土壤资源适宜性的说法，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于土壤中重金属元素汞（Hg）的说法，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于中国土壤资源开发利用潜力区域差异的说法，正确的有哪几项？（多选）",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于中国不同地区土壤资源在气候和植被类型上差异的说法，正确的有哪几项？（多选）",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于中国土壤资源在粮食、林业和牧业方面发展潜力的说法，正确的有哪几项？（多选）",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于青藏高原土壤垂直-水平复合分布规律特点的说法，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于阿尔泰山区森林和草场资源特征的说法，正确的有哪几项？（多选）",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于山地坡向对土壤垂直带谱组成影响的说法，正确的有哪几项？（多选）",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "秦岭太白山南坡和北坡的基带土壤类型差异主要体现在下列哪一项？",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于山体高度对土壤垂直带谱结构影响的说法，正确的有哪几项？（多选）",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于华北平原土壤类型的说法，正确的有哪几项？（多选）",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "华北平原的边缘地形主要呈现什么特征？",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "华北平原自西向东的地形变化依次为下列哪一项？",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "该区域应对旱灾和水资源缺乏问题的主要措施中，下列哪一项是正确的？",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "华北平原淡色潮湿雏形土主要分布在下列哪一区域？",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "永冻潜育土的主要分类依据是下列哪一项？",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于河西走廊中东段地理特征的说法，正确的有哪几项？（多选）",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于伊犁河谷土壤类型的说法，正确的有哪几项？（多选）",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "采集简育永冻潜育土的地点位于下列哪一地区？",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于河西走廊中东段钙积正常干旱土、灌淤干润雏形土区空间分布的说法，正确的有哪几项？（多选）",
@@ -337,7 +337,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "江淮丘陵平原铁质湿润淋溶土区主要分布在下列哪一区域？",
@@ -353,7 +353,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "河套平原在地貌上主要包括哪三个部分？",
@@ -369,7 +369,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "河套平原大致位于下列哪一组山脉和高原之间？",
@@ -385,7 +385,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素促进了海南岛铁铝土的形成和分布？（多选）",
@@ -401,7 +401,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "新石器时代末期，我国祖先在农业生产活动中的显著成就包括下列哪一项？",
@@ -417,7 +417,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于琼北地区地质特征的描述，正确的是哪一项？",
@@ -433,7 +433,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "海南岛的气候特点是什么？",
@@ -449,7 +449,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于简育正常干旱土植被类型的说法，正确的有哪几项？（多选）",
@@ -465,7 +465,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于滞水常湿锥形土植被类型的说法，正确的有哪几项？（多选）",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "我国干旱土的主要植被类型是下列哪一项？",
@@ -497,7 +497,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于高寒冻层条件下土壤有机质含量的说法，正确的有哪几项？（多选）",
@@ -513,7 +513,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于滇、桂岩溶山地钙质湿润淋溶土、黑色岩性均腐土、富铝湿润富铁土区保护水源林、珍贵林木和动物的措施，正确的有哪些？（多选）",
@@ -529,7 +529,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "雅鲁藏布江中游谷地的主要植被类型是下列哪一项？",
@@ -545,7 +545,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "大兴安岭西侧暗厚干润均腐土、黏化简育干润均腐土区的天然植被主要由哪两类组成？",
@@ -561,7 +561,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于滇、桂岩溶山地植被特点的说法，正确的是哪一项？",
@@ -577,7 +577,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "青藏高原区在保护现有自然生态系统方面，下列哪一项措施是正确的？",
@@ -593,7 +593,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "祁连山地区海拔2400至2700米的低山丘陵区域，主要植被和土壤类型是什么？",
@@ -609,7 +609,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "针对辽河下游平原存在的问题，下列哪一项属于提出的解决方案？",
@@ -625,7 +625,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于辽河下游平原目前面临的主要问题的说法，正确的有哪几项？（多选）",
@@ -641,7 +641,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于改善大、小兴安岭林区状况的主要措施？（多选）",
@@ -657,7 +657,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于黄土高原水土流失现状的说法，正确的有哪几项？（多选）",
@@ -673,7 +673,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于鄂尔多斯高原地下水资源分布特点的说法，正确的有哪几项？（多选）",
@@ -689,7 +689,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "三江源地区被称为‘中华水塔’，下列哪些河流的水量主要来自该地区？（多选）",
@@ -705,7 +705,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于盐积层标准的说法，正确的是哪一项？",
@@ -721,7 +721,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于碱积过程的说法，正确的是哪一项？",
@@ -737,7 +737,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于气候干旱程度与积盐强度关系的说法，正确的有哪几项？（多选）",
@@ -753,7 +753,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "残余积盐过程常见于下列哪一类地区？",
@@ -769,7 +769,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "盐积正常干旱土的气候特点主要表现为下列哪一项？",
@@ -785,7 +785,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "大兴安岭地区的气候特征主要表现为下列哪一项？",
@@ -801,7 +801,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于一江两河地区气候特征的描述，正确的是哪一项？",
@@ -817,7 +817,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "干润淋溶土的自然植被主要特征是什么？",
@@ -833,7 +833,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于有机土植被类型的说法，正确的有哪几项？（多选）",
@@ -849,7 +849,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于盐积正常干旱土植被特征的说法，正确的是哪一项？",
@@ -865,7 +865,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素导致了湿润均腐土区有机碳含量的下降？（多选）",
@@ -881,7 +881,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "四川盆地被称为“红色盆地”的主要原因是下列哪一项？",
@@ -897,7 +897,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "香港现有的海洋形成的主要原因是下列哪一项？",
@@ -913,7 +913,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于地下水矿化度等级划分的说法，正确的是哪一项？",
@@ -929,7 +929,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "山东济南千佛山剖面的母质是什么？",
@@ -945,7 +945,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "在全新世高温期，我国均腐土形成的主要原因是下列哪一项？",
@@ -961,7 +961,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "新构造运动对土壤时空格局的影响，主要体现在下列哪一方面？",
@@ -977,7 +977,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些类型的沉积物具有砂质沉积物岩性特征？（多选）",
@@ -993,7 +993,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于青藏高原隆起对土壤分布影响的说法，正确的有哪几项？（多选）",
@@ -1009,7 +1009,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于该区域地势特征的描述，正确的有哪几项？（多选）",
@@ -1025,7 +1025,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于南岭山区的主要土壤类型？（多选）",
@@ -1041,7 +1041,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于南岭山区植被特征的描述，正确的有哪几项？（多选）",
@@ -1057,7 +1057,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于南岭主要山脉的说法，正确的有哪几项？（多选）",
@@ -1073,7 +1073,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于喀喇昆仑山钙积寒性干旱土、永冻寒冻雏形土区的主要土壤类型？（多选）",
@@ -1089,7 +1089,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于粤北山区受珠江三角洲等经济发达地区影响的说法，正确的有哪几项？（多选）",
@@ -1105,7 +1105,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "南岭山地湿润富铁土、常湿淋溶土区位于中国的哪些地区？（多选）",
@@ -1121,7 +1121,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于昆仑山南侧气候特点的说法，正确的有哪几项？（多选）",
@@ -1137,7 +1137,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于昆仑山南侧干旱正常盐成土区空间分布的说法，正确的有哪几项？（多选）",
@@ -1153,7 +1153,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于湿润富铁土区的主要土壤类型？（多选）",
@@ -1169,7 +1169,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于阿尔泰山钙积干润均腐土、漂白冷凉淋溶土、草毡寒冻雏形土区在新疆方位的说法，正确的有哪几项？（多选）",
@@ -1185,7 +1185,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "湿润富铁土区的成土母质主要包括下列哪一类？",
@@ -1201,7 +1201,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于湿润富铁土区主要地貌类型的说法，正确的有哪几项？（多选）",
@@ -1217,7 +1217,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于鄱阳湖平原湿润富铁土区地理位置的描述，正确的有哪几项？（多选）",
@@ -1233,7 +1233,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于准噶尔西部山地土壤类型的说法，正确的有哪几项？（多选）",
@@ -1249,7 +1249,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于准噶尔西部山地地貌特征的描述，正确的有哪几项？（多选）",
@@ -1265,7 +1265,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些地区是简育常湿富铁土在华南山地分布较为集中的区域？（多选）",
@@ -1281,7 +1281,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于淮北平原地势特点的说法，正确的有哪几项？（多选）",
@@ -1297,7 +1297,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于富铝常湿富铁土在贵州省中部分布的说法，正确的有哪几项？（多选）",
@@ -1313,7 +1313,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于淮北平原淡色潮湿锥形土、砂姜钙积潮湿变性土区所在省份的说法，正确的有哪几项？（多选）",
@@ -1329,7 +1329,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "中亚热带湿润富铁土、常湿淋溶土地区在我国的主要分布方位是下列哪一项？",
@@ -1345,7 +1345,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于南海诸岛与大陆土壤在腐殖质积累方面差异的说法，正确的有哪几项？（多选）",
@@ -1361,7 +1361,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于松嫩平原东部简育湿润均腐土、暗色潮湿锥形土区的主要土壤类型？（多选）",
@@ -1377,7 +1377,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于松嫩平原东部简育湿润均腐土、暗色潮湿锥形土区地表构成的描述，正确的有哪几项？（多选）",
@@ -1393,7 +1393,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于台南丘陵平原简育湿润铁铝土、水耕人为土区空间分布的说法，正确的有哪几项？（多选）",
@@ -1409,7 +1409,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于塔里木盆地南部石膏-磐状盐积正常干旱土、灌淤旱耕人为土区的土壤类型？（多选）",
@@ -1425,7 +1425,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "塔里木盆地南部石膏-磐状盐积正常干旱土、灌淤旱耕人为土区的人口密度分布呈现什么特点？",
@@ -1441,7 +1441,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于罗布泊和台特马湖形成与演变原因的说法，正确的有哪几项？（多选）",
@@ -1457,7 +1457,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "罗布泊平原的主要土壤类型是下列哪一项？",
@@ -1473,7 +1473,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些土壤类型分布在西辽河平原？（多选）",
@@ -1489,7 +1489,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：罗布泊平原干旱正常盐成土区位于塔里木河下游以西。",
@@ -1499,7 +1499,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于西辽河平原的主要土壤类型？（多选）",
@@ -1515,7 +1515,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于西辽河平原沙丘和平缓起伏沙地分布特征的说法，正确的有哪几项？（多选）",
@@ -1531,7 +1531,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "西辽河平原的地貌特征中，最显著的是下列哪一项？",
@@ -1547,7 +1547,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "滇、桂岩溶山地钙质湿润淋溶土、黑色岩性均腐土、富铝湿润富铁土区的气候特点是什么？",
@@ -1563,7 +1563,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于阿拉善高平原地形特点的描述，正确的是哪一项？",
@@ -1579,7 +1579,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "阿拉善高原干旱砂质新成土、钙积正常干旱土区的主要分布范围是下列哪一项？",
@@ -1595,7 +1595,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "滇、桂岩溶山地钙质湿润淋溶土、黑色岩性均腐土、富铝湿润富铁土区的土壤类型主要包括下列哪一项？",
@@ -1611,7 +1611,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于黄土高原土壤类型的说法，正确的是哪一项？",
@@ -1627,7 +1627,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于黄土高原地理位置的说法，正确的有哪几项？（多选）",
@@ -1643,7 +1643,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于黄土高原黄土层序的时期划分，正确的有哪些？（多选）",
@@ -1659,7 +1659,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于有机土所处地形部位特点的说法，正确的有哪几项？（多选）",
@@ -1675,7 +1675,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于铁铝土区地球化学特征的说法，正确的有哪几项？（多选）",
@@ -1691,7 +1691,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于土壤颗粒分类的说法，正确的有哪几项？（多选）",
@@ -1707,7 +1707,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于人为表层类中灌淤表层特征的描述，正确的是哪一项？",
@@ -1723,7 +1723,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于腐殖质表层类中暗沃表层、暗瘠表层和淡薄表层特点的说法，正确的有哪几项？（多选）",
@@ -1739,7 +1739,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "在灌淤培肥过程中，耕翻、耙糖及中耕等耕作措施的主要作用是什么？",
@@ -1755,7 +1755,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述东部湿润土壤系列的主要特征。",
@@ -1773,7 +1773,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会影响土壤中氮素的有效性？（多选）",
@@ -1789,7 +1789,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "四川盆地的主要土壤类型包括下列哪一项？",
@@ -1805,7 +1805,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于地理发生分类在土壤研究中存在不足的说法，正确的是哪一项？",
@@ -1821,7 +1821,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "概念解释题",
     "question": "请解释隐灰化（或准灰化）的含义。",
@@ -1838,7 +1838,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "灰化过程中，络合态铝和络合态铁在土壤剖面中出现差异的主要原因是下列哪一项？",
@@ -1854,7 +1854,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于我国南方湿热气候条件下土壤对离子保持能力的说法，正确的有哪几项？（多选）",
@@ -1870,7 +1870,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于弱钙腐殖湿润变性土特点的说法，正确的有哪几项？（多选）",
@@ -1886,7 +1886,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于潜育层和具有潜育现象的土层中铁和游离铁含量较低的原因及反映的土壤特性，正确的说法有哪些？（多选）",
@@ -1902,7 +1902,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于强育湿润富铁土土层厚度的说法，正确的是哪一项？",
@@ -1918,7 +1918,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于土壤物质损失的主要方式？（多选）",
@@ -1934,7 +1934,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "土壤溶液中直接控制黏粒矿物形成种类的离子主要来自下列哪一组化合物？",
@@ -1950,7 +1950,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于永冻有机土与正常有机土差异的说法，正确的有哪几项？（多选）",
@@ -1966,7 +1966,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于我国土壤广域水平分布规律的说法，正确的有哪几项？（多选）",
@@ -1982,7 +1982,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于有机土壤物质有机碳含量标准的说法，正确的有哪几项？（多选）",
@@ -1998,7 +1998,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于土壤有机碳空间分异表现明显的区域尺度，正确的有哪几项？（多选）",
@@ -2014,7 +2014,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于我国近20年农田土壤有机碳储量变化趋势的说法，正确的是哪一项？",
@@ -2030,7 +2030,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于“斑纹钙积湿润变性土”主要成分的说法，正确的是哪一项？",
@@ -2046,7 +2046,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于铁铝土土壤物质风化特征的说法，正确的有哪几项？（多选）",
@@ -2062,7 +2062,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "干润淋溶土的成土母质主要包括下列哪一类物质？",
@@ -2078,7 +2078,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "在风化初期形成的幼年土壤中，易风化矿物保持稳定的主要原因是下列哪一项？",
@@ -2094,7 +2094,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于腐殖质积累过程表现方式的说法，正确的有哪几项？（多选）",
@@ -2110,7 +2110,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于铁铝土风化成土过程中矿物质分解与合成方式的说法，正确的有哪几项？（多选）",
@@ -2126,7 +2126,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：龚子同的研究表明，土壤性质是红色风化壳形成的重要影响因素。",
@@ -2136,7 +2136,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会影响原生矿物在风化过程中的稳定性？（多选）",
@@ -2152,7 +2152,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于火山灰土壤物理特征的说法，正确的有哪几项？（多选）",
@@ -2168,7 +2168,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：铁铝土在风化过程中，盐基元素发生了强烈的淋失。",
@@ -2178,7 +2178,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：生物风化对土壤矿物分解的影响仅包括有机体对矿物颗粒的直接作用。",
@@ -2188,7 +2188,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：淋溶土根据气候条件和土壤特性分为冷凉淋溶土、干润淋溶土、常湿淋溶土和湿润淋溶土四类。",
@@ -2198,7 +2198,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "灰土主要分为哪两类？",
@@ -2214,7 +2214,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于水耕表层特征的描述，正确的是哪一项？",
@@ -2230,7 +2230,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "潜育土的主要种类包括下列哪一项？",
@@ -2246,7 +2246,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "在高度风化的土壤中，大气颗粒输入主要扮演什么角色？",
@@ -2262,7 +2262,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "铁铝土的形成主要受到下列哪一组成土作用的影响？",
@@ -2278,7 +2278,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "永冻有机土主要分为哪几种类型？",
@@ -2294,7 +2294,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "落叶正常有机土的主要植被类型是下列哪一项？",
@@ -2310,7 +2310,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于水耕人为土的亚类？",
@@ -2326,7 +2326,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "半腐永冻有机土的植被组成主要是下列哪一项？",
@@ -2342,7 +2342,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于钙质湿润雏形土有机质积累特征的描述，正确的是哪一项？",
@@ -2358,7 +2358,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：简育正常干旱土的成土母质类型包括黄土、黄土状物质和新的沉积物。",
@@ -2368,7 +2368,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：有机土包括永冻有机土和正常有机土两大类。",
@@ -2378,7 +2378,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "铁铝土的主要诊断层是下列哪一项？",
@@ -2394,7 +2394,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "土壤膨胀收缩过程在地表形成的微地形，其主要特征是什么？",
@@ -2410,7 +2410,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于极端干旱地区土壤钙积过程的说法，正确的有哪几项？（多选）",
@@ -2426,7 +2426,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "土壤在膨胀收缩过程中形成裂隙和楔形结构体的主要机制是什么？",
@@ -2442,7 +2442,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：砂质新成土的土壤颗粒以砂粒为主，质地为壤质细砂土或更粗。",
@@ -2452,7 +2452,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：土壤翻转过程中滑擦面和滑擦痕的形成主要与土壤的膨胀收缩特性及裂隙发育有关。",
@@ -2462,7 +2462,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于雏形土质地特征的说法，正确的有哪几项？（多选）",
@@ -2478,7 +2478,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "有机质主要通过下列哪一项机制影响土壤结构和孔隙的形成？",
@@ -2494,7 +2494,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：红色酸性湿润淋溶土的土壤质地较重，透水性较差。",
@@ -2504,7 +2504,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：斑纹酸性湿润淋溶土与其他酸性湿润淋溶土的主要区别在于其土壤颜色、结构和化学性质上具有更明显的变化和多样性。",
@@ -2514,7 +2514,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：火山灰土中占优势的物质是结晶态的铁铝三氧化二物。",
@@ -2524,7 +2524,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：铁质酸性湿润淋溶土的土壤pH值通常大于5.5。",
@@ -2534,7 +2534,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于普通酸性湿润淋溶土典型特征的说法，正确的有哪几项？（多选）",
@@ -2550,7 +2550,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于黄色铝质湿润淋溶土与普通铝质湿润淋溶土区别的说法，正确的有哪几项？（多选）",
@@ -2566,7 +2566,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于石质铝质湿润淋溶土特点的说法，正确的有哪几项？（多选）",
@@ -2582,7 +2582,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于红色正常新成土土壤特性的说法，正确的有哪几项？（多选）",
@@ -2598,7 +2598,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：腐殖铝质湿润淋溶土在我国南方地区较为常见。",
@@ -2608,7 +2608,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：强度铝质湿润淋溶土是一种土壤类型，其铝质成分含量较低。",
@@ -2618,7 +2618,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：变性土的黏土矿物组成通常以高岭石为主。",
@@ -2628,7 +2628,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：铁铝土的黏粒部分主要含有高岭石类矿物、赤铁矿、针铁矿及三水铝矿。",
@@ -2638,7 +2638,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述冷凉常湿雏形土土壤表层的主要特征。",
@@ -2656,7 +2656,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：雏形土的矿物组成通常包括长石、蒙脱石、伊利石、水云母和蛭石。",
@@ -2666,7 +2666,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述滨海地带潮湿正常盐成土的主要特征。",
@@ -2684,7 +2684,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "热带地区黏粒迁移能力较低的主要原因是下列哪一项？",
@@ -2700,7 +2700,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "常湿锥形土的土壤水分状况主要具有下列哪一项特征？",
@@ -2716,7 +2716,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "钙积层的出现深度与年平均降水量之间的关系，下列哪一项描述是正确的？",
@@ -2732,7 +2732,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "钙积层的出现深度与年平均降水量呈正相关的地区是下列哪一项？",
@@ -2748,7 +2748,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于人为滞水水分状况的说法，正确的是哪一项？",
@@ -2764,7 +2764,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项是改良红色正常新成土的有效措施？",
@@ -2780,7 +2780,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于钙积层形态的说法，正确的是哪一项？",
@@ -2796,7 +2796,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：灌淤表层是通过长期引用富含泥沙的浑水灌溉，并受施肥、耕作等作用影响而形成的。",
@@ -2806,7 +2806,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "潮湿正常盐成土的盐分组成通常与下列哪一项相似？",
@@ -2822,7 +2822,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "永冻有机土的主要成分是下列哪一项？",
@@ -2838,7 +2838,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：酸性湿润锥形土的质地偏重，黏粒含量大于100g/kg。",
@@ -2848,7 +2848,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "土壤胀缩性黏质土壤在干燥和湿润过程中的‘自吞现象’主要是指下列哪一项？",
@@ -2864,7 +2864,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于钙质湿润雏形土特征的描述，正确的是哪一项？",
@@ -2880,7 +2880,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：砂质新成土的成土过程中，细土积累表现为粉砂粒和黏粒含量逐渐增加。",
@@ -2890,7 +2890,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于潮湿正常盐成土含盐量和厚度随气候干燥度变化的说法，正确的是哪一项？",
@@ -2906,7 +2906,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "红色正常新成土的母岩类型是什么？",
@@ -2922,7 +2922,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "寒冻砂质新成土的成土母质主要来源于下列哪一项？",
@@ -2938,7 +2938,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会影响干旱土的形成过程？（多选）",
@@ -2954,7 +2954,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "常湿锥形土的成土母质主要来源于下列哪一类物质？",
@@ -2970,7 +2970,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述雏形土形成的主要影响因素。",
@@ -2988,7 +2988,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述黏化作用在土壤形成中的主要作用。",
@@ -3006,7 +3006,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：灌淤干润雏形土的形成过程中，土壤中的易溶盐会因灌溉水的淋溶作用而大部分淋出。",
@@ -3016,7 +3016,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述潮湿正常盐成土形成的主要原因。",
@@ -3034,7 +3034,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于水耕氧化还原层特征的描述，正确的有哪几项？（多选）",
@@ -3050,7 +3050,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于钙质湿润雏形土土壤反应类型的说法，正确的是哪一项？",
@@ -3066,7 +3066,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于简育干润均腐土碳酸钙淀积现象特征的描述，正确的有哪几项？（多选）",
@@ -3082,7 +3082,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于简育干润均腐土土壤反应特点的说法，正确的有哪几项？（多选）",
@@ -3098,7 +3098,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "土壤中有效钼含量的分布主要受下列哪一因素影响？",
@@ -3114,7 +3114,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于我国土壤有效硼空间分布特点的说法，正确的有哪些？（多选）",
@@ -3130,7 +3130,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于珊瑚砂和贝壳碎屑在富磷特性中作用的说法，正确的有哪几项？（多选）",
@@ -3146,7 +3146,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于碳酸盐在干旱、半干旱地区移动形式的说法，正确的有哪几项？（多选）",
@@ -3162,7 +3162,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于黏化层定义的说法，正确的是哪一项？",
@@ -3178,7 +3178,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于黏磐主要特征的描述，正确的有哪几项？（多选）",
@@ -3194,7 +3194,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于雏形层形成过程的说法，正确的是哪一项？",
@@ -3210,7 +3210,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "简答题",
     "question": "简述灰化淀积层的形成过程。",
@@ -3228,7 +3228,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：盐岩的厚度通常小于15厘米，含盐量低于500克/千克。",
@@ -3238,7 +3238,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于漂白层（albic horizon）主要特征的描述，正确的有哪几项？（多选）",
@@ -3254,7 +3254,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：砂质新成土主要分布在中国西北干旱区、东部季风区和青藏高原区。",
@@ -3264,7 +3264,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：水耕氧化还原层位于水耕表层之上。",
@@ -3274,7 +3274,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于灌淤干润雏形土剖面结构特点的说法，正确的有哪些？（多选）",
@@ -3290,7 +3290,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于利用线胀系数（COLE）划分变性土的说法，正确的有哪几项？（多选）",
@@ -3306,7 +3306,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于砂质新成土类型的说法，正确的有哪几项？（多选）",
@@ -3322,7 +3322,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于变性土变性特征条件的说法，正确的是哪一项？",
@@ -3338,7 +3338,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些条件可作为其他土纲中划分出变性亚类的依据？（多选）",
@@ -3354,7 +3354,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "寒冻砂质新成土的主要分布区域是下列哪一项？",
@@ -3370,7 +3370,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于变性土诊断特性的说法，正确的是哪一项？",
@@ -3386,7 +3386,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：线胀系数（COLE）是鉴别变性土的唯一定量指标。",
@@ -3396,7 +3396,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "在变性土鉴别中，土体层厚度主要起什么作用？",
@@ -3412,7 +3412,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "概念解释题",
     "question": "请解释雏形土的含义。",
@@ -3429,7 +3429,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于水耕氧化还原层与灌淤表层区别的说法，正确的有哪几项？（多选）",
@@ -3445,7 +3445,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于正常有机土土类划分的说法，正确的有哪几项？（多选）",
@@ -3461,7 +3461,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：盐积正常干旱土与其他干旱土的主要区别在于是否具有干旱表层。",
@@ -3471,7 +3471,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "永冻有机土的土类划分主要依据下列哪一项？",
@@ -3487,7 +3487,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于钙积层厚度和钙质含量的标准定义，正确的是哪一项？",
@@ -3503,7 +3503,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：铁质湿润雏形土主要分布在我国北亚热带的丘陵岗地，同时在中亚热带及其以南的丘陵岗地区也有分布。",
@@ -3513,7 +3513,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：铝质湿润雏形土主要分布在我国中亚热带及北亚热带的南部地区，地貌类型以丘陵岗地为主。",
@@ -3523,7 +3523,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于落叶永冻有机土分布特点的说法，正确的是哪一项？",
@@ -3539,7 +3539,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "红色正常新成土主要分布在下列哪一组地区？",
@@ -3555,7 +3555,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "滞水常湿锥形土主要分布在下列哪一类地形部位？",
@@ -3571,7 +3571,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "常湿雏形土在我国主要分布在下列哪一类地形部位？",
@@ -3587,7 +3587,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：土壤还原性增强会降低磷的有效性。",
@@ -3597,7 +3597,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于雏形土成土作用特征的描述，正确的有哪几项？（多选）",
@@ -3613,7 +3613,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "在中国土壤分类中，有机土与泥炭土的关系是下列哪一项？",
@@ -3629,7 +3629,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：火山灰土壤的磷酸盐吸持量应大于等于25%。",
@@ -3639,7 +3639,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于中国有机土主要分布区的说法，正确的是哪一项？",
@@ -3655,7 +3655,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "有机土的成土过程主要以什么为主？",
@@ -3671,7 +3671,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：变性土形成的基本条件之一是土壤黏粒含量须大于300克/千克。",
@@ -3681,7 +3681,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于变性土形成物质基础的说法，正确的有哪几项？（多选）",
@@ -3697,7 +3697,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于石灰寒冻正常新成土与普通寒冻正常新成土区别的说法，正确的有哪几项？（多选）",
@@ -3713,7 +3713,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于普通湿润冲积新成土与酸性湿润冲积新成土差异的说法，正确的有哪几项？（多选）",
@@ -3729,7 +3729,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "弱盐潮湿砂质新成土与普通潮湿砂质新成土的主要区别在于下列哪一项？",
@@ -3745,7 +3745,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于漂白暗沃冷凉淋溶土和表潜暗沃冷凉淋溶土特征的描述，正确的是哪一项？",
@@ -3761,7 +3761,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于暗沃漂白冷凉淋溶土与酸性漂白冷凉淋溶土区别的说法，正确的有哪几项？（多选）",
@@ -3777,7 +3777,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于石质暗沃冷凉淋溶土与钙积暗沃冷凉淋溶土区别的说法，正确的有哪几项？（多选）",
@@ -3793,7 +3793,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列关于普通漂白冷凉淋溶土特征的描述，正确的有哪几项？（多选）",
@@ -3809,7 +3809,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：普通纤维永冻有机土与其他类型纤维永冻有机土的区别仅在于土壤质地。",
@@ -3819,7 +3819,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "斑纹黏化湿润富铁土的主要特征是什么？",
@@ -3835,7 +3835,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "下列关于石质简育湿润富铁土特征的描述，正确的是哪一项？",
@@ -3851,7 +3851,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：石质落叶正常有机土与石质落叶永冻有机土的主要区别在于土壤的冻结状态。",
@@ -3861,7 +3861,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：高腐纤维永冻有机土在土壤分类中属于永冻有机土类。",
@@ -3871,7 +3871,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：矿底纤维永冻有机土属于永冻有机土类，是纤维永冻有机土的一种。",
@@ -3881,7 +3881,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "多选题",
     "question": "下列哪些条件属于埋藏纤维永冻有机土的形成条件？（多选）",
@@ -3897,7 +3897,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "肥熟表层在水耕表层中的主要作用不包括下列哪一项？",
@@ -3913,7 +3913,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "单选题",
     "question": "干润雏形土在土壤分类中属于下列哪一类别？",
@@ -3929,7 +3929,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "土壤地理",
     "knowledge_type": "判断题",
     "question": "判断正误：暗沃表层颜色较暗瘠表层更深，有机质积累更多，肥力更高。",

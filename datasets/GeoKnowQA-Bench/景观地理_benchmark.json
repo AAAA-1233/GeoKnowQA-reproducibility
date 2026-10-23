@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于渗透理论在景观模型中应用的描述，正确的有哪几项？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于复合种群理论与景观生态学结合的说法，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于景观动态变化主要驱动因素的分类，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "简答题",
     "question": "简述景观空间异质性的主要内容。",
@@ -67,7 +67,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于景观异质性来源及其对景观功能与过程影响的说法，正确的有哪几项？（多选）",
@@ -83,7 +83,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "洪堡对景观的定义是什么？",
@@ -99,7 +99,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于景观生态学中空间异质性对生态系统影响的说法，正确的有哪几项？（多选）",
@@ -115,7 +115,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "等级理论在景观生态学中的主要作用是什么？",
@@ -131,7 +131,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "等级系统中的整体元具有下列哪一项特性？",
@@ -147,7 +147,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于巢式等级系统与非巢式等级系统区别的说法，正确的是哪一项？",
@@ -163,7 +163,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于等级系统理论对复杂系统结构描述的表述，正确的是哪一项？",
@@ -179,7 +179,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "概念解释题",
     "question": "请解释等级系统的垂直结构和水平结构分别指什么？",
@@ -197,7 +197,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "景观生态学在水土保持中的主要作用是什么？",
@@ -213,7 +213,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "等级系统的离散性或近可分解性主要体现在哪些方面？",
@@ -229,7 +229,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "生态规划的理论和方法经历了怎样的发展过程？",
@@ -245,7 +245,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于等级斑块动态范式内容的说法，正确的是哪一项？",
@@ -261,7 +261,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "格局、过程及其相互关系在景观生态学中具有尺度依赖性的主要原因是什么？",
@@ -277,7 +277,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于非平衡观点对生态学系统稳定性解释的说法，正确的是哪一项？",
@@ -293,7 +293,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在等级斑块动态范式中，兼容机制主要是指什么？",
@@ -309,7 +309,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "尺度在生态学中的三重概念是指下列哪一项？",
@@ -325,7 +325,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "简答题",
     "question": "简述等级斑块动态范式的主要构成内容。",
@@ -342,7 +342,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "现象尺度主要包括下列哪两部分内容？",
@@ -358,7 +358,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于分析或模拟尺度与现象尺度区别的说法，正确的是哪一项？",
@@ -374,7 +374,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "判断题",
     "question": "判断正误：在森林景观对火干扰的响应中，尺度效应表现为不同时空尺度下景观结构和功能变化的差异性。",
@@ -384,7 +384,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于尺度断点的说法，正确的是哪一项？",
@@ -400,7 +400,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "陆地景观中的斑块在什么条件下可以视为'岛屿'？",
@@ -416,7 +416,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "景观阻力比地理隔离更适合量化物种迁移潜力的主要原因是什么？",
@@ -432,7 +432,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于Levins复合种群主要特征的说法，正确的有哪几项？（多选）",
@@ -448,7 +448,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在大陆一岛屿型复合种群中，大斑块的主要作用是什么？",
@@ -464,7 +464,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "复合种群必须满足的两个基本条件是什么？",
@@ -480,7 +480,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "复合种群动态的核心特征是什么？",
@@ -496,7 +496,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项是导致珊瑚礁生态系统中条纹石斑鱼等敏感种类局部灭绝的主要因素？",
@@ -512,7 +512,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "Rule模型和Simmap模型在模拟景观时的主要区别是下列哪一项？",
@@ -528,7 +528,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "复合种群对生境退化的响应具有下列哪一项特征？",
@@ -544,7 +544,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "生境斑块的空间格局主要通过哪一途径影响复合种群的维持？",
@@ -560,7 +560,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于基质性质在复合种群维持中作用的说法，正确的是哪一项？",
@@ -576,7 +576,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "当邻域规则从四邻规则改为八邻规则时，渗透阈值会发生什么变化？",
@@ -592,7 +592,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于复合种群理论目前面临的主要挑战，说法正确的是哪一项？",
@@ -608,7 +608,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在渗透理论中，渗透阈值（临界概率）主要是指什么？",
@@ -624,7 +624,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "中性模型在景观生态学中的主要作用是什么？",
@@ -640,7 +640,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "实际景观中的渗透阈值通常低于纯随机渗透模型的理论值，其主要原因是什么？",
@@ -656,7 +656,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "景观连接度中的尺度效应主要表现为下列哪一项？",
@@ -672,7 +672,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于原生草丛草原与外来牧场草原对大石龙子集合种群参数影响的说法，正确的是哪一项？",
@@ -688,7 +688,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于栖息地岛屿和隔离区上哺乳动物物种丰富度决定因素的描述，正确的是哪一项？",
@@ -704,7 +704,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于岛屿生物地理学平衡理论的描述，正确的是哪一项？",
@@ -720,7 +720,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在微生态系统中，集合种群动态、丰度和分布之间的关系是下列哪一项？",
@@ -736,7 +736,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "破碎化景观中，衡量集合种群容量的核心框架不包括下列哪一项？",
@@ -752,7 +752,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "生态学中的等级理论如何解释复杂性？",
@@ -768,7 +768,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于城市化扩张和气候变化对蝴蝶种群影响的说法，正确的有哪几项？（多选）",
@@ -784,7 +784,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于栖息地破碎化对关键物种保护影响的说法，正确的是哪一项？",
@@ -800,7 +800,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "聚居斑块的稳定性主要受下列哪两个因素影响？",
@@ -816,7 +816,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于短生斑块与再生斑块在持续时间上的区别，正确的是哪一项？",
@@ -832,7 +832,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于集合种群（Metapopulation）的说法，正确的是哪一项？",
@@ -848,7 +848,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "元群落概念在生态学中的主要作用是什么？",
@@ -864,7 +864,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于蝴蝶在不适宜基质中扩散行为的描述，正确的是哪一项？",
@@ -880,7 +880,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "影响加州骡鹿分化的生态因素主要包括下列哪一项？",
@@ -896,7 +896,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "蝴蝶种群近亲繁殖与灭绝之间的关系，下列哪一项描述是正确的？",
@@ -912,7 +912,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "栖息地破坏导致灭绝债务的主要过程是下列哪一项？",
@@ -928,7 +928,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于斑块的定义，正确的是哪一项？",
@@ -944,7 +944,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "树蛙（Hyla arborea）的栖息地隔离参数与其破碎化分布模式之间的关系，下列哪一项描述是正确的？",
@@ -960,7 +960,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "干扰斑块形成的主要原因是下列哪一项？",
@@ -976,7 +976,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "根据斑块的不同起源和形成机制，斑块主要分为哪四种类型？",
@@ -992,7 +992,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于环境资源斑块特点的说法，正确的是哪一项？",
@@ -1008,7 +1008,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于残遗斑块与干扰斑块区别的说法，正确的是哪一项？",
@@ -1024,7 +1024,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "斑块的持久性和稳定性主要受下列哪一因素影响？",
@@ -1040,7 +1040,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于森林间伐迹地斑块大小对自然更新影响的说法，正确的有哪几项？（多选）",
@@ -1056,7 +1056,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于斑块大小影响其内部物质流和能量流的说法，正确的有哪几项？（多选）",
@@ -1072,7 +1072,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于斑块内缘比的说法，正确的是哪一项？",
@@ -1088,7 +1088,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "斑块面积增大导致生境空间异质性和多样性增加的主要原因是什么？",
@@ -1104,7 +1104,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在生态建设和景观规划中，森林廊道通常与哪种类型的廊道结合以实现生物多样性保护？",
@@ -1120,7 +1120,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于廊道结构特征的描述，正确的是哪一项？",
@@ -1136,7 +1136,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在景观生态学中，多个小斑块有时比同等面积的大斑块维持更高生物多样性的主要原因是什么？",
@@ -1152,7 +1152,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在景观生态学中，大斑块和小斑块在生态功能上的主要区别是什么？",
@@ -1168,7 +1168,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "绿色廊道在生态系统中的主要功能是下列哪一项？",
@@ -1184,7 +1184,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "判断题",
     "question": "判断正误：人为活动造成的斑块通常呈现不规则的复杂形状。",
@@ -1194,7 +1194,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "内缘比在斑块形状量化中的主要作用是什么？",
@@ -1210,7 +1210,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于内部种和边缘种在斑块中分布特征的说法，正确的是哪一项？",
@@ -1226,7 +1226,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于斑块的边缘效应的说法，正确的是哪一项？",
@@ -1242,7 +1242,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "斑块形状的复杂性对与周边基质相互作用的影响，下列哪一项描述是正确的？",
@@ -1258,7 +1258,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "树篱廊道对草本植物多样性影响的'宽度效应'阈值是多少？",
@@ -1274,7 +1274,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "目标物种的体型大小与廊道宽度设计之间的关系，下列哪一项是正确的？",
@@ -1290,7 +1290,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "关于廊道宽度对边缘种和内部种生物多样性的影响，下列哪一项说法是正确的？",
@@ -1306,7 +1306,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于斑块数量和密度对野生动物保护影响的说法，正确的是哪一项？",
@@ -1322,7 +1322,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在景观规划中，应避免将大面积生境斑块人为分割成多个小斑块，其主要原因是什么？",
@@ -1338,7 +1338,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "斑块之间的空间关系对景观生态过程和功能的影响，主要体现在下列哪一项？",
@@ -1354,7 +1354,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "线状廊道与带状廊道的主要区别在于下列哪一项？",
@@ -1370,7 +1370,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "廊道的植被结构和植物种类应尽量与连接的大斑块保持一致，其主要原因是什么？",
@@ -1386,7 +1386,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于廊道连通性的说法，正确的是哪一项？",
@@ -1402,7 +1402,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于廊道曲度对物种迁移和生境多样性影响的说法，正确的是哪一项？",
@@ -1418,7 +1418,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "廊道间断区对物种迁移的主要影响机制是什么？",
@@ -1434,7 +1434,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "判断景观基质的三个标准是下列哪一项？",
@@ -1450,7 +1450,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于基质连通性在景观中作用的说法，正确的是哪一项？",
@@ -1466,7 +1466,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "简答题",
     "question": "简述判断景观组分是否为基质的三个主要标准。",
@@ -1484,7 +1484,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "简答题",
     "question": "简述基质对景观动态的控制作用主要体现在哪些方面。",
@@ -1502,7 +1502,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于基质判断标准的说法，正确的是哪一项？",
@@ -1518,7 +1518,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "基质的结构特征主要包括下列哪三个方面？",
@@ -1534,7 +1534,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在农田景观中，树篱可以被视为基质的主要依据是下列哪一项？",
@@ -1550,7 +1550,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于景观中孔隙度计算的说法，正确的是哪一项？",
@@ -1566,7 +1566,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于孔隙度与连通性关系的说法，正确的是哪一项？",
@@ -1582,7 +1582,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于景观组分边界形状对基质与斑块相互关系影响的说法，正确的是哪一项？",
@@ -1598,7 +1598,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于扩展组分和残存组分边界形状特征的说法，正确的是哪一项？",
@@ -1614,7 +1614,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "景观网络由哪两个基本组成部分构成？",
@@ -1630,7 +1630,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于森林景观的定义，正确的是哪一项？",
@@ -1646,7 +1646,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "重力模型在景观网络模拟中主要用于量化什么？",
@@ -1662,7 +1662,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "在景观生态学中，孔隙度是指下列哪一项？",
@@ -1678,7 +1678,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "根据人类对自然景观的干扰程度，景观可分为哪几类？",
@@ -1694,7 +1694,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "草地景观主要包括哪两大类？",
@@ -1710,7 +1710,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "多选题",
     "question": "下列关于荒漠-绿洲景观主要组成部分的说法，正确的有哪几项？（多选）",
@@ -1726,7 +1726,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于湿地景观定义的描述，正确的是哪一项？",
@@ -1742,7 +1742,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于城市景观特点的描述，正确的是哪一项？",
@@ -1758,7 +1758,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于农业景观形成的说法，正确的是哪一项？",
@@ -1774,7 +1774,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "景观网络构建中的网络密度主要是指下列哪一项？",
@@ -1790,7 +1790,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "下列关于网络节点在物种迁移过程中作用的说法，正确的是哪一项？",
@@ -1806,7 +1806,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "概念解释题",
     "question": "请解释物种粒级的含义。",
@@ -1823,7 +1823,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "简答题",
     "question": "简述分支网络与直线型网络在结构特征上的主要区别。",
@@ -1841,7 +1841,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "判断题",
     "question": "判断正误：网眼大小超过物种粒级时，物种更容易获得适宜生境而存活。",
@@ -1851,7 +1851,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "判断题",
     "question": "判断正误：城市生态网络评估中常用的景观结构指标仅包括景观格局指数。",
@@ -1861,7 +1861,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "判断题",
     "question": "判断正误：景观边界对生物多样性的影响仅体现在促进物种扩散方面。",
@@ -1871,7 +1871,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "判断题",
     "question": "判断正误：图论在景观生态学建模中仅用于构建景观图模型。",
@@ -1881,7 +1881,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "景观地理",
     "knowledge_type": "单选题",
     "question": "土地覆盖空间配置对城市地表温度的影响机制主要涉及下列哪一项？",

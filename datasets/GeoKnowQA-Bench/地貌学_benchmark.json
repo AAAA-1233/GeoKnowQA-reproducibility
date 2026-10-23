@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列哪些属于地貌学研究中常用的观测站和试验站类型？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于洋脊裂谷带地质活动表现的说法，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "海底扩张假说的主要依据是下列哪一项？",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "地球内部物质的对流运动是板块分离与汇聚的根本驱动力，其具体表现不包括下列哪一项？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于深海沉积速度与洋底地貌形成关系的说法，正确的是哪一项？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "构造升降运动导致侵蚀地貌和堆积地貌产生的主要机制是什么？",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于转换断层与一般平移断层区别的说法，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于大洋中脊地貌特征的描述，正确的是哪一项？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "毕乌夫带形成的主要原因是下列哪一项？",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于稳定大陆边缘主要特征的描述，正确的是哪一项？",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "大陆边缘宽度变化的主要原因是下列哪一项？",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "东非裂谷带的地壳厚度与大陆地壳平均厚度相比，下列哪一项是正确的？",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "陆地构造地貌主要分为哪三种区域？",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "断块山与断陷谷之间的地形特征主要表现为下列哪一项？",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "褶皱块断山脉的形成主要经历了哪两个阶段？",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "华北平原的形成主要与下列哪一地质作用有关？",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "山地和丘陵的主要区别在于下列哪一项？",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于板块内部稳定区地形特征的说法，正确的有哪几项？（多选）",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于高原和平原海拔高度差异的说法，正确的是哪一项？",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于现代山脉顶部平坦面形成原因的说法，正确的有哪几项？（多选）",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "青藏高原的隆起过程主要发生在下列哪一地质时期？",
@@ -337,7 +337,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "盾形火山的坡度最大大约是多少度？",
@@ -353,7 +353,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "熔岩堰塞湖形成的主要原因是下列哪一项？",
@@ -369,7 +369,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于断层三角面形成过程的说法，正确的有哪几项？（多选）",
@@ -385,7 +385,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于断层线崖与断层崖区别的说法，正确的是哪一项？",
@@ -401,7 +401,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "断裂地貌的形成主要受下列哪一因素影响？",
@@ -417,7 +417,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于掀斜山典型特征的说法，正确的有哪几项？（多选）",
@@ -433,7 +433,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于断层谷形态特征的描述，正确的是哪一项？",
@@ -449,7 +449,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "在褶皱构造区中，逆向河与再顺向河的主要区别在于下列哪一项？",
@@ -465,7 +465,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于火山口和破火山口区别的说法，正确的是哪一项？",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "盐丘地貌的形成过程主要涉及下列哪一项？",
@@ -497,7 +497,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "穹隆山地地貌的形成主要与下列哪一组地质作用有关？",
@@ -513,7 +513,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于锥形火山特征的描述，正确的是哪一项？",
@@ -529,7 +529,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "风化作用的实质是下列哪一项？",
@@ -545,7 +545,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于盐类结晶作用导致岩石崩解的过程，正确的有哪几项？（多选）",
@@ -561,7 +561,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "剥离作用导致岩石破裂的主要机制是什么？",
@@ -577,7 +577,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于岩石表层与下层温差导致风化裂隙的说法，正确的有哪几项？（多选）",
@@ -593,7 +593,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "氧化作用只能在地下水面以上的岩层中强烈进行，其主要原因是下列哪一项？",
@@ -609,7 +609,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "水化作用引起的体积膨胀对花岗岩的主要影响是什么？",
@@ -625,7 +625,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "实验室中难以重现纯粹因热力作用导致的岩石崩解，其主要原因是什么？",
@@ -641,7 +641,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "简答题",
     "question": "简述石英砂能在长期化学风化后大量聚集的主要原因。",
@@ -658,7 +658,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于物理风化为主的阶段形成的风化壳（岩屑型风化壳）特征的描述，正确的是哪一项？",
@@ -674,7 +674,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "高岭土型风化壳的主要成分是下列哪一项？",
@@ -690,7 +690,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "热带湿热气候条件下，风化壳可能发育到下列哪一阶段？",
@@ -706,7 +706,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "母岩成分对风化壳发育的主要影响体现在下列哪一项？",
@@ -722,7 +722,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "形成砖红壤风化壳通常需要多长时间？",
@@ -738,7 +738,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "概念解释题",
     "question": "请解释临界坡角的含义。",
@@ -754,7 +754,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "土的内摩擦角随含水量增加如何变化？",
@@ -770,7 +770,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "在松散碎屑堆积层中，内摩擦角与休止角的关系是下列哪一项？",
@@ -786,7 +786,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会影响土体的粘结力？（多选）",
@@ -802,7 +802,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于岩层中容易导致块体运动的结构面的说法，正确的有哪几项？（多选）",
@@ -818,7 +818,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "坡地形态的改变主要通过哪一机制影响块体运动的发生？",
@@ -834,7 +834,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于疏松碎屑蠕动主要影响因素的表述，正确的有哪几项？（多选）",
@@ -850,7 +850,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于蠕动现象主要特征的描述，正确的是哪一项？",
@@ -866,7 +866,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于疏松土层或岩屑蠕动速度随深度变化规律的描述，正确的是哪一项？",
@@ -882,7 +882,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于粘土含量对蠕动现象影响的说法，正确的是哪一项？",
@@ -898,7 +898,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列哪些气候条件容易导致崩塌？（多选）",
@@ -914,7 +914,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于形成崩塌的基本条件的说法，正确的有哪几项？（多选）",
@@ -930,7 +930,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于坡度对崩塌形成影响的说法，正确的是哪一项？",
@@ -946,7 +946,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于岩层结构对崩塌发生影响的说法，正确的是哪一项？",
@@ -962,7 +962,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "暴雨触发崩塌发生的主要机制是下列哪一项？",
@@ -978,7 +978,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "人工开挖坡脚导致崩塌的主要原因是下列哪一项？",
@@ -994,7 +994,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "滑坡后壁的坡度一般是多少？",
@@ -1010,7 +1010,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "概念解释题",
     "question": "请解释滑动力矩和抗滑力矩在土坡稳定性分析中的基本含义。",
@@ -1027,7 +1027,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "概念解释题",
     "question": "请解释滑坡体的含义。",
@@ -1044,7 +1044,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "滑坡洼地通常在下列哪一位置形成？",
@@ -1060,7 +1060,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "简答题",
     "question": "简述滑坡台阶的形成原因。",
@@ -1077,7 +1077,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于滑坡舌在滑坡体中作用的描述，正确的是哪一项？",
@@ -1093,7 +1093,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "斜坡上的土体或岩体滑动的主要力学机制是下列哪一项？",
@@ -1109,7 +1109,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于崩塌主要发生地貌部位的说法，正确的是哪一项？",
@@ -1125,7 +1125,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "判断题",
     "question": "判断正误：散落和崩塌是坡地重力地貌中两种互不相关的现象。",
@@ -1135,7 +1135,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "倒石堆的形态和规模主要受下列哪一因素影响？",
@@ -1151,7 +1151,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于倒石堆发育阶段的说法，正确的有哪几项？（多选）",
@@ -1167,7 +1167,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于倒石堆结构特点的说法，正确的是哪一项？",
@@ -1183,7 +1183,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "古滑坡的滑动面处通常能观察到下列哪一组地质特征？",
@@ -1199,7 +1199,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "判断题",
     "question": "判断正误：针对地下水活动引起的滑坡，应以布置截水工程为主要治理措施。",
@@ -1209,7 +1209,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于滑坡按滑动面与岩体结构面关系分类的说法，正确的有哪几项？（多选）",
@@ -1225,7 +1225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "滑坡按滑动年代划分，主要包括下列哪几种类型？",
@@ -1241,7 +1241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于牵引式滑坡与推动式滑坡运动形式的说法，正确的是哪一项？",
@@ -1257,7 +1257,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "简答题",
     "question": "简述剧烈滑动阶段滑坡的主要特征。",
@@ -1274,7 +1274,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "滑坡的发育阶段主要包括下列哪一组过程？",
@@ -1290,7 +1290,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于识别古滑坡的地貌标志？",
@@ -1306,7 +1306,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "判断题",
     "question": "判断正误：滑坡壁遗迹是识别古滑坡的唯一标志。",
@@ -1316,7 +1316,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "简答题",
     "question": "简述河流水位骤降触发滑坡的主要原因。",
@@ -1334,7 +1334,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于流水地貌形成特征的描述，正确的有哪几项？（多选）",
@@ -1350,7 +1350,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "坡面径流向线状水流转化的关键条件是什么？",
@@ -1366,7 +1366,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "浅凹地形成的主要动力是下列哪一项？",
@@ -1382,7 +1382,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于冲刷带侵蚀纹沟形态特征的描述，正确的是哪一项？",
@@ -1398,7 +1398,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "判断题",
     "question": "判断正误：坡度大于40°后，坡面径流的冲刷能力增强。",
@@ -1408,7 +1408,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "坡面径流作用带分为哪几个部分？",
@@ -1424,7 +1424,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "多选题",
     "question": "下列关于坡积裙岩性和机械组分特点的说法，正确的有哪几项？（多选）",
@@ -1440,7 +1440,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于洪积扇组成物质从扇顶到扇缘变化的描述，正确的是哪一项？",
@@ -1456,7 +1456,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "沟谷水流形成的地貌组合通常由哪三部分组成？",
@@ -1472,7 +1472,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "简答题",
     "question": "简述洪积扇扇缘部分常形成绿洲的主要原因。",
@@ -1490,7 +1490,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "弯道中产生环流的主要原因是下列哪一项？",
@@ -1506,7 +1506,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "概念解释题",
     "question": "请解释河道水流的脉动现象的含义。",
@@ -1524,7 +1524,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "悬移质的多寡主要受下列哪一因素影响？",
@@ -1540,7 +1540,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于河流侵蚀基准面类型的说法，正确的是哪一项？",
@@ -1556,7 +1556,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "概念解释题",
     "question": "请解释河床纵剖面的含义。",
@@ -1574,7 +1574,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "自然地理",
     "subject": "地貌学",
     "knowledge_type": "单选题",
     "question": "下列关于平衡剖面的说法，正确的是哪一项？",

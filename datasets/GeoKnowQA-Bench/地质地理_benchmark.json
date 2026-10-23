@@ -1,7 +1,7 @@
 [
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于低角度正断层形成机制的说法，正确的有哪几项？（多选）",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "简答题",
     "question": "简述板块运动与地幔柱之间的关系。",
@@ -35,7 +35,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "现代岛弧玄武岩形成的主要机制是下列哪一项？",
@@ -51,7 +51,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于矿物定义的基本特征，正确的是哪一项？",
@@ -67,7 +67,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于结晶学基本原理的说法，正确的是哪一项？",
@@ -83,7 +83,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于锌（Zn）缺乏可能导致的健康问题，正确的是哪一项？",
@@ -99,7 +99,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "概念解释题",
     "question": "请解释地道药材的含义。",
@@ -115,7 +115,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "铁（Fe）在人体中的主要生理功能是什么？",
@@ -131,7 +131,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于高放废物海洋处置所需海底地质条件的说法，正确的有哪几项？（多选）",
@@ -147,7 +147,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "微量元素在酶的功能中主要起什么作用？",
@@ -163,7 +163,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "水文地质条件对城市发展规模的影响主要体现在下列哪一项？",
@@ -179,7 +179,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项证据支持二叠纪末期的灾变可能与‘天外来客’有关？",
@@ -195,7 +195,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰期来临时，未被冰盖覆盖地区的植被主要呈现下列哪一项特征？",
@@ -211,7 +211,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "晚三叠世出现的原始哺乳动物（如摩尔根兽）的基本特征是哪一项？",
@@ -227,7 +227,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "二叠纪末期海洋生物的灭绝率大约是多少？",
@@ -243,7 +243,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "鱼石螈身上保留的鱼类特征主要包括下列哪一项？",
@@ -259,7 +259,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于三叠纪晚期古大陆解体主要表现的描述，正确的是哪一项？",
@@ -275,7 +275,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "泥盆纪被称为“鱼类时代”的主要原因是什么？",
@@ -291,7 +291,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "颠石燕属于下列哪一类生物？",
@@ -307,7 +307,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "石炭一二叠纪时构成造煤时期的植物主要包括下列哪一类？",
@@ -323,7 +323,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "抚仙湖虫的全长大约是多少厘米？",
@@ -339,7 +339,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "太古宙阶段残留下来的地质体难以辨识其原先面貌和特点的主要原因是下列哪一项？",
@@ -355,7 +355,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "地盾的形成过程主要经历了下列哪一阶段？",
@@ -371,7 +371,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于地幔物质熔融程度与热流值关系的说法，正确的是哪一项？",
@@ -387,7 +387,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "关于原始地壳的主要组成物质，下列哪一项说法是正确的？",
@@ -403,7 +403,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "撞击作用的主要产物是下列哪一项？",
@@ -419,7 +419,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于海底滑坡特点的说法，正确的是哪一项？",
@@ -435,7 +435,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于崩塌的定义，正确的是哪一项？",
@@ -451,7 +451,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "块体运动发生的主要原因是下列哪一项？",
@@ -467,7 +467,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "预防地质灾害的“空间差”主要是指下列哪一项？",
@@ -483,7 +483,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于蠕滑特征的描述，正确的是哪一项？",
@@ -499,7 +499,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "近水平状软硬相间岩层导致局部崩塌的主要原因是下列哪一项？",
@@ -515,7 +515,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "倒石锥的形成角度被称为休止角，其主要原因是什么？",
@@ -531,7 +531,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于山崩与塌方区别的说法，正确的是哪一项？",
@@ -547,7 +547,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于风蚀作用形成的地貌类型？",
@@ -563,7 +563,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于遇阻堆积具体情形的说法，正确的有哪几项？（多选）",
@@ -579,7 +579,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "砂粒以跳跃方式前进的主要原因是下列哪一项？",
@@ -595,7 +595,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "风蚀城堡主要由下列哪一类岩层构成？",
@@ -611,7 +611,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "风棱石的形成主要依赖于下列哪一过程？",
@@ -627,7 +627,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "太湖形成的主要原因是下列哪一项？",
@@ -643,7 +643,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "海岸带沼泽化的主要原因是什么？",
@@ -659,7 +659,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "腐泥经过成岩作用会转变成下列哪一项？",
@@ -675,7 +675,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "盐湖干涸后的最终状态是下列哪一项？",
@@ -691,7 +691,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "蓝铁矿的主要成分是下列哪一项？",
@@ -707,7 +707,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "在潮湿气候区的湖泊中，最早流失的元素是哪一组？",
@@ -723,7 +723,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "青藏高原上湖泊的总面积约为多少平方公里？",
@@ -739,7 +739,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "全新世以来，古滇池的主要地貌变化表现为下列哪一项？",
@@ -755,7 +755,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会导致湖流的形成？（多选）",
@@ -771,7 +771,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于浅海沉积带沉积特征的说法，正确的有哪几项？（多选）",
@@ -787,7 +787,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于堰塞湖形成原因的说法，正确的有哪几项？（多选）",
@@ -803,7 +803,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于冰盖湖的说法，正确的是哪一项？",
@@ -819,7 +819,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "黑龙江五大连池的主要形成原因是下列哪一项？",
@@ -835,7 +835,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于滨海带沉积特征的描述，正确的是哪一项？",
@@ -851,7 +851,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于造礁珊瑚生长条件的说法，正确的是哪一项？",
@@ -867,7 +867,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项是泄水湖或外流湖的主要特征？",
@@ -883,7 +883,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "判断题",
     "question": "判断正误：海盆的水深通常大于洋盆。",
@@ -893,7 +893,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "岩浆中的水分对海水量的潜在影响，下列哪一项说法是正确的？",
@@ -909,7 +909,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "构造运动主要通过改变下列哪一因素来影响海平面的升降？",
@@ -925,7 +925,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "金属泥的形成主要有哪些可能途径？",
@@ -941,7 +941,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "海洋作为储水盆地，对石油形成的主要促进作用体现在下列哪一项？",
@@ -957,7 +957,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于半深海沉积物主要成分的说法，正确的是哪一项？",
@@ -973,7 +973,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "生物软泥中生物骨骼的含量通常占多少比例？",
@@ -989,7 +989,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "绿泥形成的主要条件是什么？",
@@ -1005,7 +1005,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于浊流的说法，正确的是哪一项？",
@@ -1021,7 +1021,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "陆源物质主要包括哪两种类型？",
@@ -1037,7 +1037,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "海底峡谷形成的主要原因是下列哪一项？",
@@ -1053,7 +1053,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "深海平原上的细小沉积物主要来源于下列哪一过程？",
@@ -1069,7 +1069,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "珊瑚礁演变的主要驱动力是下列哪一项？",
@@ -1085,7 +1085,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "浅海沉积物中颗粒结构灰岩的颗粒主要来源于下列哪一过程？",
@@ -1101,7 +1101,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "简答题",
     "question": "简述古代浅海沉积中大规模白云岩形成的主要原因。",
@@ -1119,7 +1119,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "深部洋流的形成主要受哪一因素控制？",
@@ -1135,7 +1135,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于等深流主要作用的描述，正确的是哪一项？",
@@ -1151,7 +1151,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于鲕状灰岩形成条件的说法，正确的是哪一项？",
@@ -1167,7 +1167,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "海蚀平台的形成过程主要与下列哪一地貌单元的演化密切相关？",
@@ -1183,7 +1183,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "波浪接近海岸时，下列哪一项变形过程是正确的？",
@@ -1199,7 +1199,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "波浪的四个基本要素是下列哪一项？",
@@ -1215,7 +1215,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "在进流和回流的共同作用下，砂砾在海岸形成的地形不包括下列哪一项？",
@@ -1231,7 +1231,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "沙嘴的形成主要与下列哪一过程有关？",
@@ -1247,7 +1247,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "概念解释题",
     "question": "请解释上升泉和下降泉的含义。",
@@ -1262,7 +1262,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "地下水面以上的区域主要被称为什么？",
@@ -1278,7 +1278,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "岩石中的空隙主要包括哪几种类型？",
@@ -1294,7 +1294,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于透水层和隔水层主要区别的说法，正确的是哪一项？",
@@ -1310,7 +1310,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于地质构造对喀斯特地貌形成影响的说法，正确的是哪一项？",
@@ -1326,7 +1326,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "气候对喀斯特地貌发育的影响主要表现为下列哪一项？",
@@ -1342,7 +1342,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "干谷形成的主要原因是下列哪一项？",
@@ -1358,7 +1358,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于潜水主要补给途径的说法，正确的是哪一项？",
@@ -1374,7 +1374,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "含水层失去水的过程主要是指下列哪一项？",
@@ -1390,7 +1390,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "大气降水对地下水补给的主要方式是什么？",
@@ -1406,7 +1406,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "识别古冰川作用存在的主要依据是下列哪一项？",
@@ -1422,7 +1422,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰川形成的必要条件主要包括下列哪一项？",
@@ -1438,7 +1438,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会导致岩石孔隙度降低？（多选）",
@@ -1454,7 +1454,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "衡量岩石中裂隙发育程度的指标是下列哪一项？",
@@ -1470,7 +1470,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于冰川搬运作用特征的描述，正确的是哪一项？",
@@ -1486,7 +1486,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于冰碛物特征的描述，正确的是哪一项？",
@@ -1502,7 +1502,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于蛇形丘构成物质和形成环境的说法，正确的是哪一项？",
@@ -1518,7 +1518,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于鼓丘分布特点及内部结构的说法，正确的是哪一项？",
@@ -1534,7 +1534,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "判断题",
     "question": "判断正误：冰水扇是由冰水在终碛前缘沉积形成的扇形地貌，其沉积区域地形平坦开阔。",
@@ -1544,7 +1544,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于侧碛堤形态特点的描述，正确的是哪一项？",
@@ -1560,7 +1560,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰碛丘陵的形成过程主要与下列哪一项有关？",
@@ -1576,7 +1576,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项是识别冰碛物的排他性证据？",
@@ -1592,7 +1592,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "在冰川沉积物中，直径可达数米以上的岩块被称为什么？",
@@ -1608,7 +1608,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于条痕石的说法，正确的是哪一项？",
@@ -1624,7 +1624,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "古冰斗的位置为什么可以作为判断古雪线高度的依据？",
@@ -1640,7 +1640,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "鳍脊和角峰的形成主要与下列哪一地质作用有关？",
@@ -1656,7 +1656,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "判断题",
     "question": "判断正误：冰川的挖掘作用仅依靠冰川自身的压力来削平冰谷边坡和冰床基岩。",
@@ -1666,7 +1666,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰斗通常发育在什么位置？",
@@ -1682,7 +1682,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰川的剥蚀作用主要分为哪两类？",
@@ -1698,7 +1698,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰川刨蚀作用对河谷横剖面形态的主要影响是下列哪一项？",
@@ -1714,7 +1714,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "悬谷形成的主要原因是下列哪一项？",
@@ -1730,7 +1730,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于冰蚀谷地貌特征的描述，正确的是哪一项？",
@@ -1746,7 +1746,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰川擦痕和磨光面的形成主要与下列哪一过程有关？",
@@ -1762,7 +1762,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰蚀谷谷底出现阶梯状分布的主要原因是下列哪一项？",
@@ -1778,7 +1778,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于冰川中心部位流动速度的说法，正确的是哪一项？",
@@ -1794,7 +1794,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰川冰的分子排列特征对冰川运动的主要影响是什么？",
@@ -1810,7 +1810,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "引起冰川运动的主要因素是哪一项？",
@@ -1826,7 +1826,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于冰川运动速度与普通河流流速的比较，正确的是哪一项？",
@@ -1842,7 +1842,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰川在运动过程中形成的冰裂隙的最大深度约为多少？",
@@ -1858,7 +1858,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰斗冰川的主要特征是哪一项？",
@@ -1874,7 +1874,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "平顶冰川又被称为什么？",
@@ -1890,7 +1890,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于河流侵蚀作用与沉积作用之间关系的说法，正确的是哪一项？",
@@ -1906,7 +1906,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "判断题",
     "question": "判断正误：冰川冰是由液态水直接冻结形成的。",
@@ -1916,7 +1916,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "在雪线以上区域，常年积雪转化为粒雪的主要过程是下列哪一项？",
@@ -1932,7 +1932,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "深切河曲的形成主要与下列哪一过程有关？",
@@ -1948,7 +1948,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "边滩（点沙坝）的形成主要依赖于下列哪一过程？",
@@ -1964,7 +1964,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "去均夷化的主要原因包括下列哪一项？",
@@ -1980,7 +1980,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于河流沉积韵律组成部分的说法，正确的有哪几项？（多选）",
@@ -1996,7 +1996,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于流速降低导致沉积现象地段的说法，正确的是哪一项？",
@@ -2012,7 +2012,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "侵蚀基准面下降对河口段的主要影响是下列哪一项？",
@@ -2028,7 +2028,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "瀑布向上游方向后退的主要原因是下列哪一项？",
@@ -2044,7 +2044,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "简答题",
     "question": "简述河谷形态随河流弯道发展的演变过程。",
@@ -2062,7 +2062,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项河床表面特征会使流速变慢？",
@@ -2078,7 +2078,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于古风化壳被认为是重要储油构造的原因，正确的有哪几项？（多选）",
@@ -2094,7 +2094,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "两组节理交汇处的风化特点主要表现为下列哪一项？",
@@ -2110,7 +2110,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会影响风化地貌的形成？（多选）",
@@ -2126,7 +2126,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于洋葱构造形成过程的说法，正确的有哪几项？（多选）",
@@ -2142,7 +2142,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "岩石因差异性胀缩破坏的四个阶段中，裂缝形成阶段的主要机制是什么？",
@@ -2158,7 +2158,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "层裂现象主要发生在下列哪一类岩石中？",
@@ -2174,7 +2174,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "冰劈作用导致岩石裂隙扩大的主要机制是什么？",
@@ -2190,7 +2190,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于毕鸟夫带的说法，正确的是哪一项？",
@@ -2206,7 +2206,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "东非裂谷带代表了威尔逊旋回的哪个阶段？",
@@ -2222,7 +2222,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "俯冲作用产生的主要原因是下列哪一项？",
@@ -2238,7 +2238,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于东太平洋洋隆上断裂特征的描述，正确的是哪一项？",
@@ -2254,7 +2254,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "岛弧和山弧主要由下列哪一类岩石组成？",
@@ -2270,7 +2270,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "多选题",
     "question": "下列关于稳定大陆边缘岩石圈消耗的说法，正确的有哪几项？（多选）",
@@ -2286,7 +2286,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "俯冲作用主要解释了下列哪一组地质现象？",
@@ -2302,7 +2302,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "下列关于剪切型边界主要特征的描述，正确的是哪一项？",
@@ -2318,7 +2318,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "板块边界的三种基本类型是下列哪一项？",
@@ -2334,7 +2334,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "海山（seamount）的平顶主要是通过下列哪一过程形成的？",
@@ -2350,7 +2350,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "蛇绿岩套（ophiolite suite）主要代表下列哪一项地质结构？",
@@ -2366,7 +2366,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "弧后盆地与边缘海的主要区别在于下列哪一项？",
@@ -2382,7 +2382,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "单选题",
     "question": "弧前增生楔的主要构成成分是下列哪一项？",
@@ -2398,7 +2398,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "地质地理",
     "knowledge_type": "判断题",
     "question": "判断正误：海底玄武岩的磁化方向主要受到海底地形的影响。",

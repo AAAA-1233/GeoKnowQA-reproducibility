@@ -1,7 +1,7 @@
 [
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：在专题地图中，不同专题要素的视觉层次区分主要依据其重要程度、逻辑次序以及表达方法的不同来实现。",
@@ -11,7 +11,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于专题要素与底图要素在视觉层次上区分的说法，正确的是哪一项？",
@@ -27,7 +27,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "专题地图上视觉层次的构成主要体现在下列哪三个方面？",
@@ -43,7 +43,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：定性线状符号主要用于表示具有数量特征的地理现象。",
@@ -53,7 +53,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在构建多比例尺分级体系时，判断是否需要替换比例尺的主要依据是什么？",
@@ -69,7 +69,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "符号设计时需要考虑的技术与成本因素主要包括下列哪一项？",
@@ -85,7 +85,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "当图形合并现象发生时，应采取下列哪一项措施？",
@@ -101,7 +101,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在空间数据可视化中，当比例尺缩小到原比例的多少倍后，应采取综合措施？",
@@ -117,7 +117,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "概念解释题",
     "question": "请解释空间数据的多尺度表达的含义。",
@@ -134,7 +134,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于地图主体放置原则的说法，正确的是哪一项？",
@@ -150,7 +150,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在城市旅游中，推荐使用哪种比例尺的地图？",
@@ -166,7 +166,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "细节层次模型技术主要基于哪一原理构建？",
@@ -182,7 +182,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：嵌套平均值分级法在每次分割时都基于当前部分的中位数来确定新的分界点。",
@@ -192,7 +192,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于标准差分级法基本原理的说法，正确的是哪一项？",
@@ -208,7 +208,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "色相在地图可视化中的主要作用是什么？",
@@ -224,7 +224,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "三维导航系统主要包括哪两个组成部分？",
@@ -240,7 +240,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在直接法判定图元对象被拾取时，判定条件是什么？",
@@ -256,7 +256,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在地理可视化系统中，用户接口对不合法输入命令的处理方式是什么？",
@@ -272,7 +272,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "人机交互技术的两种主要映射方式分别是什么？",
@@ -288,7 +288,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "描画设备主要用于指定用户空间中的哪一类信息？",
@@ -304,7 +304,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "变化推演法在地理可视化中的主要作用是什么？",
@@ -320,7 +320,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "面状符号的表示方法主要用于表示下列哪一类地理现象的变化过程？",
@@ -336,7 +336,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "过程再现法主要用于展示下列哪一类地理现象？",
@@ -352,7 +352,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "动态视觉变量体系需要扩展的主要原因是什么？",
@@ -368,7 +368,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "闪烁变量在二维动画地图中主要通过什么方式体现？",
@@ -384,7 +384,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在动态可视化中，动态视觉变量中的时刻、持续时间和显示顺序分别起什么作用？",
@@ -400,7 +400,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "概念解释题",
     "question": "请解释场景持续时间（Duration）在动态可视化中的含义。",
@@ -417,7 +417,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "动态视觉变量中的显示次序主要与下列哪一项相关？",
@@ -433,7 +433,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在动态可视化中，幅度主要用于描述什么？",
@@ -449,7 +449,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "显示次序对连续变化状态进行离散化处理的主要方式是什么？",
@@ -465,7 +465,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "点状符号的密集程度主要反映下列哪一项信息？",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "频率变量在地图中主要是指下列哪一项？",
@@ -497,7 +497,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于动态视觉变量的说法，正确的是哪一项？",
@@ -513,7 +513,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：在动态可视化中，持续时间越大，现象的生成或延续时间就越短。",
@@ -523,7 +523,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "概念解释题",
     "question": "请解释“时刻”在动态可视化中的含义。",
@@ -540,7 +540,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "实体的历史回溯主要通过以下哪种方式实现特定地理实体状态的展示？",
@@ -556,7 +556,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "渐进绘制的关键是什么？",
@@ -572,7 +572,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：渐进绘制技术通过生成多个连续的LOD模型，并根据屏幕刷新率实时控制模型的简化或精细层次，从而在保证画面逼真度的同时提升系统性能。",
@@ -582,7 +582,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "动态数据显示连续流畅需要满足的刷新速率要求是下列哪一项？",
@@ -598,7 +598,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：基于空间换时间的数据调度方法是通过减少内存中数据的存储量来降低数据读取延迟。",
@@ -608,7 +608,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "多线程技术在数据预读入过程中的主要作用是下列哪一项？",
@@ -624,7 +624,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于循环分裂法与循环合并法主要区别的描述，正确的是哪一项？",
@@ -640,7 +640,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：基于硬件的加速方法包括提升CPU主频、增加内存容量、使用图形显示加速芯片以及采用硬件并行处理策略。",
@@ -650,7 +650,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "循环合并法在地形LOD模型构建中的主要作用是什么？",
@@ -666,7 +666,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "基于四叉树结构的LOD模型实现动态地形处理的核心机制是什么？",
@@ -682,7 +682,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "概念解释题",
     "question": "请解释ROAM算法的含义。",
@@ -700,7 +700,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于基于TIN的LOD算法缺点的说法，正确的有哪几项？（多选）",
@@ -716,7 +716,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于基于RSG的LOD算法优点的说法，正确的有哪几项？（多选）",
@@ -732,7 +732,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "不同细节层次的植被模型在纹理使用上的主要区别是什么？",
@@ -748,7 +748,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于多分辨率纹理模型构建中影像分割几何条件的说法，正确的是哪一项？",
@@ -764,7 +764,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在三维交互显示中，确定合适纹理分辨率的主要依据是什么？",
@@ -780,7 +780,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "纹理子块金字塔模型的建立过程，下列哪一项描述是正确的？",
@@ -796,7 +796,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于Mipmap技术对内存空间影响的说法，正确的是哪一项？",
@@ -812,7 +812,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Clipmap技术解决大尺寸纹理映射问题的核心机制是什么？",
@@ -828,7 +828,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在分割原始纹理时，计算需要分割的块数主要依据下列哪一项？",
@@ -844,7 +844,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Clipmap技术的主要作用是什么？",
@@ -860,7 +860,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Mipmap技术能够支持多级纹理细化映射的主要原因是下列哪一项？",
@@ -876,7 +876,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在Mipmap生成过程中，低一级图像的分辨率是如何计算的？",
@@ -892,7 +892,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于多边形网格简化目的的表述，正确的是哪一项？",
@@ -908,7 +908,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于顶点最少准则和误差最小准则的说法，正确的是哪一项？",
@@ -924,7 +924,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "LOD模型的主要目的是下列哪一项？",
@@ -940,7 +940,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于对象空间消隐方法分析物体可见性的说法，正确的有哪几项？（多选）",
@@ -956,7 +956,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "消隐算法的主要功能是下列哪一项？",
@@ -972,7 +972,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于静态LOD模型在实时显示时主要缺点的说法，正确的有哪几项？（多选）",
@@ -988,7 +988,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于Phong明暗处理法与Gouraud方法区别的说法，正确的有哪几项？（多选）",
@@ -1004,7 +1004,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：在Phong明暗处理中，法矢量的计算是从多边形顶点法矢量开始，通过线性插值得到扫描线上各点的法矢量。",
@@ -1014,7 +1014,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Flat明暗处理法主要适用于下列哪一类图形的真实感处理？",
@@ -1030,7 +1030,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：Gouraud明暗处理法能真实反映镜面反射的高光形状。",
@@ -1040,7 +1040,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Gouraud明暗处理法主要通过哪种方式解决相邻多边形之间的亮度不连续问题？",
@@ -1056,7 +1056,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在Flat明暗处理中，确保入射光线和法向量保持恒定的关键条件是什么？",
@@ -1072,7 +1072,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在Z缓冲区算法中，判断一个点是否可见的主要依据是什么？",
@@ -1088,7 +1088,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "光线跟踪法进行可见面判断所基于的物理原理是下列哪一项？",
@@ -1104,7 +1104,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Z缓冲区算法需要哪两个关键数据结构？",
@@ -1120,7 +1120,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于画家算法核心思想的描述，正确的是哪一项？",
@@ -1136,7 +1136,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于面消隐算法主要目的的表述，正确的有哪几项？（多选）",
@@ -1152,7 +1152,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "线消隐算法主要用于下列哪一类图形？",
@@ -1168,7 +1168,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于图像空间消隐方法基本原理的描述，正确的是哪一项？",
@@ -1184,7 +1184,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于消隐算法处理方法的说法，正确的有哪几项？（多选）",
@@ -1200,7 +1200,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：光线跟踪方法仅考虑光源的直接光照，不考虑物体之间的反射影响。",
@@ -1210,7 +1210,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在Whitted模型中，光线跟踪技术的主要作用是什么？",
@@ -1226,7 +1226,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在光线跟踪技术中，判断一个点是否处于阴影中的主要方法是下列哪一项？",
@@ -1242,7 +1242,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于Whitted模型中环境光对物体表面影响的简化方式，正确的是哪一项？",
@@ -1258,7 +1258,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：光线跟踪算法是从每个多边形内部的像素点出发计算深度值。",
@@ -1268,7 +1268,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "Whitted模型中镜面反射光强度的来源是什么？",
@@ -1284,7 +1284,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "光线跟踪算法中，屏幕像素的颜色值主要通过以下哪一过程确定？",
@@ -1300,7 +1300,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于局部光照模型的说法，正确的有哪几项？（多选）",
@@ -1316,7 +1316,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：在高度遮挡的复杂场景中，遮挡裁剪能够有效提高场景的渲染效率。",
@@ -1326,7 +1326,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于遮挡裁剪与图形消隐关系的说法，正确的有哪几项？（多选）",
@@ -1342,7 +1342,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于点光源和分布式光源区别的说法，正确的有哪几项？（多选）",
@@ -1358,7 +1358,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于颜色纹理与几何纹理区别的说法，正确的是哪一项？",
@@ -1374,7 +1374,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于纹理空间定义方法的说法，正确的有哪几项？（多选）",
@@ -1390,7 +1390,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "虚拟现实的构想性主要体现在下列哪一项？",
@@ -1406,7 +1406,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "光线投射法的基本原理是下列哪一项？",
@@ -1422,7 +1422,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "抛雪球法是一种体绘制方法，其主要特点是什么？",
@@ -1438,7 +1438,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "分光法实现立体显示的主要原理是什么？",
@@ -1454,7 +1454,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "CSymbolBase类中包含的成员变量包括下列哪一项？",
@@ -1470,7 +1470,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：模糊聚类分级法中建立相似矩阵的步骤与逐步聚类分级法的前两步完全相同。",
@@ -1480,7 +1480,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于模糊聚类分级法核心思想的描述，正确的是哪一项？",
@@ -1496,7 +1496,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "判断题",
     "question": "判断正误：逐步聚类分级法与传统聚类法在应用目的上相同，都用于分类。",
@@ -1506,7 +1506,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "结构相对数在等值区域法中的主要用途是什么？",
@@ -1522,7 +1522,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "动线法中表示货流结构的主要方式是什么？",
@@ -1538,7 +1538,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列关于图案填充法主要特点的描述，正确的是哪一项？",
@@ -1554,7 +1554,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于全域连续分布现象的表示方法？",
@@ -1570,7 +1570,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "局域成片分布现象的主要表示方法是下列哪一项？",
@@ -1586,7 +1586,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "在程序设计中，曲线类型的主要作用是什么？",
@@ -1602,7 +1602,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于三次样条曲线绘制过程的说法，正确的有哪几项？（多选）",
@@ -1618,7 +1618,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "简答题",
     "question": "简述三次样条曲线保证相邻段之间光滑性的主要机制。",
@@ -1636,7 +1636,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于线状符号信息块法主要优势的说法，正确的有哪几项？（多选）",
@@ -1652,7 +1652,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "单选题",
     "question": "线状符号的图形配置方法基于下列哪一原理？",
@@ -1668,7 +1668,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "地理通论",
+    "domain": "信息地理",
     "subject": "地理可视化",
     "knowledge_type": "多选题",
     "question": "下列关于线符模板图形定义需要考虑的要素，正确的有哪几项？（多选）",

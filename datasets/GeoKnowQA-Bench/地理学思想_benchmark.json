@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学教育面临的主要挑战是下列哪一项？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学的广域性特征对思想史研究的主要影响是下列哪一项？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "概念解释题",
     "question": "请解释女性主义地理学的基本含义。",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "系统自然观的核心观点是什么？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学研究中，自然与社会的相互作用主要体现在下列哪一方面？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "区域性思想主要强调下列哪一组特性？",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于地理学思想核心构成要素的说法，正确的是哪一项？",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于地理学代际断裂的具体表现，正确的是哪一项？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于知识统合实现途径的说法，正确的是哪一项？",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学的破碎性主要表现为下列哪一项？",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于文化-基因协同进化涉及层面的说法，正确的是哪一项？",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学具有“向心倾向”的主要原因是什么？",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学中的“类似法则”主要是指什么？",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "行为环境的概念主要起源于下列哪一理论？",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "在关系论中，理论的主要作用是什么？",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "实证主义对理论的定义，强调理论应具备下列哪一项特征？",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "多选题",
     "question": "下列关于计量方法在地理学中存在局限性的原因，正确的有哪几项？（多选）",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "空间相互作用分析的主要目的是下列哪一项？",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "施吕特尔在《人的地理学目标》中倡导景观作为什么学科的中心问题？",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "迈尼希提出的“同一场景”理解视角中，不包括下列哪一项？",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "判断题",
     "question": "判断正误：索尔认为自然景观与人文景观的区分在于自然景观包含人类活动对地表的影响。",
@@ -331,7 +331,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "景观研究如何体现地理学的整体性？",
@@ -347,7 +347,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "哈特向对景观本质的定义，强调的核心要素是哪一项？",
@@ -363,7 +363,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "简答题",
     "question": "简述生态学扩张与泛化的主要表现。",
@@ -380,7 +380,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "福勒提出的“弹性空间”概念的主要特点是什么？",
@@ -396,7 +396,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "后结构主义观点下，空间性主要用于揭示下列哪一项内容？",
@@ -412,7 +412,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "德国古典经济学界定空间关系的主要角度是什么？",
@@ -428,7 +428,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "判断题",
     "question": "判断正误：李特尔的‘空间组织原理’强调对土地空间的研究应关注个体现象与周围环境的关系。",
@@ -438,7 +438,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "概念解释题",
     "question": "请解释地理学中“时空不可分割性”这一概念的基本含义。",
@@ -456,7 +456,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "模型在地理学中被定义为什么样的表现形式？",
@@ -472,7 +472,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "在区域地理学中，功能区主要是指什么？",
@@ -488,7 +488,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于区划在社会理论中作用的说法，正确的是哪一项？",
@@ -504,7 +504,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "段义孚对“地区”的定义强调其核心特征是什么？",
@@ -520,7 +520,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "区域信息容易过时的主要原因是什么？",
@@ -536,7 +536,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "区域边界具有过渡性的主要原因是什么？",
@@ -552,7 +552,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "区域差异性与相似性之间的关系是下列哪一项？",
@@ -568,7 +568,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于区域概念界定依据的说法，正确的是哪一项？",
@@ -584,7 +584,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "现代性危机的根源是什么？",
@@ -600,7 +600,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于人与地相互作用结果的表述，正确的是哪一项？",
@@ -616,7 +616,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于人的主体性与受制性辩证关系的描述，正确的是哪一项？",
@@ -632,7 +632,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于个体的人与社会群体的人在地理学中相互关系的说法，正确的是哪一项？",
@@ -648,7 +648,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "人地关系系统中的六个基本层次中，反映人口构成发展变化关系的是哪一层次？",
@@ -664,7 +664,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于地理环境适宜性对人类活动影响的说法，正确的是哪一项？",
@@ -680,7 +680,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "人地关系中“人”的多重属性，下列哪一项理解是正确的？",
@@ -696,7 +696,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理环境对人类需求的满足主要体现在哪些层面？",
@@ -712,7 +712,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "限制性因素与适宜性和潜力级之间的关系是下列哪一项？",
@@ -728,7 +728,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于霸权在空间或时间上作用的说法，正确的是哪一项？",
@@ -744,7 +744,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "区域政策应具备的主要特点包括下列哪一项？",
@@ -760,7 +760,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学研究的核心观念是什么？",
@@ -776,7 +776,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "景观的双重外貌主要是指下列哪一项？",
@@ -792,7 +792,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "简答题",
     "question": "简述后现代主义思潮对地理学发展的主要影响。",
@@ -810,7 +810,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "麦金德认为地理学与历史学之间的关系是下列哪一项？",
@@ -826,7 +826,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "文化扩散的观点主要强调下列哪一项作为文化传播的主要方式？",
@@ -842,7 +842,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "地理学中“有机的整体”概念主要是指什么？",
@@ -858,7 +858,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列关于古希腊地理学思维方式的描述，正确的是哪一项？",
@@ -874,7 +874,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "自组织系统具有的功能主要包括下列哪一项？",
@@ -890,7 +890,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列哪一项取代了古典观念，成为世界由基本要素组成的新观念？",
@@ -906,7 +906,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "地理通论",
     "subject": "地理学思想",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于现代系统科学理论的核心组成部分？",

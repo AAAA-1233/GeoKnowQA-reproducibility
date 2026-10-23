@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "REPL环境在R语言开发中的主要作用是什么？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "SAGA软件在地理信息系统中的主要作用是什么？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在 R 语言的 raster 包中，实现栅格数据重新采样的主要函数是下列哪一项？",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列哪些属于R语言中用于空间数据分析的常用包？（多选）",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "R-spatial包主要支持下列哪一类空间数据操作？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列哪个R包被提及用于空间数据可视化，并支持创建地图？",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列关于mapalgebra操作类型的说法，正确的是哪一项？",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于空间数据验证和评估中常用的方法？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列哪些措施有助于确保地理数据处理过程中信息的准确性？（多选）",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于空间插值方法的说法，正确的有哪几项？（多选）",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "RNetLogo 包的主要用途是下列哪一项？",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "简答题",
     "question": "简述在R中进行空间数据插值的主要步骤。",
@@ -195,7 +195,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "空间点模式分析代码在 S-plus 中的主要作用是什么？",
@@ -211,7 +211,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "Splancs 软件包的主要功能是下列哪一项？",
@@ -227,7 +227,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于在R中处理测量单位的方法，正确的有哪几项？（多选）",
@@ -243,7 +243,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在R中实现空间向量数据的标准支持，主要使用哪个包？",
@@ -259,7 +259,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "概念解释题",
     "question": "请解释小多重图表的含义。",
@@ -276,7 +276,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列哪一项工具可用于从OpenStreetMap导入数据？",
@@ -292,7 +292,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在热带地区，植物群落梯度变化的主要决定因素是下列哪一项？",
@@ -308,7 +308,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "影响物种丰富度分布的关键因素包括下列哪一项？",
@@ -324,7 +324,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在交通模型中，优化网络细节表示的主要方法是什么？",
@@ -340,7 +340,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列哪一项框架支持在Spark上执行空间查询？",
@@ -356,7 +356,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "SAGA软件的主要功能是什么？",
@@ -372,7 +372,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "模型选择中，过拟合问题对性能评估的主要影响是什么？",
@@ -388,7 +388,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于道格拉斯-普克算法（Douglas-Peucker algorithm）的说法，正确的有哪几项？（多选）",
@@ -404,7 +404,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在R语言中，用于建立与PostgreSQL数据库连接的主要函数是下列哪一项？",
@@ -420,7 +420,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于处理空间依赖性的统计方法？",
@@ -436,7 +436,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列哪些方法可用于对不规则间距数据进行插值？（多选）",
@@ -452,7 +452,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在地理数据创造性使用中，可重复性主要发挥什么作用？",
@@ -468,7 +468,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列关于R语言在地理计算中优势的说法，正确的是哪一项？",
@@ -484,7 +484,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "地理计算除了软件操作外，还推荐探索哪一方面的内容？",
@@ -500,7 +500,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "处理地理数据查询的主要目的是什么？",
@@ -516,7 +516,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "使用R进行地理数据分析时，需要考虑多种实现方式的主要原因是什么？",
@@ -532,7 +532,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在R语言中，下列哪一组函数可用于地理数据的聚合操作？",
@@ -548,7 +548,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "使用 tidyverse 函数处理地理数据时，用户应特别注意什么？",
@@ -564,7 +564,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在R语言中，使用管道语法（pipe syntax）的主要优势是什么？",
@@ -580,7 +580,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "stars包在处理时空数据方面引入的新特性主要体现在哪一方面？",
@@ -596,7 +596,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在选择特定地理计算方法时，了解替代方案的主要目的是什么？",
@@ -612,7 +612,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于地理数据处理方法选择考虑因素的说法，正确的有哪几项？（多选）",
@@ -628,7 +628,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列关于包的重叠可能带来的好处的说法，正确的是哪一项？",
@@ -644,7 +644,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "判断题",
     "question": "判断正误：在base R中，使用方括号 `[ ]` 进行数据子集选择，而在tidyverse中，使用 `select()` 函数进行类似操作。",
@@ -654,7 +654,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "判断题",
     "question": "判断正误：在R语言中，使用dplyr包的select()函数提取属性数据时，必须使用管道操作符%>%。",
@@ -664,7 +664,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "下列关于sf包与sp包在处理地理数据时差异的描述，正确的是哪一项？",
@@ -680,7 +680,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "将环境预测栅格数据提取到随机点上时，构建完整响应-预测矩阵的关键步骤是下列哪一项？",
@@ -696,7 +696,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "简答题",
     "question": "简述在空间交叉验证中实现调优步骤并行化的主要方法。",
@@ -714,7 +714,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于通过内循环调优优化随机森林模型超参数的说法，正确的有哪几项？（多选）",
@@ -730,7 +730,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在NMDS分析中，使用百分比数据与存在-不存在数据得到的应力值差异主要源于什么？",
@@ -746,7 +746,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在空间交叉验证中，计算偏差校正的RMSE时，下列哪一项是必要的步骤？",
@@ -762,7 +762,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在构建响应-预测矩阵时，需要整合的环境预测栅格数据包括下列哪一项？",
@@ -778,7 +778,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在响应-预测矩阵中，关于第一NMDS轴得分的计算与使用，下列哪一项是正确的？",
@@ -794,7 +794,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "随机森林模型在空间预测中的应用主要目的是下列哪一项？",
@@ -810,7 +810,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "在数据关系较为明确时，推荐使用线性模型的原因有哪些？（多选）",
@@ -826,7 +826,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "判断题",
     "question": "判断正误：当非线性关系较强时，广义可加模型（GAM）是比线性模型更合适的替代模型。",
@@ -836,7 +836,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "简答题",
     "question": "简述随机搜索在超参数优化中的主要局限性。",
@@ -853,7 +853,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "简答题",
     "question": "简述通过模型解释生态意义的主要方法。",
@@ -871,7 +871,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于线性模型比随机森林模型更合适的情况，说法正确的有哪几项？（多选）",
@@ -887,7 +887,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在利用随机森林模型空间化植物群落第一轴梯度时，环境预测因子的主要来源是下列哪一项？",
@@ -903,7 +903,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "预测图在保护沙漠生物多样性中的主要作用是什么？",
@@ -919,7 +919,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于温度逆温层下方植被带（凤梨科植物带）的说法，正确的有哪几项？（多选）",
@@ -935,7 +935,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "判断题",
     "question": "判断正误：随机森林超参数搜索空间中，mtry的取值范围应在1到预测变量总数之间。",
@@ -945,7 +945,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "简答题",
     "question": "简述在随机森林超参数调优中，mtry 的上限是如何确定的。",
@@ -962,7 +962,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "多选题",
     "question": "下列关于根均方误差（RMSE）在超参数调优中作用的说法，正确的有哪几项？（多选）",
@@ -978,7 +978,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在随机森林算法中，sample.fraction 参数的主要作用是什么？",
@@ -994,7 +994,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "单选题",
     "question": "在创建回归任务以用于模型训练时，下列哪一项操作是必要的？",
@@ -1010,7 +1010,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "信息地理",
     "subject": "地理计算",
     "knowledge_type": "判断题",
     "question": "判断正误：空间交叉验证实现良好空间预测时，需要在训练集上进行超参数调优，而不是在完整数据集上。",

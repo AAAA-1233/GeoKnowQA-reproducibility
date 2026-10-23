@@ -1,7 +1,7 @@
 [
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "简答题",
     "question": "简述国家间经济关系对地缘经济格局的主要影响。",
@@ -19,7 +19,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "空间相互作用模型在地理学中的主要应用是什么？",
@@ -35,7 +35,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "城市街道网络分析主要采用下列哪种方法？",
@@ -51,7 +51,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于产业集群复杂网络结构与功能分析的主要方法？",
@@ -67,7 +67,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于实测网络与理想化核心—边缘网络相关性的说法，正确的是哪一项？",
@@ -83,7 +83,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "物质输出流结构偏差的测度方法主要是通过什么方式实现的？",
@@ -99,7 +99,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释产业结构互补性指标的含义。",
@@ -115,7 +115,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于物质流变量的说法，正确的是哪一项？",
@@ -131,7 +131,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于新加坡为核心的地理毗邻板块特点的说法，正确的有哪几项？（多选）",
@@ -147,7 +147,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在地缘经济关联网络构建中，选择贸易流作为技术支撑的主要原因是下列哪一项？",
@@ -163,7 +163,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "东盟—湄公河流域开发合作机制的主要目标是什么？",
@@ -179,7 +179,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "引力模型在下列哪一领域的社会现象研究中被广泛应用？",
@@ -195,7 +195,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济合作逐步影响政治关系的主要过程是下列哪一项？",
@@ -211,7 +211,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地方政府在地缘经济合作中主动性受到限制的主要原因是下列哪一项？",
@@ -227,7 +227,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济合作的政治溢出效应主要是指什么？",
@@ -243,7 +243,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列哪一项最能影响国际社会对地缘经济合作的支持力度？",
@@ -259,7 +259,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济初期合作方式主要表现为下列哪一项？",
@@ -275,7 +275,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于地缘经济网络结构外部性类型的说法，正确的有哪几项？（多选）",
@@ -291,7 +291,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济关系的测度依据主要包括下列哪一类经济流？",
@@ -307,7 +307,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于地缘经济形成基础特征的描述，正确的是哪一项？",
@@ -323,7 +323,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "网络分析方法中，用于抽象地缘经济关系的无标度空间网络，其节点通常代表什么？",
@@ -339,7 +339,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济地域系统的属性特征主要包括下列哪一项？",
@@ -355,7 +355,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济区与一般经济地域的主要区别体现在下列哪一项？",
@@ -371,7 +371,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济的根本属性是下列哪一项？",
@@ -387,7 +387,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在孤立国条件下，中心地系统的需求曲线从G级中心地向A级中心地呈现怎样的分布趋势？",
@@ -403,7 +403,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "经济地带系统在地域发展中的主要作用是什么？",
@@ -419,7 +419,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济地域系统在对外关系中主要发挥什么作用？",
@@ -435,7 +435,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济模型的核心内容是指什么？",
@@ -451,7 +451,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "遗产税主要是指什么？",
@@ -467,7 +467,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "实验经济学与计量经济学方法相结合的主要优势不包括下列哪一项？",
@@ -483,7 +483,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在规范经济学中，静态效率是指下列哪一项？",
@@ -499,7 +499,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "保护地役权的主要作用是什么？",
@@ -515,7 +515,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于‘债务换自然’政策主要目的的说法，正确的是哪一项？",
@@ -531,7 +531,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘政治风险主要通过以下哪一途径影响地缘经济活动？",
@@ -547,7 +547,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "资源分类体系在经济和地质两个维度下对资源进行分类时，地质维度的变化方向及其含义是下列哪一项？",
@@ -563,7 +563,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘经济合作对区域内环境保护和可持续发展的主要影响是什么？",
@@ -579,7 +579,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列哪些因素可能导致经济活动中的低效配置？（多选）",
@@ -595,7 +595,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "合作虽然是集体的首选，但结果往往并非如此，其主要原因是下列哪一项？",
@@ -611,7 +611,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释期望净效益现值的含义。",
@@ -627,7 +627,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释人类发展指数的含义。",
@@ -643,7 +643,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "市场难以自我调节的主要原因是什么？",
@@ -659,7 +659,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "从过去移动源控制的经验中，关于政策效果与行为反应的关系，下列哪一项认识是正确的？",
@@ -675,7 +675,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "发展中国家不断增长的汽车需求使政策面临严峻挑战，其主要原因不包括下列哪一项？",
@@ -691,7 +691,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "政府失灵导致土地配置无效率的主要原因是下列哪一项？",
@@ -707,7 +707,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "分区政策导致城市蔓延的主要机制是什么？",
@@ -723,7 +723,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：稀缺租金在价格控制中的角色是保护当前消费者的利益。",
@@ -733,7 +733,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释价格控制的含义。",
@@ -749,7 +749,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于不可逆决策后果的说法，正确的是哪一项？",
@@ -765,7 +765,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在不可逆决策中，决策者需要更加谨慎的主要原因是什么？",
@@ -781,7 +781,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "拥堵费对居民竞租函数的主要影响是下列哪一项？",
@@ -797,7 +797,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于风险中性原则在公共投资评估中适用性的说法，正确的是哪一项？",
@@ -813,7 +813,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在环境损害赔偿中，“赔偿越大越好”并不总是有效率的，其主要原因是什么？",
@@ -829,7 +829,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "种族因素在危险废弃物处理设施选址中成为重要指标的主要原因是什么？",
@@ -845,7 +845,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "湿沉降的主要污染途径是什么？",
@@ -861,7 +861,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：氯氟烃（CFCs）通过化学反应破坏平流层中的臭氧层。",
@@ -871,7 +871,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：边际控制成本通常随着控制量的增加而降低。",
@@ -881,7 +881,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "一些发展中国家愿意接受危险废料的主要原因是什么？",
@@ -897,7 +897,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列哪一地区曾发生泄漏量超过20万吨的严重石油泄漏事故？",
@@ -913,7 +913,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：人口密集地区的污染源面临更高的边际成本，是因为这些地区的污染排放对相关受点的影响更大。",
@@ -923,7 +923,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：污染源较多地区的受点环境许可证市场价格低于污染源较少地区的许可证价格。",
@@ -933,7 +933,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "环境标准在控制非均匀混合表面污染物方面的核心作用是什么？",
@@ -949,7 +949,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "污染避风港的污染水平主要受哪三种效应的影响？",
@@ -965,7 +965,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于水污染源中点源和面源区别的说法，正确的是哪一项？",
@@ -981,7 +981,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "雇主承担员工停车费用会对环境产生负面影响，其主要原因是什么？",
@@ -997,7 +997,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释常规污染物的含义。",
@@ -1015,7 +1015,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于均匀混合与非均匀混合污染物控制责任成本有效配置的说法，正确的有哪几项？（多选）",
@@ -1031,7 +1031,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "污染具有外部性，这对市场的主要影响是什么？",
@@ -1047,7 +1047,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释累积性污染物的含义。",
@@ -1065,7 +1065,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：工厂隐瞒技术变化的主要原因是避免因排放标准提高而增加合规成本。",
@@ -1075,7 +1075,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：排污收费体系通过激励污染源选择成本效益最高的减排方案来影响成本选择和技术进步。",
@@ -1085,7 +1085,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于排污收费政策在成本有效性方面优势的说法，正确的有哪几项？（多选）",
@@ -1101,7 +1101,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "集聚奖金支付的对象是下列哪一类主体？",
@@ -1117,7 +1117,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于市场化土地配置在满足社会准则方面表现的描述，正确的是哪一项？",
@@ -1133,7 +1133,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于在水资源短缺情况下通过边际成本定价配置水资源的说法，正确的有哪几项？（多选）",
@@ -1149,7 +1149,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：湿润气候条件下居民用水需求的价格弹性系数大于干旱气候条件。",
@@ -1159,7 +1159,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "全球授粉服务供应短缺对下列哪一地区可能产生更高的损害？",
@@ -1175,7 +1175,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于授粉服务对农业产量直接影响的说法，正确的有哪几项？（多选）",
@@ -1191,7 +1191,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于鱼类资源稳态均衡的理解，正确的有哪几项？（多选）",
@@ -1207,7 +1207,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于渔业管理改革目标的说法，正确的有哪几项？（多选）",
@@ -1223,7 +1223,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：单采伐周期模型与无限规划模型在采伐最佳时间上的主要区别在于，无限规划模型中的最佳采伐周期长于单采伐周期。",
@@ -1233,7 +1233,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于资源替代组合可能性对资源稀缺性影响产出的说法，正确的有哪几项？（多选）",
@@ -1249,7 +1249,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释可耗竭资源的边际使用者成本的含义。",
@@ -1266,7 +1266,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于潜在储量与资源禀赋区别的说法，正确的有哪几项？（多选）",
@@ -1282,7 +1282,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：资源禀赋的大小与资源价格之间存在直接关系。",
@@ -1292,7 +1292,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "判断题",
     "question": "判断正误：新发现的资源储量会降低总边际成本，是因为其边际开采成本通常较高。",
@@ -1302,7 +1302,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "简答题",
     "question": "简述当边际开采成本上升时，边际使用者成本最终降至零的原因。",
@@ -1319,7 +1319,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在可耗竭资源开采过程中，边际开采成本随时间变化的趋势是下列哪一项？",
@@ -1335,7 +1335,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释‘荷兰病’的含义。",
@@ -1352,7 +1352,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "内生技术进步模型认为，有效市场实现可持续性产出的关键条件是什么？",
@@ -1368,7 +1368,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "地缘政治风险主要通过哪一途径影响国际油气价格？",
@@ -1384,7 +1384,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "新西兰专属经济区（EEZ）的配额管理区域主要依据什么进行划分？",
@@ -1400,7 +1400,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "随着资源开采难度提高，原矿开采和废物处置成本上涨的主要原因是什么？",
@@ -1416,7 +1416,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于稀缺租金在自然资源行业中作用的说法，正确的是哪一项？",
@@ -1432,7 +1432,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "下列关于采伐成本与材积量关系的说法，正确的是哪一项？",
@@ -1448,7 +1448,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释森林资源有效配置的含义。",
@@ -1466,7 +1466,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "根据模型，下列哪一因素会导致林木的最佳采伐时间提前？",
@@ -1482,7 +1482,7 @@
   },
   {
     "task_type": "concept_explanation",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "概念解释题",
     "question": "请解释可转让开发权（TDR）的含义。",
@@ -1499,7 +1499,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于市场势力在土地供应中具体表现的说法，正确的有哪几项？（多选）",
@@ -1515,7 +1515,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于征用权下政府补偿土地所有者价格确定方式的说法，正确的有哪几项？（多选）",
@@ -1531,7 +1531,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "在有效配置中，更容易获得更少配置的水资源使用者是下列哪一类？",
@@ -1547,7 +1547,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "多选题",
     "question": "下列关于铝产品循环利用速度高于塑料的原因，正确的有哪几项？（多选）",
@@ -1563,7 +1563,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "人文地理",
     "subject": "地缘经济",
     "knowledge_type": "单选题",
     "question": "资源所有者保留资源可以实现哪两种潜在价值？",

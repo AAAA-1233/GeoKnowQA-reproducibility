@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "国际组织的政治性差异主要表现在下列哪一方面？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "政治区域具有综合性特征的主要原因是下列哪一项？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "政治区域的阶级性主要体现在下列哪一项？",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "政治景观学派认为政治地理学的本质是什么？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于政治区域基本组成要素的说法，正确的有哪几项？（多选）",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于亚里士多德理想城邦人口规模条件的说法，正确的有哪几项？（多选）",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于政治系统广义与狭义含义的说法，正确的有哪几项？（多选）",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "政治区域的三个基本组成要素是下列哪一项？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "根据麦金德的地缘政治理论，统治东欧对世界政治格局的影响，下列哪一项表述是正确的？",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于政治地理学初创时期显著特征的说法，正确的有哪几项？（多选）",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于霍尔迪奇在《政治边疆和边界制定》中提出的边界确定原则的说法，正确的有哪几项？（多选）",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于地缘政治思潮对政治地理学发展影响的说法，正确的有哪几项？（多选）",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "豪斯浩弗认为德国一战战败的根本原因是什么？",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "斯皮克曼认为世界力量的三个主要中心是下列哪一项？",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "斯皮克曼认为欧亚大陆的边缘地区比心脏地带更重要，其主要依据是什么？",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "二战后世界政治地理格局发生的根本性变化中，下列哪一项描述是正确的？",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "管仲提出的“地者，政之本也”主要表达了下列哪一政治地理观点？",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于《孙子兵法》中决定战争胜负的五个基本要素的说法，正确的有哪几项？（多选）",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "战国时期“合纵”与“连横”两种政治地理战略的核心区别是什么？",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "林则徐提出的“器良、技熟、胆壮、心齐”八字要言，其核心含义是什么？",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于荆州在三国时期战略地位的描述，正确的是哪一项？",
@@ -337,7 +337,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "毛泽东政治地理思想的核心内容是什么？",
@@ -353,7 +353,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于农村包围城市革命战略地理依据的说法，正确的有哪几项？（多选）",
@@ -369,7 +369,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于毛泽东分析中国政治经济发展不平衡对革命影响的说法，正确的有哪几项？（多选）",
@@ -385,7 +385,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于孙中山陆权思想形成背景的说法，正确的有哪几项？（多选）",
@@ -401,7 +401,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "近代中国农村广大贫苦农民的主要诉求是什么？",
@@ -417,7 +417,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于毛泽东划分三个世界标准的说法，正确的有哪几项？（多选）",
@@ -433,7 +433,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "毛泽东认为战后同美国作斗争最尖锐的恐怕还是中国，其主要依据是下列哪一项？",
@@ -449,7 +449,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "南北问题的核心是什么？",
@@ -465,7 +465,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于毛泽东三个世界战略划分现实意义的说法，正确的有哪几项？（多选）",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于形态方法在国家研究中主要特点的表述，正确的是哪一项？",
@@ -497,7 +497,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于构成国家稳定的无形基础和精神力量的说法，正确的有哪几项？（多选）",
@@ -513,7 +513,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于地理因素在国家政策制定中不可忽视的原因，正确的有哪几项？（多选）",
@@ -529,7 +529,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国家构成要素的说法，正确的有哪几项？（多选）",
@@ -545,7 +545,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于人口作为国家第一要素的说法，正确的有哪几项？（多选）",
@@ -561,7 +561,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于主权作为国家组成要素的核心作用的说法，正确的有哪几项？（多选）",
@@ -577,7 +577,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于领土作为国家组成要素重要性的说法，正确的有哪几项？（多选）",
@@ -593,7 +593,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "国家权力的特殊强制性主要表现在下列哪一项？",
@@ -609,7 +609,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于国家主权性的说法，正确的是哪一项？",
@@ -625,7 +625,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国家职能中政治统治和社会管理的说法，正确的有哪几项？（多选）",
@@ -641,7 +641,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于国家历史性的说法，正确的是哪一项？",
@@ -657,7 +657,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于游群社会中食物分配原则的说法，正确的有哪几项？（多选）",
@@ -673,7 +673,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于游群组织领导权产生方式的说法，正确的是哪一项？",
@@ -689,7 +689,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "从狩猎采集转向畜牧栽培对社会组织产生的影响，下列哪一项描述是正确的？",
@@ -705,7 +705,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "游群组织时期的社会联系主要依靠什么纽带？",
@@ -721,7 +721,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "尼罗河的洪水期和枯水期对埃及农业生产的直接影响是什么？",
@@ -737,7 +737,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于游群组织与部落组织在地缘关系上区别的说法，正确的有哪几项？（多选）",
@@ -753,7 +753,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于酋邦阶段生产专业化表现的说法，正确的有哪几项？（多选）",
@@ -769,7 +769,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于部落议事会和最高首领产生的说法，正确的是哪一项？",
@@ -785,7 +785,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国家与酋邦在组织结构上显著不同的说法，正确的有哪几项？（多选）",
@@ -801,7 +801,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于酋邦向国家转变过程中城市形成因素的说法，正确的有哪几项？（多选）",
@@ -817,7 +817,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于第二十一王朝到第三十一王朝期间埃及受到外来民族影响的说法，正确的有哪几项？（多选）",
@@ -833,7 +833,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于克里特岛城邦国家在公元前2000年左右经济状况的说法，正确的是哪一项？",
@@ -849,7 +849,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "迈锡尼人导致诺萨斯王朝消失的主要方式是什么？",
@@ -865,7 +865,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "罗马人将希腊和小亚细亚变为行省的过程，主要体现了下列哪一特征？",
@@ -881,7 +881,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于罗马军队兵源根据财产等级划分的说法，正确的是哪一项？",
@@ -897,7 +897,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "意大利半岛的地理特征中，哪一项对罗马的发展起到了关键作用？",
@@ -913,7 +913,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "罗马在统一意大利半岛过程中，对非拉丁城市采取的政治策略是下列哪一项？",
@@ -929,7 +929,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于罗马元老院在政治体系中角色的说法，正确的有哪几项？（多选）",
@@ -945,7 +945,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "罗马军队从征兵制改为招募制的主要原因是什么？",
@@ -961,7 +961,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于罗马地理因素对其后期发展产生负面影响的说法，正确的有哪几项？（多选）",
@@ -977,7 +977,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "判断题",
     "question": "判断正误：迈锡尼文明的代表性遗迹包括山顶巨石城堡和圆坑墓。",
@@ -987,7 +987,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于希腊城邦形成与地理环境关系的说法，正确的有哪几项？（多选）",
@@ -1003,7 +1003,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于波斯与希腊城邦战争结果及其对希腊影响的说法，正确的有哪几项？（多选）",
@@ -1019,7 +1019,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于希腊城邦政治制度演变的说法，正确的有哪几项？（多选）",
@@ -1035,7 +1035,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素影响了印度西北部文明的发展？（多选）",
@@ -1051,7 +1051,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于罗马城邦与希腊城邦主要区别的说法，正确的有哪几项？（多选）",
@@ -1067,7 +1067,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "商代王位继承制度的主要变化趋势是下列哪一项？",
@@ -1083,7 +1083,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于夏王朝政治制度从血缘关系转向地缘关系的过程，正确的说法有哪些？（多选）",
@@ -1099,7 +1099,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于西周分封制度主要分封对象的说法，正确的有哪几项？（多选）",
@@ -1115,7 +1115,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "判断题",
     "question": "判断正误：井田制中，奴隶在公田上劳动时，必须先完成私田的耕作任务。",
@@ -1125,7 +1125,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "井田制崩溃后，土地剥削方式发生的主要变化是下列哪一项？",
@@ -1141,7 +1141,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于新兴势力崛起对东周时期权力结构影响的说法，正确的是哪一项？",
@@ -1157,7 +1157,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "东周时期周王室衰微导致的后果中，下列哪一项是正确的？",
@@ -1173,7 +1173,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于玛雅文明突然转移和消失的可能原因，正确的有哪些？（多选）",
@@ -1189,7 +1189,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于柏柏尔人与加纳古国之间主要贸易商品的描述，正确的有哪几项？（多选）",
@@ -1205,7 +1205,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素促进了加纳古国的农业发展？（多选）",
@@ -1221,7 +1221,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于非洲南部早期国家形成的主要贸易路线的说法，正确的有哪几项？（多选）",
@@ -1237,7 +1237,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "犹太人在流散后主要通过什么方式来保持语言和文化的延续性？",
@@ -1253,7 +1253,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "简答题",
     "question": "简述塞尔维亚人和克罗地亚人分化为两个民族的主要原因。",
@@ -1271,7 +1271,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "简答题",
     "question": "简述吉卜赛人虽分散于世界各地但仍能保留原有习俗的主要原因。",
@@ -1288,7 +1288,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于共同地域在民族形成中作用的说法，正确的有哪几项？（多选）",
@@ -1304,7 +1304,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于共同经济生活对民族内部联系和发展影响的说法，正确的有哪几项？（多选）",
@@ -1320,7 +1320,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于民族核心区功能和特点的说法，正确的有哪几项？（多选）",
@@ -1336,7 +1336,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于民族与国家起源区别的说法，正确的有哪几项？（多选）",
@@ -1352,7 +1352,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "从氏族发展到民族经历了哪些关键阶段？（多选）",
@@ -1368,7 +1368,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于血缘关系在原始社会群体形成中作用的说法，正确的有哪几项？（多选）",
@@ -1384,7 +1384,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于地缘关系逐步取代血缘关系成为民族形成基础的过程，正确的说法有哪些？（多选）",
@@ -1400,7 +1400,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于世界上民族数量估计存在巨大差异的原因，正确的有哪几项？（多选）",
@@ -1416,7 +1416,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于共民族国家的说法，正确的有哪几项？（多选）",
@@ -1432,7 +1432,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于民族在原始社会末期形成过程的说法，正确的有哪几项？（多选）",
@@ -1448,7 +1448,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于单一民族国家与共民族国家区别的说法，正确的有哪几项？（多选）",
@@ -1464,7 +1464,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于拉丁美洲新民族形成与汉族同化过程区别的说法，正确的有哪几项？（多选）",
@@ -1480,7 +1480,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于双民族国家的说法，正确的是哪一项？",
@@ -1496,7 +1496,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "判断题",
     "question": "判断正误：当代社会同时存在不同发展阶段的民族类型，主要是由于各民族发展进程一致，仅受全球化影响。",
@@ -1506,7 +1506,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "塞浦路斯民族问题的核心根源是什么？",
@@ -1522,7 +1522,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "双民族国家中主体民族矛盾若处理不当，可能导致下列哪一项后果？",
@@ -1538,7 +1538,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "判断题",
     "question": "判断正误：分离民族主义导致奥匈帝国、奥斯曼帝国和俄罗斯帝国解体。",
@@ -1548,7 +1548,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "原民族主义最先出现在下列哪两个国家？",
@@ -1564,7 +1564,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "南斯拉夫联邦分裂后，最初形成的四个独立国家不包括下列哪一项？",
@@ -1580,7 +1580,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "国家领土由哪些基本组成部分构成？",
@@ -1596,7 +1596,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "根据领土面积大小，国家可以被分为哪两种类型？",
@@ -1612,7 +1612,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "领空高度至今尚未明确界定的主要原因是什么？",
@@ -1628,7 +1628,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "拉丁美洲独立运动主要受到哪两个外部事件的影响？",
@@ -1644,7 +1644,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "二战期间，民族主义导致的极端主义不包括下列哪一项？",
@@ -1660,7 +1660,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "在资产阶级国家建立过程中，民族主义的主要作用是什么？",
@@ -1676,7 +1676,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "工业发展促进民族意识形成的主要途径不包括下列哪一项？",
@@ -1692,7 +1692,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于德意志关税同盟反映民族利益与经济之间联系的表述，正确的有哪几项？（多选）",
@@ -1708,7 +1708,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于民族主义世俗文化取代宗教文化在欧洲主导地位的原因，正确的有哪几项？（多选）",
@@ -1724,7 +1724,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于东欧民族主义运动与西欧相比不同特点的说法，正确的有哪几项？（多选）",
@@ -1740,7 +1740,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于美洲解放民族主义比亚洲和非洲更早出现的原因，正确的有哪几项？（多选）",
@@ -1756,7 +1756,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于密集型国家形状特征的描述，正确的是哪一项？",
@@ -1772,7 +1772,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于亚洲和非洲民族主义运动差异的说法，正确的是哪一项？",
@@ -1788,7 +1788,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于穿孔型国家的说法，正确的是哪一项？",
@@ -1804,7 +1804,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于松散型国家领土构成的说法，正确的有哪几项？（多选）",
@@ -1820,7 +1820,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于蝌蚪型国家典型特征的说法，正确的有哪几项？（多选）",
@@ -1836,7 +1836,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于飞地对所属国家和东道主国家造成不便的说法，正确的有哪几项？（多选）",
@@ -1852,7 +1852,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于国际社会为内陆国家发展提供援助的机构或措施？（多选）",
@@ -1868,7 +1868,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "内陆国家加入地区经济一体化组织可以获得的经济利益包括以下哪些？（多选）",
@@ -1884,7 +1884,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于内陆国经济和贸易发展面临的主要限制？（多选）",
@@ -1900,7 +1900,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "荷比卢联盟的成立对卢森堡的积极影响主要体现在哪一方面？",
@@ -1916,7 +1916,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于添附导致领土增加情形的说法，正确的有哪几项？（多选）",
@@ -1932,7 +1932,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于时效与占领在领土取得上的区别，正确的有哪几项？（多选）",
@@ -1948,7 +1948,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "国际法中，领土变更方式“时效”与“占领”的主要区别在于下列哪一项？",
@@ -1964,7 +1964,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于割让领土的强制性方式与非强制性方式的区别，正确的有哪几项？（多选）",
@@ -1980,7 +1980,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于时效在领土争端中实际应用问题的说法，正确的是哪一项？",
@@ -1996,7 +1996,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "公民投票作为领土变更方式的主要法律依据是下列哪一项？",
@@ -2012,7 +2012,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于巴拿马运河区域领土主权安排的说法，正确的有哪几项？（多选）",
@@ -2028,7 +2028,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列关于中间性领土的说法，正确的是哪一项？",
@@ -2044,7 +2044,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "19世纪以前，国家之间运输货物需要支付什么费用？",
@@ -2060,7 +2060,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "根据联合国海洋法会议的规定，内陆国通过过境国领土时，下列哪些说法是正确的？（多选）",
@@ -2076,7 +2076,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "内陆国家赞比亚为了摆脱对某一过境国的依赖，主要采取了下列哪一项措施？",
@@ -2092,7 +2092,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于阿富汗过境贸易路线调整的说法，正确的有哪几项？（多选）",
@@ -2108,7 +2108,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "巴基斯坦对内陆国过境权利持保留态度的主要原因是什么？",
@@ -2124,7 +2124,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "新赫布里底群岛在独立前由哪两个国家共同管理？",
@@ -2140,7 +2140,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "纳米比亚在独立前由哪一国际组织控制？",
@@ -2156,7 +2156,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于完全自由港和有限自由港区别的说法，正确的有哪几项？（多选）",
@@ -2172,7 +2172,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于科威特、伊拉克和沙特阿拉伯之间中立地带特点的说法，正确的有哪几项？（多选）",
@@ -2188,7 +2188,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于约旦河西岸和加沙地带归属问题的说法，正确的有哪几项？（多选）",
@@ -2204,7 +2204,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于南极地区归属问题的说法，正确的有哪几项？（多选）",
@@ -2220,7 +2220,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于首都首要功能的说法，正确的有哪几项？（多选）",
@@ -2236,7 +2236,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素可能导致一个国家的首都不是首位城市？（多选）",
@@ -2252,7 +2252,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "英国地理学家V.Cornish认为建都应具备的三个条件中，哪一个被强调为原始且基本的特征？",
@@ -2268,7 +2268,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "伦敦从贸易中心转变为行政中心的关键历史事件是什么？",
@@ -2284,7 +2284,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "日本将首都从京都迁至东京的主要原因是什么？",
@@ -2300,7 +2300,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于影响首都定位的自然地理条件？",
@@ -2316,7 +2316,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于伯利兹将首都迁至贝尔莫潘的原因，正确的有哪几项？（多选）",
@@ -2332,7 +2332,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于起源核心区主要特征的说法，正确的有哪几项？（多选）",
@@ -2348,7 +2348,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于经济核心区共同特征的说法，正确的有哪几项？（多选）",
@@ -2364,7 +2364,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于多民族国家中民族核心区象征意义的说法，正确的有哪几项？（多选）",
@@ -2380,7 +2380,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于二战后德国分裂时期首都选择的说法，正确的有哪几项？（多选）",
@@ -2396,7 +2396,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于澳大利亚选择堪培拉作为首都的原因，正确的有哪几项？（多选）",
@@ -2412,7 +2412,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于巴基斯坦和巴西迁都主要目的的表述，正确的有哪几项？（多选）",
@@ -2428,7 +2428,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素是一些非洲国家在独立后选择建立新首都的主要原因？（多选）",
@@ -2444,7 +2444,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于西非沿海国家首都通常设在海港城市的主要原因，正确的有哪几项？（多选）",
@@ -2460,7 +2460,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于多民族国家中民族因素对首都定位影响的说法，正确的有哪几项？（多选）",
@@ -2476,7 +2476,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于拓居边疆次级分类的说法，正确的有哪几项？（多选）",
@@ -2492,7 +2492,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边疆地区主要特征的说法，正确的有哪几项？（多选）",
@@ -2508,7 +2508,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于政治边疆与其他类型边疆区别的说法，正确的有哪几项？（多选）",
@@ -2524,7 +2524,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国际法中国家边界概念的描述，正确的有哪几项？（多选）",
@@ -2540,7 +2540,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素与文化边疆的形成密切相关？（多选）",
@@ -2556,7 +2556,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界划分根本地理特征的说法，正确的有哪几项？（多选）",
@@ -2572,7 +2572,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于1815年维也纳公约对国际河流航行权规定的说法，正确的有哪几项？（多选）",
@@ -2588,7 +2588,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国际河流的说法，正确的有哪几项？（多选）",
@@ -2604,7 +2604,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于印度河水资源争端主要原因的说法，正确的有哪几项？（多选）",
@@ -2620,7 +2620,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于精确划分边界对国家间关系重要性的说法，正确的有哪几项？（多选）",
@@ -2636,7 +2636,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国际法对海峡边界线划定一般原则的说法，正确的有哪几项？（多选）",
@@ -2652,7 +2652,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界主要政治特征的说法，正确的有哪几项？（多选）",
@@ -2668,7 +2668,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于界河边界线划定的说法，正确的有哪几项？（多选）",
@@ -2684,7 +2684,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于英法两国在海峡群岛海域划界问题上的主张，正确的有哪几项？（多选）",
@@ -2700,7 +2700,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会导致两国在边界河流发生争执？（多选）",
@@ -2716,7 +2716,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于自然边界通常依据的自然要素？（多选）",
@@ -2732,7 +2732,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界不稳定对国家间关系影响的说法，正确的有哪几项？（多选）",
@@ -2748,7 +2748,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于国际仲裁法庭对英吉利海峡边界争议裁决的说法，正确的有哪几项？（多选）",
@@ -2764,7 +2764,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于以政治力量作为划界标准的边界典型例子？（多选）",
@@ -2780,7 +2780,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于人为边界与自然边界区别的说法，正确的有哪几项？（多选）",
@@ -2796,7 +2796,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于东西欧划分的说法，正确的有哪几项？（多选）",
@@ -2812,7 +2812,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于印度和巴基斯坦边界划分依据的说法，正确的有哪几项？（多选）",
@@ -2828,7 +2828,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于语言因素在欧洲国家边界划定中作用的说法，正确的有哪几项？（多选）",
@@ -2844,7 +2844,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于现代科技发展对边界军事防御职能影响的说法，正确的有哪几项？（多选）",
@@ -2860,7 +2860,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于几何边界（数理国界）的说法，正确的有哪几项？（多选）",
@@ -2876,7 +2876,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于英吉利海峡在英国历史上防御作用的说法，正确的有哪几项？（多选）",
@@ -2892,7 +2892,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界功能划分类型的说法，正确的有哪几项？（多选）",
@@ -2908,7 +2908,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界法律职能的说法，正确的有哪几项？（多选）",
@@ -2924,7 +2924,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界政治职能的说法，正确的有哪几项？（多选）",
@@ -2940,7 +2940,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于边界政治和法律职能的说法，正确的有哪几项？（多选）",
@@ -2956,7 +2956,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于东德和西德之间边界职能的说法，正确的有哪几项？（多选）",
@@ -2972,7 +2972,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "政治地理",
     "knowledge_type": "多选题",
     "question": "下列关于近代仲裁起源的说法，正确的有哪几项？（多选）",

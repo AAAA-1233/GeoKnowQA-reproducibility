@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "从越南战争到科索沃战争，军事测绘信息反馈速度的变化趋势是下列哪一项？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "军事智能交通系统的主要功能包括下列哪一项？",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于导航卫星系统主要组成部分的说法，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "军事测绘在远程精确制导武器中的主要作用是什么？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "战略巡航导弹的发展对作战形式的主要影响是什么？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "对地观测系统（EOS）的主要目的是下列哪一项？",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "EOS计划由哪三大部分组成？",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "EOS-AM系列卫星的主要观测目标包括下列哪一项？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：缝隙式摄影机通过胶片不断卷动，可以获取连续的条带状航带摄影胶片，适合进行连续的地面观测。",
@@ -139,7 +139,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于绝对重力仪与相对重力仪应用场景的说法，正确的是哪一项？",
@@ -155,7 +155,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "合成孔径雷达通过电气方法提高分辨率的主要原理是什么？",
@@ -171,7 +171,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "低轨卫星作为地球重力场传感器时，其轨道高度与对重力场细部结构的敏感度之间的关系是下列哪一项？",
@@ -187,7 +187,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "航空标量重力测量简化后的观测方程主要包含哪三项改正项？",
@@ -203,7 +203,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于航空重力测量三种类型的说法，正确的是哪一项？",
@@ -219,7 +219,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于地球重力场中长波部分和中短波部分的说法，正确的是哪一项？",
@@ -235,7 +235,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "低轨道卫星更适合测定地球重力场局部特征的主要原因是下列哪一项？",
@@ -251,7 +251,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "全球定位系统（GPS）的卫星星座由多少颗卫星组成？",
@@ -267,7 +267,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于扰动引力的说法，正确的是哪一项？",
@@ -283,7 +283,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在高精度静态相对定位中，将基线向量联结成向量网的主要目的是什么？",
@@ -299,7 +299,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "地面重力测量对导弹发射的作用不包括下列哪一项？",
@@ -315,7 +315,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "静态相对定位与动态相对定位的主要区别在于下列哪一项？",
@@ -331,7 +331,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于GPS码相位观测量和载波相位观测量区别的说法，正确的有哪几项？（多选）",
@@ -347,7 +347,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于绝对定位和相对定位主要区别的说法，正确的是哪一项？",
@@ -363,7 +363,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于静态定位和动态定位适用场景的说法，正确的是哪一项？",
@@ -379,7 +379,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "快速静态相对定位法相比传统静态相对定位的主要优势是下列哪一项？",
@@ -395,7 +395,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "观测数据的提供机构在数据使用中扮演的主要角色是什么？",
@@ -411,7 +411,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "美国首批列装的激光制导炮弹的名称是下列哪一项？",
@@ -427,7 +427,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "制导炮弹与一般炮弹的主要区别在于下列哪一项？",
@@ -443,7 +443,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "GPS制导在炮弹制导中主要起什么作用？",
@@ -459,7 +459,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "末段制导炮弹通常采用的主要制导方式是下列哪一项？",
@@ -475,7 +475,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "卫星制导系统按测量体制可分为哪几类？",
@@ -491,7 +491,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "遥感技术在以下哪一领域具有明显优势？",
@@ -507,7 +507,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于有源与无源卫星制导系统工作方式的说法，正确的是哪一项？",
@@ -523,7 +523,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于巡航导弹精确制导系统主要依赖技术的说法，正确的有哪几项？（多选）",
@@ -539,7 +539,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "惯性制导与地形匹配制导在巡航导弹中协同工作的主要方式是什么？",
@@ -555,7 +555,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于导弹机动发射的说法，正确的是哪一项？",
@@ -571,7 +571,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "机动发射阵地对测地保障的主要要求是下列哪一项？",
@@ -587,7 +587,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "导弹发射点的测地保障主要包括下列哪一项内容？",
@@ -603,7 +603,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "测地保障的精确性主要通过哪一因素影响导弹的命中精度？",
@@ -619,7 +619,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于SRTM项目军事价值的说法，正确的有哪几项？（多选）",
@@ -635,7 +635,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于激光测距法和摄影测向法工作原理的说法，正确的是哪一项？",
@@ -651,7 +651,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "高级锁眼-11卫星在天气良好时的主要侦察功能是下列哪一项？",
@@ -667,7 +667,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "被击落的F-117A飞机驾驶员通过哪种设备实现快速救援？",
@@ -683,7 +683,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "海湾战争中，美军'战斧'式巡航导弹的命中精度是多少？",
@@ -699,7 +699,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "军事地理信息系统在战略决策中的主要作用是什么？",
@@ -715,7 +715,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于电子通视条件在现代战场阵地选择中重要性的说法，正确的是哪一项？",
@@ -731,7 +731,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "C³I系统的四个核心组成部分是下列哪一项？",
@@ -747,7 +747,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在C³I系统中，参数显示、图形显示和图像显示分别以什么形式呈现信息？",
@@ -763,7 +763,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "图论中，中央点的确定主要依据下列哪一项指标？",
@@ -779,7 +779,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "军事空间决策支持系统的核心功能是什么？",
@@ -795,7 +795,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "空间联机分析处理（SOLAP）的主要功能是什么？",
@@ -811,7 +811,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于盲降系统中决断高度点作用的描述，正确的是哪一项？",
@@ -827,7 +827,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "精密进近和着陆与非精密进近的主要区别是下列哪一项？",
@@ -843,7 +843,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于在线军事地理信息服务的说法，正确的是哪一项？",
@@ -859,7 +859,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于近地警告系统（GPWS）和空中交通避撞系统（TCAS）由美国联邦航空局（FAA）规定安装时间的说法，正确的是哪一项？",
@@ -875,7 +875,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于‘城’和‘坞’在字义上区别的说法，正确的是哪一项？",
@@ -891,7 +891,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在界桥之战中，袁绍将‘陷陈’部队部署在什么位置？",
@@ -907,7 +907,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "汉代‘陷陈’部队的主要部署位置包括下列哪一项？",
@@ -923,7 +923,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在汉代‘简募’方式中，传统‘简选’与募赏结合的主要原因是什么？",
@@ -939,7 +939,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "汉代政府利用少数民族士兵参战的方式主要包括下列哪一项？",
@@ -955,7 +955,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "简答题",
     "question": "简述汉代“简募”方式被广泛采用的主要原因。",
@@ -973,7 +973,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在秦楚之际，汉高祖刘邦军队中陷阵破敌的主要兵种是下列哪一项？",
@@ -989,7 +989,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在陈宣帝太建五年（573）的战争中，王琳最初是如何应对肥水灌城战术的？",
@@ -1005,7 +1005,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "李光弼在邙山之役中主张采取哪种战术？",
@@ -1021,7 +1021,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "下列关于阻遏淝水导引灌城战术的描述，正确的是哪一项？",
@@ -1037,7 +1037,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "曹操决定将徐、扬两州南部的居民内迁，主要出于哪一战略考虑？",
@@ -1053,7 +1053,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "三国时期，曹魏寿春守将诸葛诞面对吴军攻势时，采取了下列哪一项措施？",
@@ -1069,7 +1069,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "寿春城池在防御作战中通常采取下列哪一项策略？",
@@ -1085,7 +1085,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "张飞在屯兵固山时采取的主要策略是什么？",
@@ -1101,7 +1101,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于曹魏应对吴军围攻策略的说法，正确的有哪几项？（多选）",
@@ -1117,7 +1117,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在汉朝制度下，统率兵马至万人的将军享有什么特权？",
@@ -1133,7 +1133,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "曹魏淮河流域军屯区的建成对扬州的经济和军事力量产生了什么影响？",
@@ -1149,7 +1149,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "曹魏在颍南、颍北大治诸陂，对两淮地区经济发展产生的影响不包括下列哪一项？",
@@ -1165,7 +1165,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：邓艾的屯田方案中包括将扬州驻军的“分休”制度改为“十二分休”。",
@@ -1175,7 +1175,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：汝口位于寿春之东，是汝水入淮之处。",
@@ -1185,7 +1185,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：洛口位于寿春东北、怀远县南，是洛水北流入淮之处。",
@@ -1195,7 +1195,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：颖口位于颖水入淮之口，在寿春西北的淮河对岸。",
@@ -1205,7 +1205,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：东晋太元八年淝水之战中，先占领颍口的军队是前秦的先锋部队。",
@@ -1215,7 +1215,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：寿春城的内城由楚考烈王所筑，外城由宋武帝所筑。",
@@ -1225,7 +1225,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：肥口位于寿春西南，淮水北岸。",
@@ -1235,7 +1235,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：淝水入淮之口位于寿春西北淮河对岸。",
@@ -1245,7 +1245,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：魏晋南北朝时期城垒建筑中流行的防御工事是在郭城东南角修筑小城。",
@@ -1255,7 +1255,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "根据《水经注》记载，相国城与金城的相对位置关系是下列哪一项？",
@@ -1271,7 +1271,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "寿春南境的江淮丘陵在军事上扮演的主要角色是什么？",
@@ -1287,7 +1287,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "西晋永嘉四年，镇东将军周馥等人请求迁都于寿春，其主要原因是寿春具有哪一方面的优势？",
@@ -1303,7 +1303,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "寿春西境的水网对步兵和骑兵行进的主要影响是什么？",
@@ -1319,7 +1319,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "隋代东都城内的食粮主要依靠哪两座粮仓供应？",
@@ -1335,7 +1335,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "西魏政权在邙山之役失利后，对河阳浮桥与三城的主要战略认识是什么？",
@@ -1351,7 +1351,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：下蔡城位于淮水东岸，是古代淮上要塞的关键地点。",
@@ -1361,7 +1361,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：诸葛亮选择沔阳作为府营驻地的主要原因是沔阳靠近汉中盆地东侧出口，便于东进中原。",
@@ -1371,7 +1371,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：寿春城防御难以被快速攻陷的唯一原因是其城墙坚固。",
@@ -1381,7 +1381,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：北齐河清二年，斛律光在軟关以西修筑了勋掌城及长城二百里，并设置了十三处戍所。",
@@ -1391,7 +1391,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "在六朝战争中，南方军队利用水利工程攻城的主要策略包括下列哪一项？",
@@ -1407,7 +1407,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "寿春城在防御战中，通过筑堰放水阻敌攻城的主要策略不包括下列哪一项？",
@@ -1423,7 +1423,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：北周大象元年，韦孝宽通过袭取五门堰来阻止陈朝军队开塘放水，从而削弱其防御。",
@@ -1433,7 +1433,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：蜀汉攻占汉中后，益州北方的安全威胁完全消除。",
@@ -1443,7 +1443,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：濡须坞的结构形式呈新月形，被称为“偃月坞”或“偃月城”。",
@@ -1453,7 +1453,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：忽必烈为在襄樊地区形成兵力优势，采取了增调援军、分派偏师牵制、大造战船兴练水军和断绝襄樊两城联络等措施。",
@@ -1463,7 +1463,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：李密奇袭回洛仓城时，首先攻占了偃师和金墉城。",
@@ -1473,7 +1473,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "玉璧战役受挫后，高氏统治集团的主要精力包括以下哪些方面？（多选）",
@@ -1489,7 +1489,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "单选题",
     "question": "阳安关在汉中防御体系中的主要角色是下列哪一项？",
@@ -1505,7 +1505,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：诸葛亮在褒斜道防务中，曾在赤崖建立赤岸府库以储存军资。",
@@ -1515,7 +1515,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于蜀汉在汉中四周山险要道所建防御设施的说法，正确的有哪几项？（多选）",
@@ -1531,7 +1531,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列关于魏延在汉中采取的防御战略的说法，正确的有哪几项？（多选）",
@@ -1547,7 +1547,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "判断题",
     "question": "判断正误：刘封和孟达之间的矛盾导致了西城、上庸、房陵这三个地名的丧失。",
@@ -1557,7 +1557,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "军事地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素导致曹操不能在汉中久驻？（多选）",

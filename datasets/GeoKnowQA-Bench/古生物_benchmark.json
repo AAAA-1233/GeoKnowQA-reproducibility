@@ -1505,7 +1505,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "现代腕足动物一般生活在什么样的环境条件下？",
@@ -1521,7 +1521,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "多选题",
     "question": "下列关于腕足动物主要固着方式的说法，正确的有哪几项？（多选）",
@@ -1537,7 +1537,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "多选题",
     "question": "下列关于二叠纪末腕足动物灭绝事件的描述，正确的有哪几项？（多选）",
@@ -1553,7 +1553,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "笔石动物的骨骼主要由下列哪一类物质构成？",
@@ -1569,7 +1569,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "多选题",
     "question": "下列关于腕足动物在地质历史上主要繁盛期的说法，正确的有哪几项？（多选）",
@@ -1585,7 +1585,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "多选题",
     "question": "下列关于中生代腕足动物与古生代相比显著不同的说法，正确的有哪几项？（多选）",
@@ -1601,7 +1601,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "胎管在笔石体生长发育中主要起什么作用？",
@@ -1617,7 +1617,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "笔石枝的分支方式主要包括下列哪两种类型？",
@@ -1633,7 +1633,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "多选题",
     "question": "下列关于正笔石目和树形笔石目胞管类型的说法，正确的有哪几项？（多选）",
@@ -1649,7 +1649,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "笔石枝上胞管的排列方式主要包括下列哪一项？",
@@ -1665,7 +1665,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "正笔石目的笔石枝生长方向中，哪些形式的笔石体以腹侧相向？",
@@ -1681,7 +1681,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "弓笔石的笔石体通常呈现下列哪一项形状？",
@@ -1697,7 +1697,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "信息地理",
+    "domain": "自然地理",
     "subject": "古生物",
     "knowledge_type": "单选题",
     "question": "下列关于四笔石笔石体特征的描述，正确的是哪一项？",

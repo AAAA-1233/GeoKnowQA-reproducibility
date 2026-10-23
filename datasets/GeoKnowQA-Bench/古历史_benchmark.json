@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "汉唐时期我国民族征服异民族的主要方式是什么？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "简答题",
     "question": "简述异族统治中国时期最终被汉族文化同化的主要原因。",
@@ -35,7 +35,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "民国时期的新教育制度正式推行开始于哪一年？",
@@ -51,7 +51,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "中国能够长期保持统一，主要得益于下列哪一项？",
@@ -67,7 +67,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "日军进攻锦州时，中国哪一支部队进行了抵抗？",
@@ -83,7 +83,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "下列关于民国时期地方制度变化的说法，正确的是哪一项？",
@@ -99,7 +99,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "在三权分立制度中，国会的主要职能是下列哪一项？",
@@ -115,7 +115,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "税务司制度最初形成于下列哪一事件？",
@@ -131,7 +131,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "判断题",
     "question": "判断正误：《塘沽协定》签订后，我军撤退至长城一线，日军撤退至延庆、昌平、通州、香河等地。",
@@ -141,7 +141,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "实现国家间完全平等的关键因素是什么？",
@@ -157,7 +157,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "上海租界的市政管理机构是什么？",
@@ -173,7 +173,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "下列哪次会议曾决议组织委员会调查在中国的领事裁判权情况？",
@@ -189,7 +189,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "卢永祥被任命为苏皖赣宣抚使后，依靠哪支军队南下平定局势？",
@@ -205,7 +205,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "判断题",
     "question": "判断正误：冯玉祥回兵北京后与胡景翼、孙岳组织了“国民军”。",
@@ -215,7 +215,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "多选题",
     "question": "宣战案被搁置后，各督军、都统对国会采取了哪些行动？（多选）",
@@ -231,7 +231,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "段祺瑞于民国六年（1917年）四月二十五日在北京召集的军事会议最终达成了什么决定？",
@@ -247,7 +247,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "护国军在通电各省中提到的“鹬蚌之利，真归渔人”意在表达什么警示？",
@@ -263,7 +263,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "日本将胶济铁路沿线军队撤回青岛并撤销民政管理的主要依据是什么？",
@@ -279,7 +279,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "在二十一条谈判的最后阶段，中国政府提出的立场是什么？",
@@ -295,7 +295,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "日军占领潍县车站和胶济铁路全线的时间分别是下列哪一项？",
@@ -311,7 +311,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "日本在青岛设立行政总署的时间是下列哪一年？",
@@ -327,7 +327,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "兴中会成立初期的主要成员包括下列哪一组人物？",
@@ -343,7 +343,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "下列哪一项是中国古代民权思想的代表性观点？",
@@ -359,7 +359,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "下列关于民族思想核心理念的说法，正确的是哪一项？",
@@ -375,7 +375,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "清末清廷将铁路干线收归国有的政策，主要引发了哪四个省份的事变？",
@@ -391,7 +391,7 @@
   },
   {
     "task_type": "short_answer",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "简答题",
     "question": "简述袁世凯成为清廷内阁总理的过程。",
@@ -409,7 +409,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "洪福全在1903年策划起义失败的主要原因是什么？",
@@ -425,7 +425,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "在革命运动初期，革命者主要联络了哪些社会群体？",
@@ -441,7 +441,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "1906年刘道一和蔡绍南在起义中联络了哪些力量？",
@@ -457,7 +457,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "《民报》在同盟会中的主要作用是什么？",
@@ -473,7 +473,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "清代今文学派中，哪一位代表人物以“托古改制”思想著称？",
@@ -489,7 +489,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "中华革命党成立的主要目的是什么？",
@@ -505,7 +505,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "《临时约法》修改后的新名称是什么？",
@@ -521,7 +521,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "熊希龄在担任内阁总理期间，对各省行政长官提出了什么要求？",
@@ -537,7 +537,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "颜元主张的实务学问主要包括下列哪一项？",
@@ -553,7 +553,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "吴派汉学家的研究方法特长主要体现在下列哪一项？",
@@ -569,7 +569,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "判断题",
     "question": "判断正误：汉学与宋学在初期是完全对立的学术流派。",
@@ -579,7 +579,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "多选题",
     "question": "下列关于清代对明代士族势力采取的措施，正确的有哪几项？（多选）",
@@ -595,7 +595,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "清朝雍正时期对地方贱民采取了什么政策？",
@@ -611,7 +611,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "清代理藩院主要用于管理哪一地区？",
@@ -627,7 +627,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "关于吉会铁路问题，中国对满铁会社要求将吉长铁路延伸至延吉并与朝鲜会宁府铁路相接的回应是下列哪一项？",
@@ -643,7 +643,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "中国拟借英款兴修新法铁路，引发了日本怎样的反应？",
@@ -659,7 +659,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "下列关于均势的说法，正确的是哪一项？",
@@ -675,7 +675,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "左宝贵在朝鲜战场上的结局是什么？",
@@ -691,7 +691,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "多选题",
     "question": "下列关于1883年《芝罘条约续增专条》对鸦片厘金征收标准的规定，正确的有哪几项？（多选）",
@@ -707,7 +707,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "清朝穆宗去世后，按照家法应如何选择继承人？",
@@ -723,7 +723,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "单选题",
     "question": "那拉氏选择载湉作为新帝的主要政治考量是什么？",
@@ -739,7 +739,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "多选题",
     "question": "下列关于文宗继位后应对艰难时局采取的措施，正确的有哪几项？（多选）",
@@ -755,7 +755,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "古历史",
     "knowledge_type": "判断题",
     "question": "判断正误：咸同大乱期间，西南地区的回变是由临安汉回之间的冲突引发的。",

@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "大洋中脊的总长度约为多少？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于洋底地形主要组成部分的说法，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "海沟一般出现在下列哪一位置？",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于大陆架和大陆坡主要区别的说法，正确的是哪一项？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "自然地理环境结构主要包括下列哪两个方面？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "在自然综合体的形成中，地形和气候主要扮演什么角色？",
@@ -97,7 +97,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "海洋按位置和特征可分为哪三种主要类型？",
@@ -113,7 +113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于陆半球和水半球中心点位置的说法，正确的是哪一项？",
@@ -129,7 +129,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于海陆对拓分布现象的说法，正确的是哪一项？",
@@ -145,7 +145,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "大西洋两岸大陆海岸线的走向具有下列哪一项特征？",
@@ -161,7 +161,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "亚洲大陆东缘的地貌特征主要表现为下列哪一项？",
@@ -177,7 +177,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于大陆整体轮廓相似性的说法，正确的是哪一项？",
@@ -193,7 +193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "南极洲平均海拔最高，其主要原因是什么？",
@@ -209,7 +209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "陆地上的山脉主要分布在下列哪两大地带？",
@@ -225,7 +225,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于板块边界地貌的说法，正确的是哪一项？",
@@ -241,7 +241,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "剪切型板块边界的主要运动特征是哪一项？",
@@ -257,7 +257,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "挤压型边界常见的地质现象主要包括下列哪一项？",
@@ -273,7 +273,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于板块边界类型及其特点的说法，正确的有哪几项？（多选）",
@@ -289,7 +289,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于火山喷发主要形式的说法，正确的是哪一项？",
@@ -305,7 +305,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "地震按震源深度可以分为哪几类？",
@@ -321,7 +321,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "环太平洋火山带被称为“火环”的主要原因是下列哪一项？",
@@ -337,7 +337,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "火山带与地震带不完全重合的主要原因是下列哪一项？",
@@ -353,7 +353,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "早古生代海生无脊椎动物的代表是下列哪一项？",
@@ -369,7 +369,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "晚古生代末期，两栖动物的一支进化成了下列哪一类动物？",
@@ -385,7 +385,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "世界上主要的地震带不包括下列哪一项？",
@@ -401,7 +401,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "中生代初期泛大陆分裂成了哪两大古陆？",
@@ -417,7 +417,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "白垩纪时期，取代裸子植物统治地位的植物类群是下列哪一项？",
@@ -433,7 +433,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于元古代生物演化重要进展的说法，正确的有哪几项？（多选）",
@@ -449,7 +449,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于地壳演变中绝对年代和相对年代的说法，正确的有哪几项？（多选）",
@@ -465,7 +465,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "古生代大陆漂移的总体趋势是下列哪一项？",
@@ -481,7 +481,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于太古代地壳组成和大气环境特点的说法，正确的是哪一项？",
@@ -497,7 +497,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于隐生宙和显生宙包含的地质年代单位的说法，正确的是哪一项？",
@@ -513,7 +513,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "元古代末期地球上出现的联合古陆是指什么？",
@@ -529,7 +529,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于第三纪时期生物界进化现象的说法，正确的是哪一项？",
@@ -545,7 +545,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于气候分类法的说法，正确的是哪一项？",
@@ -561,7 +561,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "我国气候学家对斯查勒气候分类法的主要修改包括下列哪一项？",
@@ -577,7 +577,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "亚热带大陆性干旱与半干旱气候的形成主要受哪一因素影响？",
@@ -593,7 +593,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "低纬度气候带主要受哪些气团控制？",
@@ -609,7 +609,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "热带海洋性气候主要分布在下列哪一区域？",
@@ -625,7 +625,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于热带季风气候季风特征的描述，正确的是哪一项？",
@@ -641,7 +641,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "热带干湿季气候干季和雨季形成的主要原因是下列哪一项？",
@@ -657,7 +657,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "热带干旱气候型主要分布在下列哪一地理区域？",
@@ -673,7 +673,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于世界“热极”和“干极”的说法，正确的是哪一项？",
@@ -689,7 +689,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "热带西岸多雾干旱气候型的形成主要与下列哪一组洋流有关？",
@@ -705,7 +705,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "中纬度气候带按热量情况可分为哪两类？",
@@ -721,7 +721,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于地中海式气候植被类型和土壤类型的说法，正确的是哪一项？",
@@ -737,7 +737,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "地中海式气候夏季炎热干燥、冬季温和多雨的主要成因是下列哪一项？",
@@ -753,7 +753,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于陆地高纬度气候带的主要气候类型？",
@@ -769,7 +769,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "高地气候垂直地带性形成的主要原因是下列哪一项？",
@@ -785,7 +785,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于气候纬向地带性的说法，正确的是哪一项？",
@@ -801,7 +801,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "中纬度地区气候的非纬向地带性主要由下列哪一因素引起？",
@@ -817,7 +817,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于中纬度大陆西岸与东岸气候类型差异的说法，正确的是哪一项？",
@@ -833,7 +833,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于低纬与高纬山地垂直气候带分异的说法，正确的是哪一项？",
@@ -849,7 +849,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "山地垂直气候带形成的主要原因是下列哪一项？",
@@ -865,7 +865,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "海陆构造运动影响地球气候格局的主要机制是什么？",
@@ -881,7 +881,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "晚石炭纪时期，赤道太平洋暖流对北极地区气候产生显著影响的主要原因是下列哪一项？",
@@ -897,7 +897,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "冰缘气候带的主要外动力是下列哪一项？",
@@ -913,7 +913,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "第四纪冰期最寒冷时期，北半球高纬地区形成的大陆冰盖中，不包括下列哪一项？",
@@ -929,7 +929,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "干旱气候区的主要地貌类型是下列哪一项？",
@@ -945,7 +945,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "地质时期气候变化的主要特征是哪一项？",
@@ -961,7 +961,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "构成河流的两个基本要素是什么？",
@@ -977,7 +977,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "北美洲的分水岭整体形态呈现为下列哪一项？",
@@ -993,7 +993,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于不同气候带河川径流变化特征的描述，正确的是哪一项？",
@@ -1009,7 +1009,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "河流含沙量主要受下列哪一因素影响？",
@@ -1025,7 +1025,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "高纬度地区河流冰情的主要特征是什么？",
@@ -1041,7 +1041,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "密西西比河历史上洪水泛滥的主要原因是下列哪一项？",
@@ -1057,7 +1057,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "伏尔加河的主要补给来源是下列哪一项？",
@@ -1073,7 +1073,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "亚马孙河被称为“河海”的主要原因是下列哪一项？",
@@ -1089,7 +1089,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "堰塞湖的两种主要类型是下列哪一项？",
@@ -1105,7 +1105,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于外流湖和内陆湖矿化度差异的说法，正确的有哪几项？（多选）",
@@ -1121,7 +1121,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "坦噶尼喀湖的成因和形状特点是什么？",
@@ -1137,7 +1137,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "维多利亚湖对周围气候的影响主要体现在下列哪一项？",
@@ -1153,7 +1153,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于潜水自由表面和埋藏深度的说法，正确的是哪一项？",
@@ -1169,7 +1169,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "按照埋藏条件，地下水可以分为哪三大类？",
@@ -1185,7 +1185,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "自流盆地主要由哪三个部分组成？",
@@ -1201,7 +1201,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于燥红土主要分布地区的说法，正确的是哪一项？",
@@ -1217,7 +1217,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "澳大利亚大自流盆地地下水能够自行喷出的主要原因是下列哪一项？",
@@ -1233,7 +1233,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于承压水主要特点的说法，正确的是哪一项？",
@@ -1249,7 +1249,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "红壤和黄壤的形成主要受下列哪一气候条件影响？",
@@ -1265,7 +1265,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "湿草原土被认为是肥力水平最高的土壤之一，其主要原因不包括下列哪一项？",
@@ -1281,7 +1281,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "孔隙水按松散沉积物的成因类型和地貌条件差异进行分类，下列哪一项属于其分类之一？",
@@ -1297,7 +1297,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于棕壤主要特征的描述，正确的是哪一项？",
@@ -1313,7 +1313,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于岩溶水主要特点的说法，正确的是哪一项？",
@@ -1329,7 +1329,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "瓜拉尼含水层系统的主要用途包括下列哪一项？",
@@ -1345,7 +1345,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "瓜拉尼含水层系统需要进行战略性管理和保护的主要原因是什么？",
@@ -1361,7 +1361,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "努比亚砂岩含水层系统主要覆盖了下列哪些国家？",
@@ -1377,7 +1377,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "捷克境内地下水的污染会对波兰造成危害，其主要原因是什么？",
@@ -1393,7 +1393,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于努比亚砂岩含水层系统地下水用途及管理的说法，正确的有哪几项？（多选）",
@@ -1409,7 +1409,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于约旦河西岸含水层系统重要性的说法，正确的有哪几项？（多选）",
@@ -1425,7 +1425,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "砖红壤一旦失去天然植被会变得贫瘠，其主要原因是下列哪一项？",
@@ -1441,7 +1441,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "砖红壤在形成过程中主要经历了哪一化学作用？",
@@ -1457,7 +1457,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "栗钙土主要分布在下列哪一区域？",
@@ -1473,7 +1473,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "荒漠土的形成主要与下列哪一组条件密切相关？",
@@ -1489,7 +1489,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "灰化土的典型土层分化中，位于表层下方、呈灰白色且因强酸性淋溶导致铁铝淋失的层次是下列哪一项？",
@@ -1505,7 +1505,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "隐地带性土壤的形成主要受下列哪一因素控制？",
@@ -1521,7 +1521,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "潜育土的形成主要与下列哪一项水文条件密切相关？",
@@ -1537,7 +1537,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素会影响盐成土壤的形成过程？（多选）",
@@ -1553,7 +1553,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于碱土物理性质恶化的主要表现，正确的有哪些？（多选）",
@@ -1569,7 +1569,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于黑色石灰土和红色石灰土发育程度差异的说法，正确的有哪几项？（多选）",
@@ -1585,7 +1585,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于盐土和碱土在盐分组成上的区别，正确的有哪些？（多选）",
@@ -1601,7 +1601,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于非地带性土壤主要特征的描述，正确的是哪一项？",
@@ -1617,7 +1617,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于冲积土分布区域的描述，正确的有哪几项？（多选）",
@@ -1633,7 +1633,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于土壤纬度地带性形成原因及表现的说法，正确的有哪几项？（多选）",
@@ -1649,7 +1649,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于从低纬到高纬土壤垂直带谱变化趋势的说法，正确的有哪几项？（多选）",
@@ -1665,7 +1665,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于土壤分布的垂直地带性的说法，正确的是哪一项？",
@@ -1681,7 +1681,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "影响土壤垂直带谱类型和结构的主要因素中，纬度变化对垂直带谱的影响表现为下列哪一项？",
@@ -1697,7 +1697,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于山地土壤垂直带谱与土壤纬度带谱关系的说法，正确的有哪几项？（多选）",
@@ -1713,7 +1713,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于从湿润地区到干旱地区山地土壤垂直带谱变化规律的说法，正确的有哪几项？（多选）",
@@ -1729,7 +1729,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于山体高度影响土壤垂直带谱完整性的原因，正确的有哪些？（多选）",
@@ -1745,7 +1745,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "欧亚大陆大陆西岸地带性土壤沿纬度水平分布，从北至南依次为下列哪一项？",
@@ -1761,7 +1761,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于埃塞俄比亚界特有哺乳动物的说法，正确的是哪一项？",
@@ -1777,7 +1777,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "山地坡向对土壤垂直带谱的影响主要体现在下列哪一项？",
@@ -1793,7 +1793,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "古北界与新北界在动物区系上的共同特点，下列哪一项描述是正确的？",
@@ -1809,7 +1809,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于新北界特有的动物科？",
@@ -1825,7 +1825,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于东洋界与古北界动物区系联系的描述，正确的有哪几项？（多选）",
@@ -1841,7 +1841,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于古北界与埃塞俄比亚界动物区系差异的说法，正确的有哪几项？（多选）",
@@ -1857,7 +1857,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于非洲土壤分布特点的说法，正确的是哪一项？",
@@ -1873,7 +1873,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "南美洲土壤类型在南北回归线附近的分布变化，下列哪一项描述是正确的？",
@@ -1889,7 +1889,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素影响了北美洲土壤的分布格局？（多选）",
@@ -1905,7 +1905,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于生物区系定义的描述，正确的有哪几项？（多选）",
@@ -1921,7 +1921,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于澳大利亚土壤分布空间格局的说法，正确的有哪几项？（多选）",
@@ -1937,7 +1937,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于塔赫他间世界植物区系分区系统层级的说法，正确的有哪几项？（多选）",
@@ -1953,7 +1953,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "世界生物分布格局主要受哪三种自然阻限影响？",
@@ -1969,7 +1969,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于古地中海亚区所包含的植物地区？",
@@ -1985,7 +1985,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于泛北极植物区的特有科？",
@@ -2001,7 +2001,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "植物区系分布与动物区系分布的主要区别在于下列哪一项？",
@@ -2017,7 +2017,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "新热带植物区主要包括下列哪些地理区域？",
@@ -2033,7 +2033,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于新热带界动物区系主要特点的说法，正确的是哪一项？",
@@ -2049,7 +2049,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于古热带植物区的特有科？",
@@ -2065,7 +2065,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于开普植物区主要特征的描述，正确的是哪一项？",
@@ -2081,7 +2081,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列关于稀树草原散生乔木耐旱适应特征的描述，正确的是哪一项？",
@@ -2097,7 +2097,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "红树林的胎生现象主要通过哪两种机制帮助幼苗适应潮间带环境？",
@@ -2113,7 +2113,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "晚白垩世全球形成了多少个相对隔离的生物分布中心？",
@@ -2129,7 +2129,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于晚二叠纪至三叠纪期间植物区系主要变化的说法，正确的有哪几项？（多选）",
@@ -2145,7 +2145,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于侏罗纪时期南北半球植物分布差异的说法，正确的有哪几项？（多选）",
@@ -2161,7 +2161,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项是强烈影响生物地理分布的主要地质因素？",
@@ -2177,7 +2177,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "更新世冰期和间冰期的交替对植物区系的主要影响是什么？",
@@ -2193,7 +2193,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "热带雨林的基本结构层次主要包括下列哪一项？",
@@ -2209,7 +2209,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "单选题",
     "question": "亚热带地区主要包含的气候类型是下列哪一项？",
@@ -2225,7 +2225,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于夏绿阔叶林全球主要分布区域的描述，正确的有哪几项？（多选）",
@@ -2241,7 +2241,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "人文地理",
+    "domain": "自然地理",
     "subject": "世界自然地理",
     "knowledge_type": "多选题",
     "question": "下列关于常绿硬叶林主要分布地区的说法，正确的有哪几项？（多选）",

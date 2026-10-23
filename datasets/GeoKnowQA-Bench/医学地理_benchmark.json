@@ -1,7 +1,7 @@
 [
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于“第三状态”的说法，正确的是哪一项？",
@@ -17,7 +17,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于不同景观或景观地带形成疾病分布差异的原因，正确的有哪几项？（多选）",
@@ -33,7 +33,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于医学地理学学科术语的表述，正确的有哪几项？（多选）",
@@ -49,7 +49,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "自然系统的概念对疾病发生和分布的研究产生了怎样的影响？",
@@ -65,7 +65,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "现代医学地理学研究中，将地方作为独立研究对象的主要目的是什么？",
@@ -81,7 +81,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "判断题",
     "question": "判断正误：富克斯在医学地理学研究中只强调了气象气候因素对疾病的影响。",
@@ -91,7 +91,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "人类活动对疾病生态学地理因素的影响，主要体现在下列哪一项？",
@@ -107,7 +107,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于医学气象气候学的主要研究内容？（多选）",
@@ -123,7 +123,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于概率制图相比圆点地图优势的说法，正确的有哪几项？（多选）",
@@ -139,7 +139,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于医学地图编制所依据的信息资料？（多选）",
@@ -155,7 +155,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "地方性氟中毒的高氟环境形成的主要原因是什么？",
@@ -171,7 +171,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于非洲淋巴瘤带分布的环境影响因素，正确的有哪些？（多选）",
@@ -187,7 +187,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于北欧、英国等地多种硬化症与生态系统相互作用关系的说法，正确的有哪几项？（多选）",
@@ -203,7 +203,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于法国在疾病地理研究方面新尝试的说法，正确的有哪几项？（多选）",
@@ -219,7 +219,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素推动了医学地图编制重点从大尺度转向小尺度？（多选）",
@@ -235,7 +235,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "克山病和大骨节病病因研究中发现的重要规律不包括下列哪一项？",
@@ -251,7 +251,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "环境污染成为医学地理学新课题的主要原因是下列哪一项？",
@@ -267,7 +267,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于我国在疗养地建设方面取得的显著成绩？（多选）",
@@ -283,7 +283,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于监测点网布设原则的说法，正确的有哪几项？（多选）",
@@ -299,7 +299,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于癌症发病率全球上升原因的说法，正确的有哪几项？（多选）",
@@ -315,7 +315,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "人体与地理环境之间最本质的联系是什么？",
@@ -331,7 +331,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于人类经济活动对地理环境原始生态平衡影响的说法，正确的有哪几项？（多选）",
@@ -347,7 +347,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于影响人体健康和疾病分布的主要自然地理因素？（多选）",
@@ -363,7 +363,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于地理环境各要素对人体健康影响综合性和不可分割性的原因，正确的有哪几项？（多选）",
@@ -379,7 +379,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于人文社会因素对健康产生不利影响的主要方面，正确的有哪些？（多选）",
@@ -395,7 +395,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于温带森林草原和草原黑钙土地带化学元素含量对人体健康影响的说法，正确的有哪几项？（多选）",
@@ -411,7 +411,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些因素属于非地带性成因类型区域形成的主要影响因素？（多选）",
@@ -427,7 +427,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于生物小循环导致微量元素在表土中富集的过程，正确的说法有哪些？（多选）",
@@ -443,7 +443,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些属于人为因素影响非地带性地球化学成因类型区域形成的主要方式？（多选）",
@@ -459,7 +459,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "缺硒病在全球范围内的分布主要遵循下列哪一地域分异规律？",
@@ -475,7 +475,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于铬在不同岩浆岩中含量差异的说法，正确的是哪一项？",
@@ -491,7 +491,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于人体内元素与地壳及海水中元素分布相关性的说法，正确的有哪几项？（多选）",
@@ -507,7 +507,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于地球化学性疾病的说法，正确的是哪一项？",
@@ -523,7 +523,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "地理环境的区域化学组成不平衡导致健康问题的主要原因是下列哪一项？",
@@ -539,7 +539,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "镁对稳定RNA和DNA结构的主要作用机制是什么？",
@@ -555,7 +555,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于环境中氟的丰度与健康关系的说法，正确的是哪一项？",
@@ -571,7 +571,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "环境化学元素的抗毒性作用主要表现在下列哪一项？",
@@ -587,7 +587,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于氧在人体内主要功能的说法，正确的有哪几项？（多选）",
@@ -603,7 +603,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于二氧化氮中毒初期症状的描述，正确的是哪一项？",
@@ -619,7 +619,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于环境中镁的主要来源的说法，正确的有哪几项？（多选）",
@@ -635,7 +635,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于镁元素在人体内主要功能的说法，正确的是哪一项？",
@@ -651,7 +651,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于钙与镁之间拮抗作用的表现，正确的是哪一项？",
@@ -667,7 +667,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "土壤盐度通过食物链影响食管癌发病率的主要机制是什么？",
@@ -683,7 +683,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "过量摄入氯化钠对消化系统的主要影响是下列哪一项？",
@@ -699,7 +699,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "食盐摄入量与高血压之间存在怎样的关系？",
@@ -715,7 +715,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于钠在人体中主要生理功能的说法，正确的是哪一项？",
@@ -731,7 +731,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于环境中钾和镁不平衡对健康影响的说法，正确的有哪几项？（多选）",
@@ -747,7 +747,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于钾在人体内主要分布和作用的说法，正确的是哪一项？",
@@ -763,7 +763,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于磷在自然界中丰度的说法，正确的是哪一项？",
@@ -779,7 +779,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于磷在人体中主要功能的说法，正确的是哪一项？",
@@ -795,7 +795,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "磷缺乏主要会导致下列哪一类疾病？",
@@ -811,7 +811,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于硫在人体中作用的说法，正确的是哪一项？",
@@ -827,7 +827,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于锌参与酶反应的描述，正确的是哪一项？",
@@ -843,7 +843,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于北威尔士胃癌高发与土壤中缺铜富硒关系的说法，正确的有哪几项？（多选）",
@@ -859,7 +859,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "地壳中下列哪种岩石类型的含硒量最高？",
@@ -875,7 +875,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于缺铜环境对人体健康影响的说法，正确的有哪几项？（多选）",
@@ -891,7 +891,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于三价铬在人体内对胰岛素功能的作用，正确的是哪一项？",
@@ -907,7 +907,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "六价铬主要通过哪些途径对人体健康造成危害？",
@@ -923,7 +923,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于锰中毒症状和诱因的说法，正确的有哪几项？（多选）",
@@ -939,7 +939,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于土壤中锰含量地域差异对人体健康影响的说法，正确的是哪一项？",
@@ -955,7 +955,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "过量摄入钴元素可能对人体造成的主要健康问题包括下列哪一项？",
@@ -971,7 +971,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于沉积岩与岩浆岩中铬含量的比较，正确的是哪一项？",
@@ -987,7 +987,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于食品精制过程对铬含量影响的说法，正确的有哪几项？（多选）",
@@ -1003,7 +1003,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "低铝地区可能引发下列哪一项健康问题？",
@@ -1019,7 +1019,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于影响土壤碘含量的生态因素，说法正确的是哪一项？",
@@ -1035,7 +1035,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "氟化物对人体内酶和蛋白质代谢的主要影响机制是什么？",
@@ -1051,7 +1051,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于原生地貌与次生地貌形成机制的说法，正确的是哪一项？",
@@ -1067,7 +1067,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于汞在人体内蓄积导致健康问题的说法，正确的是哪一项？",
@@ -1083,7 +1083,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "地貌因素通过淋溶—蓄积体系影响人体健康的主要机制是什么？",
@@ -1099,7 +1099,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于锗元素对人体生理作用的描述，正确的是哪一项？",
@@ -1115,7 +1115,7 @@
   },
   {
     "task_type": "true_false",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "判断题",
     "question": "判断正误：镍元素对人体仅通过皮肤和粘膜刺激产生毒性作用。",
@@ -1125,7 +1125,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于地方性甲状腺肿患病率与地貌类型关系的说法，正确的有哪几项？（多选）",
@@ -1141,7 +1141,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "山区河谷地带及冲积小平原地方性甲状腺肿患病率较高的主要原因是下列哪一项？",
@@ -1157,7 +1157,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "冰碛自然地域综合体的土壤特点与地方性甲状腺肿发病率之间的关系是下列哪一项？",
@@ -1173,7 +1173,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "地方性甲状腺肿的主要病理机制是下列哪一项？",
@@ -1189,7 +1189,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "陕西秦岭、大巴山及陇山地区地方性甲状腺肿发病率与海拔高度的关系是下列哪一项？",
@@ -1205,7 +1205,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列哪些环境因素与高山病的发生有关？（多选）",
@@ -1221,7 +1221,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "山地土壤中碘含量的变化主要受下列哪一因素影响？",
@@ -1237,7 +1237,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "地方性甲状腺肿多见于山地受侵蚀强烈的坡面，其主要原因是下列哪一项？",
@@ -1253,7 +1253,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "海洋中的碘通过气流向陆地输送的主要机制是下列哪一项？",
@@ -1269,7 +1269,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "大骨节病在国外分布的共同特点是什么？",
@@ -1285,7 +1285,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "劳动强度对红细胞增多型高山病的发病率有何影响？",
@@ -1301,7 +1301,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于蒙赫氏病主要临床表现的说法，正确的有哪几项？（多选）",
@@ -1317,7 +1317,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于高海拔地区人体生理变化的描述，正确的是哪一项？",
@@ -1333,7 +1333,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "高原山地适应不全症的基本原因是什么？",
@@ -1349,7 +1349,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "高山高原环境下儿童徇偻病发病率较高的主要原因是下列哪一项？",
@@ -1365,7 +1365,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "钩端螺旋体病更容易流行的地理环境是下列哪一项？",
@@ -1381,7 +1381,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "斯里兰卡地方性氟中毒的相对高发区主要分布在下列哪一类地区？",
@@ -1397,7 +1397,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列哪一项属于导致高海拔地区冰冻损伤的主要因素？",
@@ -1413,7 +1413,7 @@
   },
   {
     "task_type": "single_choice",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "单选题",
     "question": "下列关于氟在人体生命活动中作用的说法，正确的是哪一项？",
@@ -1429,7 +1429,7 @@
   },
   {
     "task_type": "multiple_select",
-    "domain": "自然地理",
+    "domain": "人文地理",
     "subject": "医学地理",
     "knowledge_type": "多选题",
     "question": "下列关于黄土地带中容易形成高氟环境的地貌类型的说法，正确的有哪几项？（多选）",
