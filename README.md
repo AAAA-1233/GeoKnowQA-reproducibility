@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README-EN.md">English</a> |
+  <a href="./README.md">简体中文</a>
+</p>
+
 # GeoKnowQA Reproducibility
 
 本仓库提供GeoKnowQA数据集以及其相关模型微调训练、评测、数据集语义重复性分析代码，用于支持论文实验结果的复现。
