@@ -1,7 +1,12 @@
-<p align="right">
-  <a href="./README-EN.md">English</a> |
-  <a href="./README.md">简体中文</a>
-</p>
+<div align="center">
+
+# 🌍 GeoKnowQA Reproducibility
+
+**A Discipline-Structured Geography QA Dataset for LLM Training and Evaluation**
+
+🌐 [English](./README-EN.md) | [简体中文](./README.md)
+
+</div>
 
 # GeoKnowQA Reproducibility
 
