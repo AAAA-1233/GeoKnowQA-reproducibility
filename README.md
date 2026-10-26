@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 GeoKnowQA Reproducibility
+# 🌍 GeoKnowQA
 
 **A Discipline-Structured Geography QA Dataset for LLM Training and Evaluation**
 
